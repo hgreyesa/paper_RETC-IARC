@@ -1,0 +1,8 @@
+You must download the dataset from zenodo.
+Reyes-Anastacio, H. G., Lopez-Arevalo, I., Gonzalez-Compean, J. L., 
+Crespo-Sanchez, M., & Calderon Hernandez, J. (2025). 
+A Mexican Enhanced Dataset of Pollutant Releases and Transfers (2004 to 2022) 
+with IARC Cancer Classifications [Data set]. Zenodo. 
+https://doi.org/10.5281/zenodo.17100697
+
+You must move the dataset to this folder.

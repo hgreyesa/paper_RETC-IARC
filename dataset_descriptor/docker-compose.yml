@@ -1,0 +1,17 @@
+services:
+  descriptor_generator:
+    image: resume_db_retc
+    container_name: resume_db_retc
+    restart: always
+    build:
+      context: ./
+      dockerfile: ./Dockerfile
+    working_dir: /app
+    command: "tail -f /dev/null" 
+    volumes:
+      - ./Scripts:/app  
+      - ./datasource:/home/input/  
+      - ./Result:/home/output/  
+    environment:
+      - INPUT_PATH=/home/input/
+      - OUTPUT_PATH=/home/output/
