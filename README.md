@@ -7,16 +7,15 @@ This document describes the stages of the data processing life cycle followed to
 ### Facilies dataset
 
 Facilities data life cycle
-```html
-<img src="figures/fig_2.png" alt="Facilities data life cycle" width="600" />
-```
+
+![Facilities data life cycle](figures/fig_2.png)
 
 ### Pollutant Releases and Transfer Dataset
 
 Pollutant Releases and Transfer data life cycle
-```html
-<img src="figures/fig_3.png" alt="Pollutant Releases and Transfer data life cycle" width="600" />
-```
+
+
+![Pollutant Releases and Transfer data life cycle](figures/fig_3.png)
 
 
 ## Dataset description report
