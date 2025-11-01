@@ -4,18 +4,20 @@ This document describes the stages of the data processing life cycle followed to
 
 ## Used pilelines 
 
+We include the first two stages for the proposed methodology. The remaining stages will be included when the article is published.
+
 ### Facilies dataset
 
 Facilities data life cycle
 
-![Facilities data life cycle](figures/fig_2.png)
+![Facilities data life cycle](./figures/fig_2.png)
 
 ### Pollutant Releases and Transfer Dataset
 
 Pollutant Releases and Transfer data life cycle
 
 
-![Pollutant Releases and Transfer data life cycle](figures/fig_3.png)
+![Pollutant Releases and Transfer data life cycle](./figures/fig_3.png)
 
 
 ## Dataset description report
