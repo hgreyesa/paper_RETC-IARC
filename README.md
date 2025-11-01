@@ -6,11 +6,12 @@ This document describes the stages of the data processing life cycle followed to
 
 We include the first two stages for the proposed methodology. The remaining stages will be included when the article is published.
 
-### Facilies dataset
+### Facilities dataset
 
 Facilities data life cycle
 
 ![Facilities data life cycle](./figures/fig_2.png)
+
 
 ### Pollutant Releases and Transfer Dataset
 
@@ -21,14 +22,14 @@ Pollutant Releases and Transfer data life cycle
 
 
 ## Dataset description report
-The file *RETC20042022-IARC136_report.html* with the dataset description is in the *dataset_descriptor/Result/* path in this repository. However we share de python script that reads the anonymized dataset and creates the report. The script is availabe in the *dataset_descritor* path. You can create the report by following the steps described in the following section.
+The file *RETC20042022-IARC136_report.html* with the dataset description is in the *dataset_descriptor/Result/* path in this repository. However, we share the python script that reads the anonymized dataset and creates the report. The script is available in the *dataset_descritor* path. You can create the report by following the steps described in the following section.
 
 ## Create database description
 
 Requirements:
     * Docker Community Edition: To deploy the creation process
     * Docker compose service
-    * Internet connection: To download the python container image
+    * Internet connection: To download the Python container image
 
 Download the dataset described in the *dataset_descriptor/datasource/DATASET.txt* file.
 
