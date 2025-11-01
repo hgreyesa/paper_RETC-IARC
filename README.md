@@ -6,7 +6,18 @@ This document describes the stages of the data processing life cycle followed to
 
 ### Facilies dataset
 
+Facilities data life cycle
+```html
+<img src="figures/fig_2.png" alt="Facilities data life cycle" width="600" />
+```
+
 ### Pollutant Releases and Transfer Dataset
+
+Pollutant Releases and Transfer data life cycle
+```html
+<img src="figures/fig_3.png" alt="Pollutant Releases and Transfer data life cycle" width="600" />
+```
+
 
 ## Dataset description report
 The file *RETC20042022-IARC136_report.html* with the dataset description is in the *dataset_descriptor/Result/* path in this repository. However we share de python script that reads the anonymized dataset and creates the report. The script is availabe in the *dataset_descritor* path. You can create the report by following the steps described in the following section.
@@ -29,3 +40,4 @@ python3 create_report.py #This process may take several minutes.
 # To exit of the Virtual Container use the Ctrl + P + Q
 docker compose down #Remove de container from your pc
 ```
+
