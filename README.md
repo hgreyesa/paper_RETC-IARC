@@ -6,22 +6,7 @@ This document describes the stages of the data processing life cycle followed to
 
 We include the first two stages for the proposed methodology. The remaining stages will be included when the article is published.
 
-### Facilities dataset
-
-Facilities data life cycle
-
-![Facilities data life cycle](./figures/fig_2.png)
-
-
-### Pollutant Releases and Transfer Dataset
-
-Pollutant Releases and Transfer data life cycle
-
-
-![Pollutant Releases and Transfer data life cycle](./figures/fig_3.png)
-
-
-### Initialize preprocessing
+### Fist steps: Initialize preprocessing
 
 1. Download the data from the Semarnat
 2. Acces to the datalifecycle folder
@@ -37,14 +22,29 @@ Pollutant Releases and Transfer data life cycle
     python3 p002_prepare_columns.py
     ```
 
-4. Execute Facilities scripts
+### Facilities dataset
+
+Facilities data life cycle
+
+![Facilities data life cycle](./figures/fig_2.png)
+
+1. Acces to the datalifecycle folder
+2. Execute Facilities scripts
 
     ```
     python3 Pf1.py
     python3 Pf2.py
     ```
 
-5. Execute PRT scripts 
+### Pollutant Releases and Transfer Dataset
+
+Pollutant Releases and Transfer data life cycle
+
+
+![Pollutant Releases and Transfer data life cycle](./figures/fig_3.png)
+
+1. Acces to the datalifecycle folder
+2. Execute PRT scripts 
     ```
     python3 Pprt1.py
     python3 Pprt2.py
