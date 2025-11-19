@@ -21,6 +21,36 @@ Pollutant Releases and Transfer data life cycle
 ![Pollutant Releases and Transfer data life cycle](./figures/fig_3.png)
 
 
+### Initialize preprocessing
+
+1. Download the data from the Semarnat
+2. Acces to the datalifecycle folder
+    ```sh
+    cd datalifecycle
+    ```
+3. Execute the preparation scripts
+    ```
+    pip install pandas
+    pip install numpy
+    pip install pandas[excel]
+    python3 p001_transform_to_csv.py
+    python3 p002_prepare_columns.py
+    ```
+
+4. Execute Facilities scripts
+
+    ```
+    python3 Pf1.py
+    python3 Pf2.py
+    ```
+
+5. Execute PRT scripts 
+    ```
+    python3 Pprt1.py
+    python3 Pprt2.py
+    ```
+
+
 ## Dataset description report
 The file *RETC20042022-IARC136_report.html* with the dataset description is in the *dataset_descriptor/Result/* path in this repository. However, we share the python script that reads the anonymized dataset and creates the report. The script is available in the *dataset_descritor* path. You can create the report by following the steps described in the following section.
 
