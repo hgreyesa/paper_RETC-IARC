@@ -39,7 +39,7 @@ print("Solve inconsistencies")
 
 for index, row in municipalietes_list.iterrows():
     print(f"\t{row["municipality"]}")
-    facilities_data.loc[(facilities_data["municipio"] == row["dataset_municipality"]) & (facilities_data["estado"] == row["state"]),"municipio"] = row["municipality"]
+    facilities_data.loc[(facilities_data["municipio"] == row["dataset_municipality"]) & (facilities_data["estado"] == row["state"]),"municipio"] = str(row["municipality"]).zfill(3)
     
 print("Add cve_mun")
 municipalietes_file = "management/cve_ent_mun_list_v1.csv"
@@ -47,7 +47,7 @@ municipalietes_list = pd.read_csv(municipalietes_file, encoding="utf-8-sig", dty
 
 for index, row in municipalietes_list.iterrows():
     print(f"\t{row["state"]} {row['municipality']}")
-    facilities_data.loc[(facilities_data["cve_ent"] == row["cve_ent"]) & (facilities_data["municipio"] == row["municipality"]),"cve_mun"] = row["cve_mun"]
+    facilities_data.loc[(facilities_data["cve_ent"] == row["cve_ent"]) & (facilities_data["municipio"] == row["municipality"]),"cve_mun"] = str(row["cve_mun"]).zfill(3)
     
     
 facilities_data.to_csv("results/stage5/facilities-2004-2022_v2.csv", encoding="utf-8-sig", index=False)
