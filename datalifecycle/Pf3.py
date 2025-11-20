@@ -44,7 +44,6 @@ for index, row in sectors_list.iterrows():
         
         print(f"Update '{row["dataset_industrialsectorname"]}' to '{row['industrialsectorname']}' for these inconsistencies: '{row["note"]}'")
         facilities_data.loc[facilities_data["sector"] == row["dataset_industrialsectorname"],"sector"] = row["industrialsectorname"]
-        facilities_data.loc[facilities_data["sector"] == row["dataset_industrialsectorname"],"sector"] = row["industrialsectorname"]
     
     filtered_data = sectors_metadata[sectors_metadata["industrialsectorname"] == row["industrialsectorname"]]#
     current_name = filtered_data["industrialsectorname_en"].iloc[0]
