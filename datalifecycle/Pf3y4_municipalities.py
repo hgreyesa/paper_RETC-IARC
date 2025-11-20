@@ -28,7 +28,7 @@ def get_municipalities_names():
 
 # updated the inconsistencies (manually)
 dataset_file = "results/stage5/facilities-2004-2022_v1.csv"
-facilities_data = pd.read_csv(dataset_file, encoding="utf-8-sig", dtype={"cve_ent":str}, low_memory=False)
+facilities_data = pd.read_csv(dataset_file, encoding="utf-8-sig", dtype={"cve_ent":str, "cve_mun":str}, low_memory=False)
 
 # #Read and apply the changes in the states list detected for the research team
 municipalietes_file = "management/municipalities_inconsistencies.csv"
