@@ -1,0 +1,2464 @@
+﻿cve_ent,state,cve_mun,municipality,lat,lng
+01,Aguascalientes,001,Aguascalientes,21.8852562,-102.2915677
+01,Aguascalientes,002,Asientos,22.2390573,-102.0894438
+01,Aguascalientes,003,Calvillo,21.8469479,-102.7187031
+01,Aguascalientes,004,Cosío,22.3656529,-102.2997344
+01,Aguascalientes,005,Jesús María,21.9596795,-102.3431582
+01,Aguascalientes,006,Pabellón de Arteaga,22.1465261,-102.2792433
+01,Aguascalientes,007,Rincón de Romos,22.2292724,-102.3203483
+01,Aguascalientes,008,San José de Gracia,22.1483042,-102.4144927
+01,Aguascalientes,009,Tepezalá,22.2241419,-102.1738022
+01,Aguascalientes,010,El Llano,21.91787,-101.9639918
+01,Aguascalientes,011,San Francisco de los Romo,22.0723693,-102.2703655
+02,Baja California,001,Ensenada,31.8667427,-116.5963713
+02,Baja California,002,Mexicali,32.3358168,-115.4733554
+02,Baja California,003,Tecate,32.563609,-116.6256752
+02,Baja California,004,Tijuana,32.5149469,-117.0382471
+02,Baja California,005,Playas de Rosarito,32.258483,-116.8674757
+03,Baja California Sur,001,Comondú,25.0376061,-111.6628218
+03,Baja California Sur,002,Mulegé,27.3380897,-112.2689605
+03,Baja California Sur,003,La Paz,24.1426408,-110.3127531
+03,Baja California Sur,008,Los Cabos,23.0798696,-109.7124043
+03,Baja California Sur,009,Loreto,26.0125624,-111.351769
+04,Campeche,001,Calkiní,20.4258078,-90.3748354
+04,Campeche,002,Campeche,19.6637915,-90.2244662
+04,Campeche,003,Carmen,18.5170939,-91.443469
+04,Campeche,004,Champotón,19.0921307,-90.5257823
+04,Campeche,005,Hecelchakán,20.0925758,-90.1120696
+04,Campeche,006,Hopelchén,19.3777669,-89.5497632
+04,Campeche,007,Palizada,18.3215384,-92.0665197
+04,Campeche,008,Tenabo,19.9971319,-90.2620042
+04,Campeche,009,Escárcega,18.3325335,-90.2244662
+04,Campeche,010,Calakmul,18.4273698,-89.7004215
+04,Campeche,011,Candelaria,18.1416823,-90.6773046
+05,Coahuila de Zaragoza,001,Abasolo,27.1810339,-101.4246049
+05,Coahuila de Zaragoza,002,Acuña,29.3232963,-100.9514187
+05,Coahuila de Zaragoza,003,Allende,28.3498233,-100.850791
+05,Coahuila de Zaragoza,004,Arteaga,25.4546718,-100.850791
+05,Coahuila de Zaragoza,005,Candela,26.8359647,-100.6668763
+05,Coahuila de Zaragoza,006,Castaños,26.7820623,-101.41736
+05,Coahuila de Zaragoza,007,Cuatro Ciénegas,26.9868149,-102.066403
+05,Coahuila de Zaragoza,008,Escobedo,27.2353087,-101.4129446
+05,Coahuila de Zaragoza,009,Francisco I. Madero,25.7784224,-103.2605763
+05,Coahuila de Zaragoza,010,Frontera,26.9377144,-101.4446968
+05,Coahuila de Zaragoza,011,General Cepeda,25.3751299,-101.4739959
+05,Coahuila de Zaragoza,012,Guerrero,28.3096893,-100.3780447
+05,Coahuila de Zaragoza,013,Hidalgo,27.7881397,-99.8741126
+05,Coahuila de Zaragoza,014,Jiménez,29.0652796,-100.6798162
+05,Coahuila de Zaragoza,015,Juárez,27.6071402,-100.7263494
+05,Coahuila de Zaragoza,016,Lamadrid,27.0506722,-101.7952805
+05,Coahuila de Zaragoza,017,Matamoros,25.5260426,-103.2259525
+05,Coahuila de Zaragoza,018,Monclova,26.9080378,-101.4215236
+05,Coahuila de Zaragoza,019,Morelos,28.4070929,-100.8850709
+05,Coahuila de Zaragoza,020,Múzquiz,27.8788152,-101.5161615
+05,Coahuila de Zaragoza,021,Nadadores,27.0253414,-101.5922319
+05,Coahuila de Zaragoza,022,Nava,28.4242507,-100.7646846
+05,Coahuila de Zaragoza,023,Ocampo,27.3145775,-102.3976475
+05,Coahuila de Zaragoza,024,Parras,25.4492883,-102.1747077
+05,Coahuila de Zaragoza,025,Piedras Negras,28.6916182,-100.5408622
+05,Coahuila de Zaragoza,026,Progreso,27.4280199,-100.9877821
+05,Coahuila de Zaragoza,027,Ramos Arizpe,25.5411499,-100.9483074
+05,Coahuila de Zaragoza,028,Sabinas,27.8647835,-101.1334267
+05,Coahuila de Zaragoza,029,Sacramento,27.0035837,-101.724261
+05,Coahuila de Zaragoza,030,Saltillo,25.4383234,-100.973678
+05,Coahuila de Zaragoza,031,San Buenaventura,27.0554305,-101.5441455
+05,Coahuila de Zaragoza,032,San Juan de Sabinas,27.9270787,-101.3023954
+05,Coahuila de Zaragoza,033,San Pedro,25.7572143,-102.9838564
+05,Coahuila de Zaragoza,034,Sierra Mojada,27.2906955,-103.7014059
+05,Coahuila de Zaragoza,035,Torreón,25.5428443,-103.4067861
+05,Coahuila de Zaragoza,036,Viesca,25.3453848,-102.8083503
+05,Coahuila de Zaragoza,037,Villa Unión,28.2237682,-100.7255689
+05,Coahuila de Zaragoza,038,Zaragoza,28.4824485,-100.9158363
+06,Colima,001,Armería,18.9336111,-103.9997222
+06,Colima,002,Colima,19.2432667,-103.7248916
+06,Colima,003,Comala,19.3190634,-103.7549847
+06,Colima,004,Coquimatlán,19.2038832,-103.8088249
+06,Colima,005,Cuauhtémoc,19.3293658,-103.6018609
+06,Colima,006,Ixtlahuacán,18.9995683,-103.7364169
+06,Colima,007,Manzanillo,19.1138094,-104.3384616
+06,Colima,008,Minatitlán,19.3863494,-104.0494726
+06,Colima,009,Tecomán,18.9173829,-103.8738031
+06,Colima,010,Villa de Álvarez,19.2662338,-103.7390574
+07,Chiapas,001,Acacoyagua,15.3400347,-92.6742154
+07,Chiapas,002,Acala,16.5543648,-92.8053731
+07,Chiapas,003,Acapetahua,15.2795299,-92.6906431
+07,Chiapas,004,Altamirano,16.7342989,-92.0362219
+07,Chiapas,005,Amatán,17.373333,-92.8175529
+07,Chiapas,006,Amatenango de la Frontera,15.4340018,-92.1169335
+07,Chiapas,007,Amatenango del Valle,16.5119899,-92.4284291
+07,Chiapas,008,Angel Albino Corzo,15.8722105,-92.7235178
+07,Chiapas,009,Arriaga,16.2371385,-93.8986279
+07,Chiapas,010,Bejucal de Ocampo,15.454191,-92.1603735
+07,Chiapas,011,Bella Vista,15.5843705,-92.2495011
+07,Chiapas,012,Berriozábal,16.7978347,-93.2734517
+07,Chiapas,013,Bochil,16.9965515,-92.8963776
+07,Chiapas,014,El Bosque,17.0624692,-92.7209999
+07,Chiapas,015,Cacahoatán,14.9958182,-92.1671288
+07,Chiapas,016,Catazajá,17.7235734,-92.0113139
+07,Chiapas,017,Cintalapa,16.6859535,-93.7285585
+07,Chiapas,018,Coapilla,17.1304682,-93.159181
+07,Chiapas,019,Comitán de Domínguez,16.2358963,-92.1275672
+07,Chiapas,020,La Concordia,16.1148283,-92.6859623
+07,Chiapas,021,Copainalá,17.0918689,-93.2108136
+07,Chiapas,022,Chalchihuitán,16.9634498,-92.6164463
+07,Chiapas,023,Chamula,16.7869428,-92.6875907
+07,Chiapas,024,Chanal,16.6548596,-92.2614921
+07,Chiapas,025,Chapultenango,17.3393929,-93.1296999
+07,Chiapas,026,Chenalhó,16.8981342,-92.6241534
+07,Chiapas,027,Chiapa de Corzo,16.7252784,-93.0195034
+07,Chiapas,028,Chiapilla,16.5686207,-92.7212051
+07,Chiapas,029,Chicoasén,16.9684282,-93.1052211
+07,Chiapas,030,Chicomuselo,15.7435809,-92.282192
+07,Chiapas,031,Chilón,17.1046837,-92.2736561
+07,Chiapas,032,Escuintla,15.3232503,-92.6586163
+07,Chiapas,033,Francisco León,17.2879336,-93.238251
+07,Chiapas,034,Frontera Comalapa,15.6630936,-92.1425692
+07,Chiapas,035,Frontera Hidalgo,14.779144,-92.178185
+07,Chiapas,036,La Grandeza,15.5112297,-92.2260293
+07,Chiapas,037,Huehuetán,15.0163243,-92.3890843
+07,Chiapas,038,Huixtán,16.7106573,-92.4534661
+07,Chiapas,039,Huitiupán,17.2166669,-92.6500001
+07,Chiapas,040,Huixtla,15.137663,-92.4659189
+07,Chiapas,041,La Independencia,16.2520884,-92.020286
+07,Chiapas,042,Ixhuatán,17.2937633,-93.0083015
+07,Chiapas,043,Ixtacomitán,17.4299557,-93.0962318
+07,Chiapas,044,Ixtapa,16.8021737,-92.9022948
+07,Chiapas,045,Ixtapangajoya,17.495665,-93.001862
+07,Chiapas,046,Jiquipilas,16.6740205,-93.6478924
+07,Chiapas,047,Jitotol,17.0667204,-92.8603824
+07,Chiapas,048,Juárez,17.6051702,-93.1903137
+07,Chiapas,049,Larráinzar,16.8847263,-92.7145163
+07,Chiapas,050,La Libertad,17.6891622,-91.7190274
+07,Chiapas,051,Mapastepec,15.4414006,-92.8949959
+07,Chiapas,052,Las Margaritas,16.315474,-91.987953
+07,Chiapas,053,Mazapa de Madero,15.387171,-92.187527
+07,Chiapas,054,Mazatán,14.8613859,-92.4484474
+07,Chiapas,055,Metapa,14.8351442,-92.1912312
+07,Chiapas,056,Mitontic,16.8613749,-92.6285902
+07,Chiapas,057,Motozintla,15.3637862,-92.2480676
+07,Chiapas,058,Nicolás Ruíz,16.438305,-92.5830217
+07,Chiapas,059,Ocosingo,16.9087258,-92.0943351
+07,Chiapas,060,Ocotepec,17.2259742,-93.1638546
+07,Chiapas,061,Ocozocoautla de Espinosa,16.7581009,-93.3739498
+07,Chiapas,062,Ostuacán,17.4077827,-93.3354309
+07,Chiapas,063,Osumacinta,16.9351752,-93.0902642
+07,Chiapas,064,Oxchuc,16.7880529,-92.3455194
+07,Chiapas,065,Palenque,17.5229209,-91.9872616
+07,Chiapas,066,Pantelhó,17.0069832,-92.4701674
+07,Chiapas,067,Pantepec,17.1881409,-93.0498364
+07,Chiapas,068,Pichucalco,17.5081744,-93.1186601
+07,Chiapas,069,Pijijiapan,15.6851709,-93.2122536
+07,Chiapas,070,El Porvenir,15.4575357,-92.281427
+07,Chiapas,071,Villa Comaltitlán,15.2127239,-92.5762346
+07,Chiapas,072,Pueblo Nuevo Solistahuacán,17.1578347,-92.8996804
+07,Chiapas,073,Rayón,17.1994091,-93.0107641
+07,Chiapas,074,Reforma,17.8578141,-93.1547842
+07,Chiapas,075,Las Rosas,16.3607767,-92.3672906
+07,Chiapas,076,Sabanilla,17.2822829,-92.5517584
+07,Chiapas,077,Salto de Agua,17.5539763,-92.337935
+07,Chiapas,078,San Cristóbal de las Casas,16.7369928,-92.6375988
+07,Chiapas,079,San Fernando,16.8677887,-93.206921
+07,Chiapas,080,Siltepec,15.5562098,-92.3235083
+07,Chiapas,081,Simojovel,17.1378588,-92.710696
+07,Chiapas,082,Sitalá,17.0252293,-92.3072997
+07,Chiapas,083,Socoltenango,16.2432868,-92.3501369
+07,Chiapas,084,Solosuchiapa,17.4297762,-93.0355476
+07,Chiapas,085,Soyaló,16.8901496,-92.9242259
+07,Chiapas,086,Suchiapa,16.6238059,-93.1000854
+07,Chiapas,087,Suchiate,14.6783852,-92.1536474
+07,Chiapas,088,Sunuapa,17.4901243,-93.2423498
+07,Chiapas,089,Tapachula,14.9055567,-92.2634136
+07,Chiapas,090,Tapalapa,17.1898377,-93.1046141
+07,Chiapas,091,Tapilula,17.2481357,-93.0173251
+07,Chiapas,092,Tecpatán,17.1813742,-93.392441
+07,Chiapas,093,Tenejapa,16.8189794,-92.5057962
+07,Chiapas,094,Teopisca,16.5414817,-92.4726212
+07,Chiapas,096,Tila,17.2980572,-92.4252829
+07,Chiapas,097,Tonalá,16.0866726,-93.7560984
+07,Chiapas,098,Totolapa,16.5440201,-92.6781662
+07,Chiapas,099,La Trinitaria,16.1188865,-92.0518154
+07,Chiapas,100,Tumbalá,17.2807131,-92.3162846
+07,Chiapas,101,Tuxtla Gutiérrez,16.7527112,-93.1163505
+07,Chiapas,102,Tuxtla Chico,14.9374337,-92.1671288
+07,Chiapas,103,Tuzantán,15.1466006,-92.4221065
+07,Chiapas,104,Tzimol,16.1822673,-92.1845482
+07,Chiapas,105,Unión Juárez,15.0645412,-92.0811838
+07,Chiapas,106,Venustiano Carranza,16.3386834,-92.5621461
+07,Chiapas,107,Villa Corzo,16.1818345,-93.2674373
+07,Chiapas,108,Villaflores,15.7665765,-92.2678012
+07,Chiapas,109,Yajalón,17.1814752,-92.3387704
+07,Chiapas,110,San Lucas,16.6129393,-92.7170297
+07,Chiapas,111,Zinacantán,16.7586246,-92.7158061
+07,Chiapas,112,San Juan Cancuc,16.8919079,-92.3707846
+07,Chiapas,113,Aldama,16.9168273,-92.6872046
+07,Chiapas,114,Benemérito de las Américas,16.5142764,-90.6540954
+07,Chiapas,115,Maravilla Tenejapa,16.1409664,-91.2927151
+07,Chiapas,116,Marqués de Comillas,16.332326,-90.7654317
+07,Chiapas,117,Montecristo de Guerrero,15.691634,-92.6201678
+07,Chiapas,118,San Andrés Duraznal,17.1331648,-92.8047358
+07,Chiapas,119,Santiago el Pinar,16.9400579,-92.7145435
+07,Chiapas,120,Capitán Luis Ángel Vidal,15.5556446,-92.5990835
+07,Chiapas,121,Rincón Chamula San Pedro,17.210018,-92.9275836
+07,Chiapas,122,El Parral,16.3662244,-93.0040431
+07,Chiapas,123,Emiliano Zapata,16.5381168,-92.9175955
+07,Chiapas,124,Mezcalapa,16.7569318,-93.1292353
+08,Chihuahua,001,Ahumada,30.6149598,-106.5137018
+08,Chihuahua,002,Aldama,28.8330149,-105.9311945
+08,Chihuahua,003,Allende,26.9373184,-105.3939782
+08,Chihuahua,004,Aquiles Serdán,28.5936841,-105.8873746
+08,Chihuahua,005,Ascensión,31.0902022,-107.9967841
+08,Chihuahua,006,Bachíniva,28.7749082,-107.2562311
+08,Chihuahua,007,Balleza,26.9514499,-106.3473971
+08,Chihuahua,008,Batopilas de Manuel Gómez Morín,27.030387,-107.7362336
+08,Chihuahua,009,Bocoyna,27.8413725,-107.5862134
+08,Chihuahua,010,Buenaventura,29.849078,-107.4667146
+08,Chihuahua,011,Camargo,27.6799994,-105.1713145
+08,Chihuahua,012,Carichí,27.9164419,-107.0511088
+08,Chihuahua,013,Casas Grandes,30.3820944,-107.9605444
+08,Chihuahua,014,Coronado,26.7375312,-105.1588251
+08,Chihuahua,015,Coyame del Sotol,29.4619918,-105.0935845
+08,Chihuahua,016,La Cruz,27.8656136,-105.2071301
+08,Chihuahua,017,Cuauhtémoc,28.4062953,-106.8654898
+08,Chihuahua,018,Cusihuiriachi,28.239932,-106.8338067
+08,Chihuahua,019,Chihuahua,28.6333754,-106.0697945
+08,Chihuahua,020,Chínipas,27.3950437,-108.5354479
+08,Chihuahua,021,Delicias,28.1832187,-105.4640346
+08,Chihuahua,022,Dr. Belisario Domínguez,28.1513246,-106.4720741
+08,Chihuahua,023,Galeana,30.1149805,-107.6147336
+08,Chihuahua,024,Santa Isabel,28.3411339,-106.3753501
+08,Chihuahua,025,Gómez Farías,29.3570418,-107.7300302
+08,Chihuahua,026,Gran Morelos,28.2506776,-106.509754
+08,Chihuahua,027,Guachochi,26.8200412,-107.0692221
+08,Chihuahua,028,Guadalupe,31.3822168,-106.1117957
+08,Chihuahua,029,Guadalupe y Calvo,26.0902174,-106.9651726
+08,Chihuahua,030,Guazapares,27.276901,-108.2796211
+08,Chihuahua,031,Guerrero,28.5492364,-107.4824834
+08,Chihuahua,032,Hidalgo del Parral,26.932138,-105.6666434
+08,Chihuahua,033,Huejotitán,27.0562178,-106.1790052
+08,Chihuahua,034,Ignacio Zaragoza,29.6459134,-107.7604514
+08,Chihuahua,035,Janos,30.8891805,-108.1969656
+08,Chihuahua,036,Jiménez,27.1283914,-104.9114541
+08,Chihuahua,037,Juárez,31.7476729,-106.4466831
+08,Chihuahua,038,Julimes,28.4237995,-105.428755
+08,Chihuahua,039,López,27.0043266,-105.0348168
+08,Chihuahua,040,Madera,29.1907374,-108.1422766
+08,Chihuahua,041,Maguarichi,27.860323,-107.9968181
+08,Chihuahua,042,Manuel Benavides,29.1059412,-103.9030576
+08,Chihuahua,043,Matachí,28.8401939,-107.7555436
+08,Chihuahua,044,Matamoros,26.7644269,-105.5844499
+08,Chihuahua,045,Meoqui,28.2738435,-105.4823091
+08,Chihuahua,046,Morelos,26.6711645,-107.6765213
+08,Chihuahua,047,Moris,28.1521412,-108.5232369
+08,Chihuahua,048,Namiquipa,29.2424799,-107.4150212
+08,Chihuahua,049,Nonoava,27.4753873,-106.7364341
+08,Chihuahua,050,Nuevo Casas Grandes,30.4124235,-107.9145008
+08,Chihuahua,051,Ocampo,28.1933653,-108.3672839
+08,Chihuahua,052,Ojinaga,29.5458844,-104.4082908
+08,Chihuahua,053,Praxedis G. Guerrero,31.3685653,-106.0090264
+08,Chihuahua,054,Riva Palacio,28.5477411,-106.5067591
+08,Chihuahua,055,Rosales,28.1885823,-105.5587625
+08,Chihuahua,056,Rosario,27.3193894,-106.2936311
+08,Chihuahua,057,San Francisco de Borja,27.9025272,-106.686601
+08,Chihuahua,058,San Francisco de Conchos,27.5872231,-105.3339392
+08,Chihuahua,059,San Francisco del Oro,26.8629194,-105.8481116
+08,Chihuahua,060,Santa Bárbara,26.8015082,-105.8200645
+08,Chihuahua,061,Satevó,27.9557069,-106.1059532
+08,Chihuahua,062,Saucillo,28.0310409,-105.2939979
+08,Chihuahua,063,Temósachic,28.9532175,-107.8304935
+08,Chihuahua,064,El Tule,27.0540443,-106.2746012
+08,Chihuahua,065,Urique,27.2135373,-107.9156318
+08,Chihuahua,066,Uruachi,27.8721015,-108.2164952
+08,Chihuahua,067,Valle de Zaragoza,27.4564552,-105.8111248
+09,Ciudad de México,002,Azcapotzalco,19.4846606,-99.1886749
+09,Ciudad de México,003,Coyoacán,19.3437444,-99.1561883
+09,Ciudad de México,004,Cuajimalpa de Morelos,19.3631419,-99.2880597
+09,Ciudad de México,005,Gustavo A. Madero,19.4873329,-99.1236134
+09,Ciudad de México,006,Iztacalco,19.3948036,-99.0976808
+09,Ciudad de México,007,Iztapalapa,19.342083,-99.0532159
+09,Ciudad de México,008,La Magdalena Contreras,19.3149641,-99.2425886
+09,Ciudad de México,009,Milpa Alta,19.1942041,-99.0267076
+09,Ciudad de México,010,Álvaro Obregón,19.3605334,-99.2267067
+09,Ciudad de México,011,Tláhuac,19.2990233,-99.0436467
+09,Ciudad de México,012,Tlalpan,19.2790911,-99.2114234
+09,Ciudad de México,013,Xochimilco,19.2572314,-99.1029664
+09,Ciudad de México,014,Benito Juárez,19.3794059,-99.1591446
+09,Ciudad de México,015,Cuauhtémoc,19.4301322,-99.1691413
+09,Ciudad de México,016,Miguel Hidalgo,19.4306575,-99.2083953
+09,Ciudad de México,017,Venustiano Carranza,19.4306069,-99.0949899
+10,Durango,001,Canatlán,24.5218774,-104.7725134
+10,Durango,002,Canelas,25.1248346,-106.5482788
+10,Durango,003,Coneto de Comonfort,24.9798982,-104.7695431
+10,Durango,004,Cuencamé,24.8684207,-103.6972217
+10,Durango,005,Durango,24.0277202,-104.6531759
+10,Durango,006,General Simón Bolívar,24.6879934,-103.2238096
+10,Durango,007,Gómez Palacio,25.5891476,-103.485862
+10,Durango,008,Guadalupe Victoria,24.4440555,-104.1206082
+10,Durango,009,Guanaceví,25.9316354,-105.9546744
+10,Durango,010,Hidalgo,26.2476457,-104.9151732
+10,Durango,011,Indé,25.9124311,-105.2225947
+10,Durango,012,Lerdo,25.5381646,-103.5339269
+10,Durango,013,Mapimí,25.833708,-103.8487392
+10,Durango,014,Mezquital,23.4746427,-104.3939719
+10,Durango,015,Nazas,25.2233099,-104.1132013
+10,Durango,016,Nombre de Dios,23.8450614,-104.2387362
+10,Durango,017,Ocampo,26.4424717,-105.5067963
+10,Durango,018,El Oro,25.9535409,-105.3647778
+10,Durango,019,Otáez,24.7026618,-105.99496
+10,Durango,020,Pánuco de Coronado,24.5397222,-104.3280555
+10,Durango,021,Peñón Blanco,24.7912135,-104.0333561
+10,Durango,022,Poanas,23.9734949,-104.0461887
+10,Durango,023,Pueblo Nuevo,23.7820021,-105.3615134
+10,Durango,024,Rodeo,25.1809719,-104.5557836
+10,Durango,025,San Bernardo,26.0033309,-105.5233311
+10,Durango,026,San Dimas,24.1071642,-105.9267964
+10,Durango,027,San Juan de Guadalupe,24.6326164,-102.7775806
+10,Durango,028,San Juan del Río,24.7825839,-104.4575171
+10,Durango,029,San Luis del Cordero,25.4178912,-104.2768444
+10,Durango,030,San Pedro del Gallo,25.5650209,-104.2933813
+10,Durango,031,Santa Clara,24.4756229,-103.3568246
+10,Durango,032,Santiago Papasquiaro,25.0426222,-105.4243804
+10,Durango,033,Súchil,23.6203311,-103.9230997
+10,Durango,034,Tamazula,24.9683887,-106.9677971
+10,Durango,035,Tepehuanes,25.3379047,-105.72371
+10,Durango,036,Tlahualilo,26.1050969,-103.4417126
+10,Durango,037,Topia,25.2125467,-106.5696411
+10,Durango,038,Vicente Guerrero,23.7321303,-103.9833706
+10,Durango,039,Nuevo Ideal,24.8851705,-105.0761999
+11,Guanajuato,001,Abasolo,20.452319,-101.5265017
+11,Guanajuato,002,Acámbaro,20.0319511,-100.7205812
+11,Guanajuato,003,San Miguel de Allende,20.9144491,-100.745235
+11,Guanajuato,004,Apaseo el Alto,20.4602715,-100.6224706
+11,Guanajuato,005,Apaseo el Grande,20.5446948,-100.6844284
+11,Guanajuato,006,Atarjea,21.2679767,-99.7187387
+11,Guanajuato,007,Celaya,20.5279612,-100.8112885
+11,Guanajuato,008,Manuel Doblado,20.7281302,-101.951295
+11,Guanajuato,009,Comonfort,20.7197856,-100.7596892
+11,Guanajuato,010,Coroneo,20.1990484,-100.3669879
+11,Guanajuato,011,Cortazar,20.4771827,-100.9637456
+11,Guanajuato,012,Cuerámaro,20.6258385,-101.6717765
+11,Guanajuato,013,Doctor Mora,21.1430821,-100.3185428
+11,Guanajuato,014,Dolores Hidalgo Cuna de la Independencia Nacional,21.151597,-100.9367183
+11,Guanajuato,015,Guanajuato,21.0190145,-101.2573586
+11,Guanajuato,016,Huanímaro,20.3678927,-101.4978086
+11,Guanajuato,017,Irapuato,20.6786652,-101.3544964
+11,Guanajuato,018,Jaral del Progreso,20.3735465,-101.0683472
+11,Guanajuato,019,Jerécuaro,20.1494259,-100.5099262
+11,Guanajuato,020,León,21.1250077,-101.6859605
+11,Guanajuato,021,Moroleón,20.1264558,-101.1933423
+11,Guanajuato,022,Ocampo,21.6481453,-101.4782799
+11,Guanajuato,023,Pénjamo,20.4313532,-101.724058
+11,Guanajuato,024,Pueblo Nuevo,20.5244759,-101.3720989
+11,Guanajuato,025,Purísima del Rincón,20.8894632,-101.9119871
+11,Guanajuato,026,Romita,20.8708929,-101.5168556
+11,Guanajuato,027,Salamanca,20.5739314,-101.1957172
+11,Guanajuato,028,Salvatierra,20.2126044,-100.8787948
+11,Guanajuato,029,San Diego de la Unión,21.4683688,-100.8705484
+11,Guanajuato,030,San Felipe,21.4788756,-101.21588
+11,Guanajuato,031,San Francisco del Rincón,21.0170828,-101.8492577
+11,Guanajuato,032,San José Iturbide,20.998668,-100.386287
+11,Guanajuato,033,San Luis de la Paz,21.293404,-100.5239867
+11,Guanajuato,034,Santa Catarina,21.1409653,-100.0696919
+11,Guanajuato,035,Santa Cruz de Juventino Rosas,20.6440308,-100.9932881
+11,Guanajuato,036,Santiago Maravatío,20.1735132,-100.9919246
+11,Guanajuato,037,Silao de la Victoria,20.9439573,-101.4266838
+11,Guanajuato,038,Tarandacuao,20.0024426,-100.5166329
+11,Guanajuato,039,Tarimoro,20.2872523,-100.7577044
+11,Guanajuato,040,Tierra Blanca,21.0996872,-100.1584904
+11,Guanajuato,041,Uriangato,20.1462015,-101.178725
+11,Guanajuato,042,Valle de Santiago,20.392169,-101.1900528
+11,Guanajuato,043,Victoria,21.2107384,-100.2146841
+11,Guanajuato,044,Villagrán,20.5134143,-100.9948315
+11,Guanajuato,045,Xichú,21.2956159,-100.0573657
+11,Guanajuato,046,Yuriria,20.210945,-101.1305962
+12,Guerrero,001,Acapulco de Juárez,16.8639515,-99.8822807
+12,Guerrero,002,Ahuacuotzingo,17.7137319,-98.9358561
+12,Guerrero,003,Ajuchitlán del Progreso,18.1537971,-100.5043026
+12,Guerrero,004,Alcozauca de Guerrero,17.4608874,-98.3851987
+12,Guerrero,005,Alpoyeca,17.6698177,-98.5133999
+12,Guerrero,006,Apaxtla,18.1315679,-99.9325381
+12,Guerrero,007,Arcelia,18.3151227,-100.2851372
+12,Guerrero,008,Atenango del Río,18.1042572,-99.1072491
+12,Guerrero,009,Atlamajalcingo del Monte,17.3135632,-98.6040799
+12,Guerrero,010,Atlixtac,17.5616194,-98.9343631
+12,Guerrero,011,Atoyac de Álvarez,17.2018417,-100.4340367
+12,Guerrero,012,Ayutla de los Libres,16.9658305,-99.0930528
+12,Guerrero,013,Azoyú,16.7341495,-98.5977693
+12,Guerrero,014,Benito Juárez,17.1378505,-100.4694098
+12,Guerrero,015,Buenavista de Cuéllar,18.4630675,-99.4144962
+12,Guerrero,016,Coahuayutla de José María Izazaga,18.3143357,-101.7364286
+12,Guerrero,017,Cocula,18.2378989,-99.6606026
+12,Guerrero,018,Copala,16.6030715,-98.9714623
+12,Guerrero,019,Copalillo,18.0344322,-99.0406186
+12,Guerrero,020,Copanatoyac,17.462348,-98.7133269
+12,Guerrero,021,Coyuca de Benítez,17.0084639,-100.0854729
+12,Guerrero,022,Coyuca de Catalán,18.3301952,-100.7013332
+12,Guerrero,023,Cuajinicuilapa,16.4711295,-98.4151885
+12,Guerrero,024,Cualác,17.7420295,-98.6596338
+12,Guerrero,025,Cuautepec,16.7498177,-99.0019826
+12,Guerrero,026,Cuetzala del Progreso,18.134678,-99.8324514
+12,Guerrero,027,Cutzamala de Pinzón,18.4671282,-100.5796111
+12,Guerrero,028,Chilapa de Álvarez,17.597969,-99.1758462
+12,Guerrero,029,Chilpancingo de los Bravo,17.5515346,-99.5006322
+12,Guerrero,030,Florencio Villarreal,16.7220172,-99.127812
+12,Guerrero,031,General Canuto A. Neri,18.4193548,-100.0739735
+12,Guerrero,032,General Heliodoro Castillo,17.7903254,-99.9771576
+12,Guerrero,033,Huamuxtitlán,17.8020809,-98.5647731
+12,Guerrero,034,Huitzuco de los Figueroa,18.3031459,-99.3338801
+12,Guerrero,035,Iguala de la Independencia,18.3448477,-99.5397344
+12,Guerrero,036,Igualapa,16.7436092,-98.476998
+12,Guerrero,037,Ixcateopan de Cuauhtémoc,18.5001186,-99.7922509
+12,Guerrero,038,Zihuatanejo de Azueta,17.6474239,-101.5455504
+12,Guerrero,039,Juan R. Escudero,17.1662465,-99.5283171
+12,Guerrero,040,Leonardo Bravo,17.6556385,-99.6759058
+12,Guerrero,041,Malinaltepec,17.2452669,-98.6718446
+12,Guerrero,042,Mártir de Cuilapan,17.741043,-99.3270815
+12,Guerrero,043,Metlatónoc,17.1937368,-98.4085373
+12,Guerrero,044,Mochitlán,17.4356683,-99.4658784
+12,Guerrero,045,Olinalá,17.7774254,-98.7387789
+12,Guerrero,046,Ometepec,16.6908954,-98.4101984
+12,Guerrero,047,Pedro Ascencio Alquisiras,18.5118274,-99.8869422
+12,Guerrero,048,Petatlán,17.5390397,-101.2701934
+12,Guerrero,049,Pilcaya,18.7450968,-99.6760125
+12,Guerrero,050,Pungarabato,18.3578156,-100.6686262
+12,Guerrero,051,Quechultenango,17.4134854,-99.2429249
+12,Guerrero,052,San Luis Acatlán,16.8070694,-98.7350079
+12,Guerrero,053,San Marcos,16.7949714,-99.3883874
+12,Guerrero,054,San Miguel Totolapan,18.1590539,-100.3906209
+12,Guerrero,055,Taxco de Alarcón,18.5565468,-99.6051206
+12,Guerrero,056,Tecoanapa,16.9865731,-99.2604936
+12,Guerrero,057,Técpan de Galeana,17.2237303,-100.6281014
+12,Guerrero,058,Teloloapan,18.3674282,-99.8729247
+12,Guerrero,059,Tepecoacuilco de Trujano,18.2843822,-99.4644893
+12,Guerrero,060,Tetipac,18.6483466,-99.6485292
+12,Guerrero,061,Tixtla de Guerrero,17.567656,-99.3995924
+12,Guerrero,062,Tlacoachistlahuaca,16.8096787,-98.3008102
+12,Guerrero,063,Tlacoapa,17.2624789,-98.7482819
+12,Guerrero,064,Tlalchapa,18.4100292,-100.4765727
+12,Guerrero,065,Tlalixtaquilla de Maldonado,17.5166669,-98.4666671
+12,Guerrero,066,Tlapa de Comonfort,17.548366,-98.5666077
+12,Guerrero,067,Tlapehuala,18.2390875,-100.5356208
+12,Guerrero,068,La Unión de Isidoro Montes de Oca,17.9845205,-101.8061903
+12,Guerrero,069,Xalpatláhuac,17.4673879,-98.6078219
+12,Guerrero,070,Xochihuehuetlán,17.9054288,-98.4889617
+12,Guerrero,071,Xochistlahuaca,16.7918475,-98.2420878
+12,Guerrero,072,Zapotitlán Tablas,17.420344,-98.7814912
+12,Guerrero,073,Zirándaro,18.474249,-100.9812235
+12,Guerrero,074,Zitlala,17.6885367,-99.1858206
+12,Guerrero,075,Eduardo Neri,17.6520624,-99.5249616
+12,Guerrero,076,Acatepec,17.3280426,-98.9038904
+12,Guerrero,077,Marquelia,16.5823868,-98.8156765
+12,Guerrero,078,Cochoapa el Grande,17.193389,-98.455388
+12,Guerrero,079,José Joaquín de Herrera,17.4512882,-99.0266112
+12,Guerrero,080,Juchitán,16.6254534,-98.6363831
+12,Guerrero,081,Iliatenco,17.0470277,-98.6869462
+13,Hidalgo,001,Acatlán,20.1453958,-98.4410429
+13,Hidalgo,002,Acaxochitlán,20.1544793,-98.202161
+13,Hidalgo,003,Actopan,20.2743499,-98.9521357
+13,Hidalgo,004,Agua Blanca de Iturbide,20.346547,-98.359504
+13,Hidalgo,005,Ajacuba,20.0915602,-99.1207129
+13,Hidalgo,006,Alfajayucan,20.4099707,-99.3478861
+13,Hidalgo,007,Almoloya,19.7026593,-98.4035384
+13,Hidalgo,008,Apan,19.711382,-98.45407
+13,Hidalgo,009,El Arenal,20.2265612,-98.9052192
+13,Hidalgo,010,Atitalaquia,20.0509779,-99.2203687
+13,Hidalgo,011,Atlapexco,21.016947,-98.3444393
+13,Hidalgo,012,Atotonilco el Grande,20.2859721,-98.6628089
+13,Hidalgo,013,Atotonilco de Tula,20.0096889,-99.2203687
+13,Hidalgo,014,Calnali,20.8985071,-98.5858382
+13,Hidalgo,015,Cardonal,20.6124,-99.1150509
+13,Hidalgo,016,Cuautepec de Hinojosa,20.0368036,-98.3170569
+13,Hidalgo,017,Chapantongo,20.2853035,-99.4172728
+13,Hidalgo,018,Chapulhuacán,21.1584334,-98.9038397
+13,Hidalgo,019,Chilcuautla,20.3276807,-99.2314492
+13,Hidalgo,020,Eloxochitlán,20.745196,-98.8114707
+13,Hidalgo,021,Emiliano Zapata,19.6538276,-98.5473821
+13,Hidalgo,022,Epazoyucan,20.0153681,-98.6408093
+13,Hidalgo,023,Francisco I. Madero,20.2451132,-99.0904574
+13,Hidalgo,024,Huasca de Ocampo,20.2040455,-98.5754259
+13,Hidalgo,025,Huautla,21.0316981,-98.2868578
+13,Hidalgo,026,Huazalingo,20.9785884,-98.5068869
+13,Hidalgo,027,Huehuetla,20.460486,-98.0751645
+13,Hidalgo,028,Huejutla de Reyes,21.1367171,-98.4122162
+13,Hidalgo,029,Huichapan,20.3786677,-99.6508401
+13,Hidalgo,030,Ixmiquilpan,20.4831412,-99.2171174
+13,Hidalgo,031,Jacala de Ledezma,21.0086107,-99.1926741
+13,Hidalgo,032,Jaltocán,21.1329932,-98.5377711
+13,Hidalgo,033,Juárez Hidalgo,20.7857042,-98.8280064
+13,Hidalgo,034,Lolotla,20.8401719,-98.7164592
+13,Hidalgo,035,Metepec,20.2391537,-98.3184257
+13,Hidalgo,036,San Agustín Metzquititlán,20.5330716,-98.6376427
+13,Hidalgo,037,Metztitlán,20.5955194,-98.7632619
+13,Hidalgo,038,Mineral del Chico,20.2150472,-98.7310435
+13,Hidalgo,039,Mineral del Monte,20.1436705,-98.673811
+13,Hidalgo,040,La Misión,21.0993834,-99.1248628
+13,Hidalgo,041,Mixquiahuala de Juárez,20.2304048,-99.2106551
+13,Hidalgo,042,Molango de Escamilla,20.7907851,-98.7288454
+13,Hidalgo,043,Nicolás Flores,20.768048,-99.1504583
+13,Hidalgo,044,Nopala de Villagrán,20.2494932,-99.646766
+13,Hidalgo,045,Omitlán de Juárez,20.1682638,-98.6506873
+13,Hidalgo,046,San Felipe Orizatlán,21.1690704,-98.6133188
+13,Hidalgo,047,Pacula,21.0508182,-99.296242
+13,Hidalgo,048,Pachuca de Soto,20.1010608,-98.7591311
+13,Hidalgo,049,Pisaflores,21.1943704,-99.0059861
+13,Hidalgo,050,Progreso de Obregón,20.2478709,-99.1879237
+13,Hidalgo,051,Mineral de la Reforma,20.0708947,-98.6960424
+13,Hidalgo,052,San Agustín Tlaxiaca,20.1155111,-98.8831506
+13,Hidalgo,053,San Bartolo Tutotepec,20.4013824,-98.2007943
+13,Hidalgo,054,San Salvador,20.2858434,-99.0156554
+13,Hidalgo,055,Santiago de Anaya,20.3800556,-98.9631789
+13,Hidalgo,056,Santiago Tulantepec de Lugo Guerrero,20.0409041,-98.3553951
+13,Hidalgo,057,Singuilucan,19.9680771,-98.5199254
+13,Hidalgo,058,Tasquillo,20.5466657,-99.31237
+13,Hidalgo,059,Tecozautla,20.5326359,-99.6323321
+13,Hidalgo,060,Tenango de Doria,20.3367247,-98.2240321
+13,Hidalgo,061,Tepeapulco,19.7834383,-98.5528746
+13,Hidalgo,062,Tepehuacán de Guerrero,21.0140292,-98.8404104
+13,Hidalgo,063,Tepeji del Río de Ocampo,19.9114508,-99.3506604
+13,Hidalgo,064,Tepetitlán,20.1840284,-99.3811844
+13,Hidalgo,065,Tetepango,20.0988308,-99.1511502
+13,Hidalgo,066,Villa de Tezontepec,19.8820941,-98.8218954
+13,Hidalgo,067,Tezontepec de Aldama,20.1846619,-99.2719775
+13,Hidalgo,068,Tianguistengo,20.726284,-98.6311865
+13,Hidalgo,069,Tizayuca,19.8405004,-98.9801651
+13,Hidalgo,070,Tlahuelilpan,20.131508,-99.2325914
+13,Hidalgo,071,Tlahuiltepa,20.9233609,-98.9500652
+13,Hidalgo,072,Tlanalapa,19.8164842,-98.6023254
+13,Hidalgo,073,Tlanchinol,20.9894734,-98.6573084
+13,Hidalgo,074,Tlaxcoapan,20.0919675,-99.2222437
+13,Hidalgo,075,Tolcayuca,19.960103,-98.9217747
+13,Hidalgo,076,Tula de Allende,20.0535516,-99.3395636
+13,Hidalgo,077,Tulancingo de Bravo,20.0904802,-98.3690922
+13,Hidalgo,078,Xochiatipan,20.8342711,-98.2848954
+13,Hidalgo,079,Xochicoatlán,20.7768398,-98.6834392
+13,Hidalgo,080,Yahualica,20.9532716,-98.380519
+13,Hidalgo,081,Zacualtipán de Ángeles,20.6485245,-98.6576724
+13,Hidalgo,082,Zapotlán de Juárez,19.9763386,-98.8643059
+13,Hidalgo,083,Zempoala,19.913647,-98.6683097
+13,Hidalgo,084,Zimapán,20.7386043,-99.3811844
+14,Jalisco,001,Acatic,20.7782346,-102.9118966
+14,Jalisco,002,Acatlán de Juárez,20.4216103,-103.5928664
+14,Jalisco,003,Ahualulco de Mercado,20.6998901,-103.9753155
+14,Jalisco,004,Amacueca,20.0111776,-103.6003447
+14,Jalisco,005,Amatitán,20.8364544,-103.7318129
+14,Jalisco,006,Ameca,20.5476288,-104.0466211
+14,Jalisco,007,San Juanito de Escobedo,20.7981846,-104.0028817
+14,Jalisco,008,Arandas,20.7055616,-102.3469498
+14,Jalisco,009,El Arenal,20.775698,-103.6951543
+14,Jalisco,010,Atemajac de Brizuela,20.1408274,-103.7285006
+14,Jalisco,011,Atengo,20.2740371,-104.2368959
+14,Jalisco,012,Atenguillo,20.4157007,-104.4949299
+14,Jalisco,013,Atotonilco el Alto,20.5502447,-102.5081224
+14,Jalisco,014,Atoyac,20.0085474,-103.5162929
+14,Jalisco,015,Autlán de Navarro,19.7707745,-104.3667578
+14,Jalisco,016,Ayotlán,20.5299754,-102.3306392
+14,Jalisco,017,Ayutla,20.1280233,-104.3439311
+14,Jalisco,018,La Barca,20.2906606,-102.5458219
+14,Jalisco,019,Bolaños,21.8309391,-103.7798114
+14,Jalisco,020,Cabo Corrientes,20.3183589,-105.3215833
+14,Jalisco,021,Casimiro Castillo,19.3409006,-104.2881956
+14,Jalisco,022,Cihuatlán,19.2376572,-104.5684406
+14,Jalisco,023,Zapotlán el Grande,19.703611,-103.464722
+14,Jalisco,024,Cocula,20.3653885,-103.8227749
+14,Jalisco,025,Colotlán,22.1133282,-103.266844
+14,Jalisco,026,Concepción de Buenos Aires,19.866667,-103.15
+14,Jalisco,027,Cuautitlán de García Barragán,19.4508014,-104.3595438
+14,Jalisco,028,Cuautla,20.2028479,-104.4051706
+14,Jalisco,029,Cuquío,20.9275862,-103.0230461
+14,Jalisco,030,Chapala,20.3051576,-103.1846016
+14,Jalisco,031,Chimaltitán,21.9,-103.467
+14,Jalisco,032,Chiquilistlán,20.0892906,-103.861453
+14,Jalisco,033,Degollado,20.4488974,-102.1318294
+14,Jalisco,034,Ejutla,19.9053507,-104.1635193
+14,Jalisco,035,Encarnación de Díaz,21.526318,-102.2402619
+14,Jalisco,036,Etzatlán,20.7644691,-104.0809056
+14,Jalisco,037,El Grullo,19.8063335,-104.2192475
+14,Jalisco,038,Guachinango,20.5772029,-104.3805139
+14,Jalisco,039,Guadalajara,20.6766393,-103.3473515
+14,Jalisco,040,Hostotipaquillo,21.216667,-103.85
+14,Jalisco,041,Huejúcar,22.3626304,-103.2101793
+14,Jalisco,042,Huejuquilla el Alto,22.627087,-103.8970889
+14,Jalisco,043,La Huerta,19.4833804,-104.6430404
+14,Jalisco,044,Ixtlahuacán de los Membrillos,20.3475108,-103.1942224
+14,Jalisco,045,Ixtlahuacán del Río,20.8639764,-103.2403779
+14,Jalisco,046,Jalostotitlán,21.1678232,-102.4673749
+14,Jalisco,047,Jamay,20.2960475,-102.7106394
+14,Jalisco,048,Jesús María,20.6040529,-102.2236954
+14,Jalisco,049,Jilotlán de los Dolores,19.3704642,-103.0197429
+14,Jalisco,050,Jocotepec,20.2830067,-103.4251691
+14,Jalisco,051,Juanacatlán,20.5085984,-103.1697093
+14,Jalisco,052,Juchitlán,20.0829584,-104.1000829
+14,Jalisco,053,Lagos de Moreno,21.3634964,-101.9291015
+14,Jalisco,054,El Limón,19.75,-104.016667
+14,Jalisco,055,Magdalena,20.9102762,-103.9695127
+14,Jalisco,056,Santa María del Oro,19.5876824,-102.9083568
+14,Jalisco,057,La Manzanilla de la Paz,20.0053707,-103.1551408
+14,Jalisco,058,Mascota,20.5260029,-104.7892254
+14,Jalisco,059,Mazamitla,19.9165757,-103.0212924
+14,Jalisco,060,Mexticacán,21.2650194,-102.7772811
+14,Jalisco,061,Mezquitic,22.3894517,-103.7263184
+14,Jalisco,062,Mixtlán,20.4390819,-104.4084216
+14,Jalisco,063,Ocotlán,20.3417485,-102.7652326
+14,Jalisco,064,Ojuelos de Jalisco,21.8657329,-101.5940151
+14,Jalisco,065,Pihuamo,19.2537372,-103.3796015
+14,Jalisco,066,Poncitlán,20.379337,-102.9261793
+14,Jalisco,067,Puerto Vallarta,20.653407,-105.2253316
+14,Jalisco,068,Villa Purificación,19.718481,-104.6067465
+14,Jalisco,069,Quitupan,19.9265618,-102.8727671
+14,Jalisco,070,El Salto,20.5178271,-103.1826862
+14,Jalisco,071,San Cristóbal de la Barranca,21.0450562,-103.42874
+14,Jalisco,072,San Diego de Alejandría,20.9923017,-101.9929284
+14,Jalisco,073,San Juan de los Lagos,21.2474689,-102.3316999
+14,Jalisco,074,San Julián,21.0052225,-102.1804261
+14,Jalisco,075,San Marcos,20.7921784,-104.1953087
+14,Jalisco,076,San Martín de Bolaños,21.5,-103.8
+14,Jalisco,077,San Martín Hidalgo,20.4381973,-103.931801
+14,Jalisco,078,San Miguel el Alto,21.0297575,-102.4040252
+14,Jalisco,079,Gómez Farías,19.7802777,-103.4919444
+14,Jalisco,080,San Sebastián del Oeste,20.7613306,-104.8528075
+14,Jalisco,081,Santa María de los Ángeles,22.114338,-103.119024
+14,Jalisco,082,Sayula,19.8829821,-103.5998678
+14,Jalisco,083,Tala,20.6500176,-103.7013146
+14,Jalisco,084,Talpa de Allende,20.3784149,-104.8191965
+14,Jalisco,085,Tamazula de Gordiano,19.675135,-103.2540219
+14,Jalisco,086,Tapalpa,19.9476711,-103.7607783
+14,Jalisco,087,Tecalitlán,19.4715159,-103.3070959
+14,Jalisco,088,Tecolotlán,20.2006949,-104.0451326
+14,Jalisco,089,Techaluta de Montenegro,20.0739432,-103.5524234
+14,Jalisco,090,Tenamaxtlán,20.2156529,-104.1614316
+14,Jalisco,091,Teocaltiche,21.4361959,-102.5728335
+14,Jalisco,092,Teocuitatlán de Corona,20.0920434,-103.3784449
+14,Jalisco,093,Tepatitlán de Morelos,20.8098057,-102.7652326
+14,Jalisco,094,Tequila,20.8819452,-103.8325001
+14,Jalisco,095,Teuchitlán,20.685614,-103.8477335
+14,Jalisco,096,Tizapán el Alto,20.1589437,-103.044711
+14,Jalisco,097,Tlajomulco de Zúñiga,20.4736865,-103.4479314
+14,Jalisco,098,San Pedro Tlaquepaque,20.6243088,-103.3212248
+14,Jalisco,099,Tolimán,19.6012299,-103.9149432
+14,Jalisco,100,Tomatlán,19.9344504,-105.2516629
+14,Jalisco,101,Tonalá,20.6237413,-103.2413723
+14,Jalisco,102,Tonaya,19.7842384,-103.9702121
+14,Jalisco,103,Tonila,20.65,-102.8
+14,Jalisco,104,Totatiche,21.9304404,-103.4410621
+14,Jalisco,105,Tototlán,20.5445747,-102.7875285
+14,Jalisco,106,Tuxcacuesco,19.5443749,-103.8689058
+14,Jalisco,107,Tuxcueca,20.066667,-103.366667
+14,Jalisco,108,Tuxpan,19.5572679,-103.3789461
+14,Jalisco,109,Unión de San Antonio,21.1262373,-102.0061503
+14,Jalisco,110,Unión de Tula,19.9560353,-104.2678212
+14,Jalisco,111,Valle de Guadalupe,21.0102485,-102.6163019
+14,Jalisco,112,Valle de Juárez,19.9317606,-102.943186
+14,Jalisco,113,San Gabriel,19.7475411,-103.7673794
+14,Jalisco,114,Villa Corona,20.4166263,-103.6649547
+14,Jalisco,115,Villa Guerrero,21.9805843,-103.5928664
+14,Jalisco,116,Villa Hidalgo,21.6769411,-102.5891792
+14,Jalisco,117,Cañadas de Obregón,21.1482542,-102.6874501
+14,Jalisco,118,Yahualica de González Gallo,21.1782822,-102.8831247
+14,Jalisco,119,Zacoalco de Torres,20.2250528,-103.5697229
+14,Jalisco,120,Zapopan,20.6719563,-103.416501
+14,Jalisco,121,Zapotiltic,19.626206,-103.4173159
+14,Jalisco,122,Zapotitlán de Vadillo,19.5482084,-103.8123479
+14,Jalisco,123,Zapotlán del Rey,20.4660916,-102.9247745
+14,Jalisco,124,Zapotlanejo,20.6201831,-103.0673833
+14,Jalisco,125,San Ignacio Cerro Gordo,20.7436078,-102.5350675
+15,México,001,Acambay de Ruíz Castañeda,19.9543397,-99.8441134
+15,México,002,Acolman,19.6420614,-98.9107373
+15,México,003,Aculco,20.0985989,-99.8275861
+15,México,004,Almoloya de Alquisiras,18.865855,-99.8935309
+15,México,005,Almoloya de Juárez,19.3690064,-99.7605116
+15,México,006,Almoloya del Río,19.1591667,-99.4867182
+15,México,007,Amanalco,19.2540675,-100.0195984
+15,México,008,Amatepec,18.6849,-100.1872135
+15,México,009,Amecameca,19.1252361,-98.7671131
+15,México,010,Apaxco,19.9727119,-99.1734048
+15,México,011,Atenco,19.5497882,-98.9160986
+15,México,012,Atizapán,19.5602873,-99.2570793
+15,México,013,Atizapán de Zaragoza,19.5679989,-99.2653128
+15,México,014,Atlacomulco,19.7975581,-99.8766825
+15,México,015,Atlautla,19.0294848,-98.77841
+15,México,016,Axapusco,19.7240495,-98.7582493
+15,México,017,Ayapango,19.129935,-98.802258
+15,México,018,Calimaya,19.161779,-99.6129104
+15,México,019,Capulhuac,19.1932184,-99.4676086
+15,México,020,Coacalco de Berriozábal,19.6385618,-99.0978796
+15,México,021,Coatepec Harinas,18.9244995,-99.768626
+15,México,022,Cocotitlán,19.2314995,-98.8666032
+15,México,023,Coyotepec,19.7765924,-99.2092896
+15,México,024,Cuautitlán,19.6726588,-99.1648692
+15,México,025,Chalco,19.2636487,-98.8975932
+15,México,026,Chapa de Mota,19.8140165,-99.5261662
+15,México,027,Chapultepec,19.2030655,-99.5478784
+15,México,028,Chiautla,19.5511611,-98.8784712
+15,México,029,Chicoloapan,19.4143591,-98.9062442
+15,México,030,Chiconcuac,19.5610249,-98.8995504
+15,México,031,Chimalhuacán,19.4314047,-98.9582048
+15,México,032,Donato Guerra,19.3087864,-100.1440383
+15,México,033,Ecatepec de Morelos,19.6057728,-99.0365112
+15,México,034,Ecatzingo,18.9603278,-98.748569
+15,México,035,Huehuetoca,19.8277305,-99.2037508
+15,México,036,Hueypoxtla,19.9115819,-99.0754477
+15,México,037,Huixquilucan,19.3602606,-99.3510312
+15,México,038,Isidro Fabela,19.5575846,-99.4162196
+15,México,039,Ixtapaluca,19.3355734,-98.9149416
+15,México,040,Ixtapan de la Sal,18.8390501,-99.6760096
+15,México,041,Ixtapan del Oro,19.262472,-100.2663235
+15,México,042,Ixtlahuaca,19.5699879,-99.7650659
+15,México,043,Xalatlaco,19.1743807,-99.4200495
+15,México,044,Jaltenco,19.750852,-99.0930528
+15,México,045,Jilotepec,19.9516359,-99.536755
+15,México,046,Jilotzingo,19.5391919,-99.3969715
+15,México,047,Jiquipilco,19.5573493,-99.6067531
+15,México,048,Jocotitlán,19.7075577,-99.7883967
+15,México,049,Joquicingo,19.0505243,-99.5332886
+15,México,050,Juchitepec,19.091141,-98.881554
+15,México,051,Lerma,19.2913424,-99.5244687
+15,México,052,Malinalco,18.9445694,-99.4953884
+15,México,053,Melchor Ocampo,19.7031072,-99.1434964
+15,México,054,Metepec,19.2528864,-99.598551
+15,México,055,Mexicaltzingo,19.2119603,-99.5855756
+15,México,056,Morelos,19.7899891,-99.6684882
+15,México,057,Naucalpan de Juárez,19.4373567,-99.2557708
+15,México,058,Nezahualcóyotl,19.4182733,-99.0223457
+15,México,059,Nextlalpan,19.73204,-99.067544
+15,México,060,Nicolás Romero,19.6162033,-99.3001181
+15,México,061,Nopaltepec,19.7758412,-98.7122784
+15,México,062,Ocoyoacac,19.2724803,-99.4615527
+15,México,063,Ocuilan,18.9781794,-99.4171298
+15,México,064,El Oro,19.8007531,-100.1339164
+15,México,065,Otumba,19.6988525,-98.75751
+15,México,066,Otzoloapan,19.1169249,-100.295364
+15,México,067,Otzolotepec,19.4117213,-99.5592077
+15,México,068,Ozumba,19.0327876,-98.8018265
+15,México,069,Papalotla,19.5563141,-98.8555736
+15,México,070,La Paz,19.3611697,-98.9560365
+15,México,071,Polotitlán,20.2241732,-99.8148223
+15,México,072,Rayón,19.1460762,-99.5818611
+15,México,073,San Antonio la Isla,19.1610361,-99.5704448
+15,México,074,San Felipe del Progreso,19.7129957,-99.9515474
+15,México,075,San Martín de las Pirámides,19.7019622,-98.8327661
+15,México,076,San Mateo Atenco,19.2630031,-99.5324296
+15,México,077,San Simón de Guerrero,19.0215799,-100.0071569
+15,México,078,Santo Tomás,19.1831272,-100.260038
+15,México,079,Soyaniquilpan de Juárez,20.0182414,-99.5300954
+15,México,080,Sultepec,18.8616472,-99.9669314
+15,México,081,Tecámac,19.7122732,-98.9683073
+15,México,082,Tejupilco,18.9062177,-100.1507188
+15,México,083,Temamatla,19.2017642,-98.8721186
+15,México,084,Temascalapa,19.8313905,-98.8997015
+15,México,085,Temascalcingo,19.9198874,-100.0052044
+15,México,086,Temascaltepec,19.0954845,-99.9562389
+15,México,087,Temoaya,19.4653884,-99.5940417
+15,México,088,Tenancingo,18.9560581,-99.5819784
+15,México,089,Tenango del Aire,19.1576292,-98.8599372
+15,México,090,Tenango del Valle,19.1053422,-99.5882131
+15,México,091,Teoloyucan,19.7485555,-99.175823
+15,México,092,Teotihuacán,19.6851245,-98.8667851
+15,México,093,Tepetlaoxtoc,19.5759021,-98.8169822
+15,México,094,Tepetlixpa,19.0273812,-98.8224941
+15,México,095,Tepotzotlán,19.7178855,-99.2167322
+15,México,096,Tequixquiac,19.9106326,-99.1400807
+15,México,097,Texcaltitlán,18.9297949,-99.9369839
+15,México,098,Texcalyacac,19.127006,-99.494735
+15,México,099,Texcoco,19.5068656,-98.8825502
+15,México,100,Tezoyuca,19.5918565,-98.913064
+15,México,101,Tianguistenco,19.1804002,-99.467615
+15,México,102,Timilpan,19.8745272,-99.735809
+15,México,103,Tlalmanalco,19.2046997,-98.7997788
+15,México,104,Tlalnepantla de Baz,19.5345279,-99.1907364
+15,México,105,Tlatlaya,18.6158486,-100.2082716
+15,México,106,Toluca,19.2826124,-99.6556662
+15,México,107,Tonatico,18.8085105,-99.6703336
+15,México,108,Tultepec,19.6848383,-99.1295326
+15,México,109,Tultitlán,19.645565,-99.1689269
+15,México,110,Valle de Bravo,19.1950964,-100.1326725
+15,México,111,Villa de Allende,19.4028199,-100.147355
+15,México,112,Villa del Carbón,19.7287602,-99.4617111
+15,México,113,Villa Guerrero,21.9805843,-103.5928664
+15,México,114,Villa Victoria,19.4376729,-99.9954161
+15,México,115,Xonacatlán,19.4042181,-99.5302705
+15,México,116,Zacazonapan,19.0750189,-100.2558118
+15,México,117,Zacualpan,18.7188952,-99.7759907
+15,México,118,Zinacantepec,19.2815099,-99.7356851
+15,México,119,Zumpahuacán,18.834565,-99.581481
+15,México,120,Zumpango,19.7954184,-99.0973261
+15,México,121,Cuautitlán Izcalli,19.621283,-99.1957599
+15,México,122,Valle de Chalco Solidaridad,19.2918652,-98.9388299
+15,México,123,Luvianos,18.9200983,-100.2978762
+15,México,124,San José del Rincón,19.6612661,-100.1570626
+15,México,125,Tonanitla,19.6886094,-99.0530056
+16,Michoacán de Ocampo,001,Acuitzio,19.4950179,-101.3357469
+16,Michoacán de Ocampo,002,Aguililla,18.7371188,-102.7853522
+16,Michoacán de Ocampo,003,Álvaro Obregón,19.585624,-100.3374735
+16,Michoacán de Ocampo,004,Angamacutiro,20.1493741,-101.7137567
+16,Michoacán de Ocampo,005,Angangueo,19.6196444,-100.2835336
+16,Michoacán de Ocampo,006,Apatzingán,19.0837305,-102.353674
+16,Michoacán de Ocampo,007,Aporo,19.6700942,-100.4099889
+16,Michoacán de Ocampo,008,Aquila,18.5979298,-103.5038211
+16,Michoacán de Ocampo,009,Ario,19.2065232,-101.7039828
+16,Michoacán de Ocampo,010,Arteaga,18.356253,-102.2919936
+16,Michoacán de Ocampo,011,Briseñas,20.2679647,-102.5615872
+16,Michoacán de Ocampo,012,Buenavista,19.2098642,-102.586917
+16,Michoacán de Ocampo,013,Carácuaro,19.0202743,-101.1230226
+16,Michoacán de Ocampo,014,Coahuayana,18.7372222,-103.6688888
+16,Michoacán de Ocampo,015,Coalcomán de Vázquez Pallares,18.77496,-103.159617
+16,Michoacán de Ocampo,016,Coeneo,19.8204602,-101.5843337
+16,Michoacán de Ocampo,017,Contepec,19.9521591,-100.1619222
+16,Michoacán de Ocampo,018,Copándaro,19.8984039,-101.3336566
+16,Michoacán de Ocampo,019,Cotija,19.81473,-102.714996
+16,Michoacán de Ocampo,020,Cuitzeo,19.9694366,-101.1419185
+16,Michoacán de Ocampo,021,Charapan,19.6505125,-102.2493909
+16,Michoacán de Ocampo,022,Charo,19.7467384,-101.0442269
+16,Michoacán de Ocampo,023,Chavinda,20.0041995,-102.4581209
+16,Michoacán de Ocampo,024,Cherán,19.6877392,-101.9547783
+16,Michoacán de Ocampo,025,Chilchota,19.8463172,-102.120398
+16,Michoacán de Ocampo,026,Chinicuila,18.7578994,-103.3687863
+16,Michoacán de Ocampo,027,Chucándiro,19.8984039,-101.3336566
+16,Michoacán de Ocampo,028,Churintzio,20.1503047,-102.0654091
+16,Michoacán de Ocampo,029,Churumuco,18.6637253,-101.6483608
+16,Michoacán de Ocampo,030,Ecuandureo,20.1615192,-102.1945346
+16,Michoacán de Ocampo,031,Epitacio Huerta,20.1348076,-100.2934518
+16,Michoacán de Ocampo,032,Erongarícuaro,19.5880504,-101.7209351
+16,Michoacán de Ocampo,033,Gabriel Zamora,19.1566045,-102.0536452
+16,Michoacán de Ocampo,034,Hidalgo,19.6924882,-100.5553209
+16,Michoacán de Ocampo,035,La Huacana,18.9600109,-101.8065089
+16,Michoacán de Ocampo,036,Huandacareo,19.9870208,-101.2807224
+16,Michoacán de Ocampo,037,Huaniqueo,19.2999963,-101.6833324
+16,Michoacán de Ocampo,038,Huetamo,18.6314909,-100.8994044
+16,Michoacán de Ocampo,039,Huiramba,19.5448149,-101.4348016
+16,Michoacán de Ocampo,040,Indaparapeo,19.792134,-100.9722226
+16,Michoacán de Ocampo,041,Irimbo,19.697073,-100.479452
+16,Michoacán de Ocampo,042,Ixtlán,20.1679612,-102.3937069
+16,Michoacán de Ocampo,043,Jacona,19.9534201,-102.3068608
+16,Michoacán de Ocampo,044,Jiménez,19.9233529,-101.7433609
+16,Michoacán de Ocampo,045,Jiquilpan,19.994231,-102.7192577
+16,Michoacán de Ocampo,046,Juárez,19.3144894,-100.4339225
+16,Michoacán de Ocampo,047,Jungapeo,19.4567599,-100.4944884
+16,Michoacán de Ocampo,048,Lagunillas,19.5649037,-101.4140434
+16,Michoacán de Ocampo,049,Madero,19.5832487,-100.33902
+16,Michoacán de Ocampo,050,Maravatío,19.8954098,-100.4477181
+16,Michoacán de Ocampo,051,Marcos Castellanos,19.9891511,-103.0213677
+16,Michoacán de Ocampo,052,Lázaro Cárdenas,17.9567646,-102.1943485
+16,Michoacán de Ocampo,053,Morelia,19.7059504,-101.1949825
+16,Michoacán de Ocampo,054,Morelos,19.6453794,-101.2367401
+16,Michoacán de Ocampo,055,Múgica,19.0235692,-102.0935155
+16,Michoacán de Ocampo,056,Nahuatzen,19.6563799,-101.9192065
+16,Michoacán de Ocampo,057,Nocupétaro,19.04767,-101.154701
+16,Michoacán de Ocampo,058,Nuevo Parangaricutiro,19.4172417,-102.1286027
+16,Michoacán de Ocampo,059,Nuevo Urecho,19.1647103,-101.8678196
+16,Michoacán de Ocampo,060,Numarán,20.256077,-101.9547783
+16,Michoacán de Ocampo,061,Ocampo,19.5832047,-100.3396012
+16,Michoacán de Ocampo,062,Pajacuarán,20.1196903,-102.5613571
+16,Michoacán de Ocampo,063,Panindícuaro,19.9823608,-101.7552333
+16,Michoacán de Ocampo,064,Parácuaro,19.1459745,-102.2188255
+16,Michoacán de Ocampo,065,Paracho,19.6464537,-102.0461233
+16,Michoacán de Ocampo,066,Pátzcuaro,19.5134498,-101.6091554
+16,Michoacán de Ocampo,067,Penjamillo,20.1057224,-101.9343149
+16,Michoacán de Ocampo,068,Peribán,19.5215342,-102.4179988
+16,Michoacán de Ocampo,069,La Piedad,20.3307372,-102.0443851
+16,Michoacán de Ocampo,070,Purépero,19.9068328,-102.0061503
+16,Michoacán de Ocampo,071,Puruándiro,20.0880149,-101.5156981
+16,Michoacán de Ocampo,072,Queréndaro,19.8090957,-100.8874865
+16,Michoacán de Ocampo,073,Quiroga,19.6648009,-101.5232766
+16,Michoacán de Ocampo,074,Cojumatlán de Régules,20.1158954,-102.8543598
+16,Michoacán de Ocampo,075,Los Reyes,19.5881049,-102.469587
+16,Michoacán de Ocampo,076,Sahuayo,20.0587903,-102.7162354
+16,Michoacán de Ocampo,077,San Lucas,18.5897627,-100.7858287
+16,Michoacán de Ocampo,078,Santa Ana Maya,20.0062768,-101.0231001
+16,Michoacán de Ocampo,079,Salvador Escalante,19.4064279,-101.6396979
+16,Michoacán de Ocampo,080,Senguio,19.7343789,-100.3519104
+16,Michoacán de Ocampo,081,Susupuato,19.2137182,-100.4074374
+16,Michoacán de Ocampo,082,Tacámbaro,19.2343775,-101.4576663
+16,Michoacán de Ocampo,083,Tancítaro,19.3368654,-102.3624818
+16,Michoacán de Ocampo,084,Tangamandapio,19.953163,-102.4351923
+16,Michoacán de Ocampo,085,Tangancícuaro,19.8866215,-102.2070788
+16,Michoacán de Ocampo,086,Tanhuato,20.2824231,-102.3320708
+16,Michoacán de Ocampo,087,Taretan,19.3345059,-101.9182383
+16,Michoacán de Ocampo,088,Tarímbaro,19.7911756,-101.1758932
+16,Michoacán de Ocampo,089,Tepalcatepec,19.1907433,-102.8457316
+16,Michoacán de Ocampo,090,Tingambato,19.5013282,-101.8521082
+16,Michoacán de Ocampo,091,Tingüindín,19.7389324,-102.4867883
+16,Michoacán de Ocampo,092,Tiquicheo de Nicolás Romero,18.9004727,-100.7372754
+16,Michoacán de Ocampo,093,Tlalpujahua,19.8055547,-100.1734224
+16,Michoacán de Ocampo,094,Tlazazalca,19.9702137,-102.0562139
+16,Michoacán de Ocampo,095,Tocumbo,19.7020667,-102.5225624
+16,Michoacán de Ocampo,096,Tumbiscatío,18.5244541,-102.3760623
+16,Michoacán de Ocampo,097,Turicato,19.0529909,-101.4186301
+16,Michoacán de Ocampo,098,Tuxpan,19.5683845,-100.463784
+16,Michoacán de Ocampo,099,Tuzantla,19.2066671,-100.5753759
+16,Michoacán de Ocampo,100,Tzintzuntzan,19.6287856,-101.57769
+16,Michoacán de Ocampo,101,Tzitzio,19.5858518,-100.9234067
+16,Michoacán de Ocampo,102,Uruapan,19.4064492,-102.0430476
+16,Michoacán de Ocampo,103,Venustiano Carranza,19.5815629,-100.3395057
+16,Michoacán de Ocampo,104,Villamar,20.020413,-102.595205
+16,Michoacán de Ocampo,105,Vista Hermosa,20.2727958,-102.4736623
+16,Michoacán de Ocampo,106,Yurécuaro,20.329802,-102.2834075
+16,Michoacán de Ocampo,107,Zacapu,19.8125119,-101.7956703
+16,Michoacán de Ocampo,108,Zamora,19.9901766,-102.2834075
+16,Michoacán de Ocampo,109,Zináparo,20.1720026,-101.9980308
+16,Michoacán de Ocampo,110,Zinapécuaro,19.8600588,-100.8272566
+16,Michoacán de Ocampo,111,Ziracuaretiro,19.416371,-101.9102526
+16,Michoacán de Ocampo,112,Zitácuaro,19.4376056,-100.3558695
+16,Michoacán de Ocampo,113,José Sixto Verduzco,20.3031069,-101.5975921
+17,Morelos,001,Amacuzac,18.6004449,-99.3700834
+17,Morelos,002,Atlatlahucan,18.9353236,-98.8997015
+17,Morelos,003,Axochiapan,18.5036585,-98.7536237
+17,Morelos,004,Ayala,18.7607379,-98.9821002
+17,Morelos,005,Coatlán del Río,18.7438102,-99.4352529
+17,Morelos,006,Cuautla,18.8246624,-98.9509636
+17,Morelos,007,Cuernavaca,18.9283763,-99.2503245
+17,Morelos,008,Emiliano Zapata,18.8478608,-99.1843676
+17,Morelos,009,Huitzilac,19.0282112,-99.2679119
+17,Morelos,010,Jantetelco,18.7159227,-98.7770328
+17,Morelos,011,Jiutepec,18.8954874,-99.1732936
+17,Morelos,012,Jojutla,18.6144195,-99.1781178
+17,Morelos,013,Jonacatepec de Leandro Valle,18.6868603,-98.8004489
+17,Morelos,014,Mazatepec,18.7270683,-99.3644753
+17,Morelos,015,Miacatlán,18.7717876,-99.3534348
+17,Morelos,016,Ocuituco,18.8776584,-98.7739324
+17,Morelos,017,Puente de Ixtla,18.6146871,-99.3201479
+17,Morelos,018,Temixco,18.8593026,-99.2393666
+17,Morelos,019,Tepalcingo,18.5958003,-98.8460125
+17,Morelos,020,Tepoztlán,18.9848015,-99.0930528
+17,Morelos,021,Tetecala,18.727412,-99.3978939
+17,Morelos,022,Tetela del Volcán,18.8937717,-98.7205877
+17,Morelos,023,Tlalnepantla,19.0076969,-98.9977835
+17,Morelos,024,Tlaltizapán de Zapata,18.6874731,-99.1189674
+17,Morelos,025,Tlaquiltenango,18.6333701,-99.1612083
+17,Morelos,026,Tlayacapan,18.960767,-98.9825083
+17,Morelos,027,Totolapan,18.9813757,-98.9217747
+17,Morelos,028,Xochitepec,18.7955184,-99.2314492
+17,Morelos,029,Yautepec,18.8891562,-99.0626377
+17,Morelos,030,Yecapixtla,18.8782827,-98.8610882
+17,Morelos,031,Zacatepec,18.6590633,-99.1954432
+17,Morelos,032,Zacualpan de Amilpas,18.7885026,-98.7673929
+17,Morelos,033,Temoac,18.7725947,-98.7750731
+18,Nayarit,001,Acaponeta,22.4959544,-105.3628846
+18,Nayarit,002,Ahuacatlán,21.0533791,-104.4810648
+18,Nayarit,003,Amatlán de Cañas,20.8076722,-104.4040539
+18,Nayarit,004,Compostela,21.2379255,-104.9007613
+18,Nayarit,005,Huajicori,22.6390639,-105.3195089
+18,Nayarit,006,Ixtlán del Río,21.0337968,-104.3704625
+18,Nayarit,007,Jala,21.1046363,-104.4378579
+18,Nayarit,008,Xalisco,21.4514572,-104.8987807
+18,Nayarit,009,Del Nayar,21.7513844,-104.8454619
+18,Nayarit,010,Rosamorada,22.1220309,-105.2055226
+18,Nayarit,011,Ruíz,21.9526169,-105.1397602
+18,Nayarit,012,San Blas,21.541297,-105.2847231
+18,Nayarit,013,San Pedro Lagunillas,21.2187887,-104.7513914
+18,Nayarit,014,Santa María del Oro,21.3333527,-104.587671
+18,Nayarit,015,Santiago Ixcuintla,21.8131863,-105.204327
+18,Nayarit,016,Tecuala,22.3965755,-105.4595306
+18,Nayarit,017,Tepic,21.5041651,-104.8945887
+18,Nayarit,018,Tuxpan,21.9446539,-105.2984842
+18,Nayarit,019,La Yesca,21.3182152,-104.0101271
+18,Nayarit,020,Bahía de Banderas,20.8074834,-105.2480864
+19,Nuevo León,001,Abasolo,25.9482189,-100.3989242
+19,Nuevo León,002,Agualeguas,26.3127579,-99.5390776
+19,Nuevo León,003,Los Aldamas,26.0640022,-99.1957601
+19,Nuevo León,004,Allende,25.2797312,-100.0191857
+19,Nuevo León,005,Anáhuac,27.241196,-100.1334498
+19,Nuevo León,006,Apodaca,25.776468,-100.1858743
+19,Nuevo León,007,Aramberri,24.0979212,-99.8152833
+19,Nuevo León,008,Bustamante,26.5324753,-100.507826
+19,Nuevo León,009,Cadereyta Jiménez,25.5859879,-99.9968167
+19,Nuevo León,010,El Carmen,25.9375976,-100.3638252
+19,Nuevo León,011,Cerralvo,26.0846419,-99.6167464
+19,Nuevo León,012,Ciénega de Flores,25.9543957,-100.166333
+19,Nuevo León,013,China,25.7063738,-99.2397606
+19,Nuevo León,014,Doctor Arroyo,23.6773342,-100.1828301
+19,Nuevo León,015,Doctor Coss,25.9249814,-99.1833106
+19,Nuevo León,016,Doctor González,25.8588845,-99.9425681
+19,Nuevo León,017,Galeana,24.8254612,-100.077366
+19,Nuevo León,018,García,25.801032,-100.5861995
+19,Nuevo León,019,San Pedro Garza García,25.6573447,-100.4017501
+19,Nuevo León,020,General Bravo,25.7954349,-99.176062
+19,Nuevo León,021,General Escobedo,25.8002233,-100.3122083
+19,Nuevo León,022,General Terán,25.2583781,-99.6814748
+19,Nuevo León,023,General Treviño,26.2229837,-99.4838189
+19,Nuevo León,024,General Zaragoza,23.9654349,-99.770657
+19,Nuevo León,025,General Zuazua,25.890797,-100.1171172
+19,Nuevo León,026,Guadalupe,25.6748291,-100.2155063
+19,Nuevo León,027,Los Herreras,25.9057049,-99.4064424
+19,Nuevo León,028,Higueras,25.9634257,-100.0150624
+19,Nuevo León,029,Hualahuises,24.8219744,-99.8180314
+19,Nuevo León,030,Iturbide,24.7278966,-99.9058521
+19,Nuevo León,031,Juárez,25.6516471,-100.1059194
+19,Nuevo León,032,Lampazos de Naranjo,27.0244594,-100.5080126
+19,Nuevo León,033,Linares,24.8639494,-99.5617847
+19,Nuevo León,034,Marín,25.8782453,-100.0297353
+19,Nuevo León,035,Melchor Ocampo,26.0564355,-99.5436538
+19,Nuevo León,036,Mier y Noriega,23.4250621,-100.1171172
+19,Nuevo León,037,Mina,26.0003515,-100.5381592
+19,Nuevo León,038,Montemorelos,25.1889176,-99.8363028
+19,Nuevo León,039,Monterrey,25.6866142,-100.3161126
+19,Nuevo León,040,Parás,26.4958078,-99.523821
+19,Nuevo León,041,Pesquería,25.7917265,-100.0485536
+19,Nuevo León,042,Los Ramones,25.6969857,-99.6236474
+19,Nuevo León,043,Rayones,25.0160712,-100.0748225
+19,Nuevo León,044,Sabinas Hidalgo,26.5088029,-100.1759285
+19,Nuevo León,045,Salinas Victoria,25.9662105,-100.2908632
+19,Nuevo León,046,San Nicolás de los Garza,25.7493469,-100.2868973
+19,Nuevo León,047,Hidalgo,25.9722869,-100.4506026
+19,Nuevo León,048,Santa Catarina,25.6746058,-100.4423188
+19,Nuevo León,049,Santiago,25.4324736,-100.1559256
+19,Nuevo León,050,Vallecillo,26.6595908,-99.9872936
+19,Nuevo León,051,Villaldama,26.499017,-100.4312272
+20,Oaxaca,001,Abejones,17.4372788,-96.6097101
+20,Oaxaca,002,Acatlán de Pérez Figueroa,18.5375878,-96.6053164
+20,Oaxaca,003,Asunción Cacalotepec,17.0332732,-95.9581464
+20,Oaxaca,004,Asunción Cuyotepeji,17.9286234,-97.6755292
+20,Oaxaca,005,Asunción Ixtaltepec,16.5002684,-95.0624713
+20,Oaxaca,006,Asunción Nochixtlán,17.4606859,-97.2275336
+20,Oaxaca,007,Asunción Ocotlán,16.7601499,-96.7206091
+20,Oaxaca,008,Asunción Tlacolulita,16.2995703,-95.7272346
+20,Oaxaca,009,Ayotzintepec,17.6728367,-96.1287731
+20,Oaxaca,010,El Barrio de la Soledad,16.8013227,-95.1115341
+20,Oaxaca,011,Calihualá,17.5320621,-98.2781574
+20,Oaxaca,012,Candelaria Loxicha,15.9262377,-96.491428
+20,Oaxaca,013,Ciénega de Zimatlán,16.8972018,-96.7673038
+20,Oaxaca,014,Ciudad Ixtepec,16.5611267,-95.0963141
+20,Oaxaca,015,Coatecas Altas,16.5377542,-96.667995
+20,Oaxaca,016,Coicoyán de las Flores,17.2712655,-98.2741236
+20,Oaxaca,017,La Compañía,16.5562638,-96.8196719
+20,Oaxaca,018,Concepción Buenavista,17.8776496,-97.4005295
+20,Oaxaca,019,Concepción Pápalo,17.8421017,-96.8815721
+20,Oaxaca,020,Constancia del Rosario,17.0378827,-97.9431864
+20,Oaxaca,021,Cosolapa,18.5986938,-96.6811877
+20,Oaxaca,022,Cosoltepec,18.1427202,-97.7906646
+20,Oaxaca,023,Cuilápam de Guerrero,16.9914845,-96.7788461
+20,Oaxaca,024,Cuyamecalco Villa de Zaragoza,17.966606,-96.830873
+20,Oaxaca,025,Chahuites,16.2865309,-94.1929799
+20,Oaxaca,026,Chalcatongo de Hidalgo,17.0323796,-97.5719788
+20,Oaxaca,027,Chiquihuitlán de Benito Juárez,17.9958277,-96.7454519
+20,Oaxaca,028,Heroica Ciudad de Ejutla de Crespo,16.5647494,-96.7306673
+20,Oaxaca,029,Eloxochitlán de Flores Magón,18.1761604,-96.8770459
+20,Oaxaca,030,El Espinal,16.4832743,-95.0364522
+20,Oaxaca,031,Tamazulápam del Espíritu Santo,17.0543893,-96.0646101
+20,Oaxaca,032,Fresnillo de Trujano,17.9076132,-98.1339594
+20,Oaxaca,033,Guadalupe Etla,17.1696107,-96.8088801
+20,Oaxaca,034,Guadalupe de Ramírez,17.7537979,-98.1665498
+20,Oaxaca,035,Guelatao de Juárez,17.3176314,-96.4911349
+20,Oaxaca,036,Guevea de Humboldt,16.79254,-95.368071
+20,Oaxaca,037,Mesones Hidalgo,16.9135489,-97.9671256
+20,Oaxaca,038,Villa Hidalgo,17.1846039,-96.1763334
+20,Oaxaca,039,Heroica Ciudad de Huajuapan de León,17.8112504,-97.7803482
+20,Oaxaca,040,Huautepec,18.1016878,-96.7989312
+20,Oaxaca,041,Huautla de Jiménez,18.130831,-96.8436739
+20,Oaxaca,042,Ixtlán de Juárez,17.3321811,-96.4873643
+20,Oaxaca,043,Heroica Ciudad de Juchitán de Zaragoza,16.4406909,-95.0221197
+20,Oaxaca,044,Loma Bonita,18.1096868,-95.8803869
+20,Oaxaca,045,Magdalena Apasco,17.2406719,-96.8219174
+20,Oaxaca,046,Magdalena Jaltepec,17.3229865,-97.2206998
+20,Oaxaca,047,Santa Magdalena Jicotlán,17.8066478,-97.4698602
+20,Oaxaca,048,Magdalena Mixtepec,16.8986546,-96.9033046
+20,Oaxaca,049,Magdalena Ocotlán,16.7073009,-96.7102151
+20,Oaxaca,050,Magdalena Peñasco,17.2355458,-97.5504496
+20,Oaxaca,051,Magdalena Teitipac,16.9046705,-96.5596566
+20,Oaxaca,052,Magdalena Tequisistlán,16.3966637,-95.6016241
+20,Oaxaca,053,Magdalena Tlacotepec,16.5050164,-95.2026557
+20,Oaxaca,054,Magdalena Zahuatlán,17.3880077,-97.230194
+20,Oaxaca,055,Mariscala de Juárez,17.8608693,-98.1395347
+20,Oaxaca,056,Mártires de Tacubaya,16.5349724,-98.2525511
+20,Oaxaca,057,Matías Romero Avendaño,16.8681196,-95.0442567
+20,Oaxaca,058,Mazatlán Villa de Flores,18.0333077,-96.915574
+20,Oaxaca,059,Miahuatlán de Porfirio Díaz,16.3317796,-96.5943562
+20,Oaxaca,060,Mixistlán de la Reforma,17.1462794,-96.1131407
+20,Oaxaca,061,Monjas,16.3679709,-96.6367229
+20,Oaxaca,062,Natividad,17.2985505,-96.4317253
+20,Oaxaca,063,Nazareno Etla,17.1782674,-96.8187439
+20,Oaxaca,064,Nejapa de Madero,16.6072008,-95.9792662
+20,Oaxaca,065,Ixpantepec Nieves,17.5106174,-98.0489859
+20,Oaxaca,066,Santiago Niltepec,16.5611537,-94.6138639
+20,Oaxaca,067,Oaxaca de Juárez,17.0731842,-96.7265889
+20,Oaxaca,068,Ocotlán de Morelos,16.786676,-96.6691579
+20,Oaxaca,069,La Pe,16.6295102,-96.7974229
+20,Oaxaca,070,Pinotepa de Don Luis,16.4270769,-97.9765874
+20,Oaxaca,071,Pluma Hidalgo,15.9258292,-96.4200279
+20,Oaxaca,072,San José del Progreso,16.6858754,-96.6843954
+20,Oaxaca,073,Putla Villa de Guerrero,17.0320856,-97.9293247
+20,Oaxaca,074,Santa Catarina Quioquitani,16.3145975,-96.2843862
+20,Oaxaca,075,Reforma de Pineda,16.3985129,-94.4586566
+20,Oaxaca,076,La Reforma,16.6240684,-97.846607
+20,Oaxaca,077,Reyes Etla,17.2043774,-96.8078899
+20,Oaxaca,078,Rojas de Cuauhtémoc,17.0067948,-96.6180228
+20,Oaxaca,079,Salina Cruz,16.1842839,-95.2087625
+20,Oaxaca,080,San Agustín Amatengo,16.5085234,-96.7885304
+20,Oaxaca,081,San Agustín Atenango,17.6113217,-98.0147369
+20,Oaxaca,082,San Agustín Chayuco,16.4018284,-97.8083391
+20,Oaxaca,083,San Agustín de las Juntas,17.0055311,-96.7092661
+20,Oaxaca,084,San Agustín Etla,17.1926037,-96.7637336
+20,Oaxaca,085,San Agustín Loxicha,16.0163742,-96.6156211
+20,Oaxaca,086,San Agustín Tlacotepec,17.2047077,-97.5179556
+20,Oaxaca,087,San Agustín Yatareni,17.0787711,-96.6704944
+20,Oaxaca,088,San Andrés Cabecera Nueva,16.8890398,-97.6784282
+20,Oaxaca,089,San Andrés Dinicuiti,17.6892576,-97.7271882
+20,Oaxaca,090,San Andrés Huaxpaltepec,16.3288109,-97.9176284
+20,Oaxaca,091,San Andrés Huayápam,17.0931095,-96.6811877
+20,Oaxaca,092,San Andrés Ixtlahuaca,17.0719217,-96.8324201
+20,Oaxaca,093,San Andrés Lagunas,17.572366,-97.5212825
+20,Oaxaca,094,San Andrés Nuxiño,17.2387917,-97.1042889
+20,Oaxaca,095,San Andrés Paxtlán,16.2177877,-96.5093728
+20,Oaxaca,096,San Andrés Sinaxtla,17.4670034,-97.2830278
+20,Oaxaca,097,San Andrés Solaga,17.272047,-96.2362011
+20,Oaxaca,098,San Andrés Teotilálpam,17.9529952,-96.6563466
+20,Oaxaca,099,San Andrés Tepetlapa,17.6653036,-98.3900454
+20,Oaxaca,100,San Andrés Yaá,17.2944171,-96.1526058
+20,Oaxaca,101,San Andrés Zabache,16.5990472,-96.8579924
+20,Oaxaca,102,San Andrés Zautla,17.1852544,-96.8610946
+20,Oaxaca,103,San Antonino Castillo Velasco,16.7998026,-96.6820341
+20,Oaxaca,104,San Antonino el Alto,16.817735,-97.0300799
+20,Oaxaca,105,San Antonino Monte Verde,17.5330507,-97.7214489
+20,Oaxaca,106,San Antonio Acutla,17.7432259,-97.5000841
+20,Oaxaca,107,San Antonio de la Cal,17.0263388,-96.7029918
+20,Oaxaca,108,San Antonio Huitepec,16.9266325,-97.1459638
+20,Oaxaca,109,San Antonio Nanahuatípam,18.1303502,-97.1239719
+20,Oaxaca,110,San Antonio Sinicahua,17.1522844,-97.5660275
+20,Oaxaca,111,San Antonio Tepetlapa,16.5418499,-98.0651101
+20,Oaxaca,112,San Baltazar Chichicápam,16.7618028,-96.4900983
+20,Oaxaca,113,San Baltazar Loxicha,16.0719969,-96.7906571
+20,Oaxaca,114,San Baltazar Yatzachi el Bajo,17.226108,-96.2210042
+20,Oaxaca,115,San Bartolo Coyotepec,16.9541863,-96.7079287
+20,Oaxaca,116,San Bartolomé Ayautla,18.0311952,-96.6722084
+20,Oaxaca,117,San Bartolomé Loxicha,15.9705656,-96.7099348
+20,Oaxaca,118,San Bartolomé Quialana,16.9016185,-96.5009038
+20,Oaxaca,119,San Bartolomé Yucuañe,17.2395715,-97.4490502
+20,Oaxaca,120,San Bartolomé Zoogocho,17.2423052,-96.2442321
+20,Oaxaca,121,San Bartolo Soyaltepec,17.5905266,-97.3069024
+20,Oaxaca,122,San Bartolo Yautepec,16.4272627,-95.9743113
+20,Oaxaca,123,San Bernardo Mixtepec,16.8241845,-96.8978263
+20,Oaxaca,124,San Blas Atempa,16.3296269,-95.2253799
+20,Oaxaca,125,San Carlos Yautepec,16.4965846,-96.1065459
+20,Oaxaca,126,San Cristóbal Amatlán,16.3194787,-96.4101711
+20,Oaxaca,127,San Cristóbal Amoltepec,17.2834972,-97.5745694
+20,Oaxaca,128,San Cristóbal Lachirioag,17.3369574,-96.1640333
+20,Oaxaca,129,San Cristóbal Suchixtlahuaca,17.7265606,-97.3653871
+20,Oaxaca,130,San Dionisio del Mar,16.3253664,-94.7562159
+20,Oaxaca,131,San Dionisio Ocotepec,16.7983019,-96.3965776
+20,Oaxaca,132,San Dionisio Ocotlán,16.7466502,-96.6800509
+20,Oaxaca,133,San Esteban Atatlahuca,17.0532292,-97.6695552
+20,Oaxaca,134,San Felipe Jalapa de Díaz,18.069931,-96.535417
+20,Oaxaca,135,San Felipe Tejalápam,17.1100262,-96.8539674
+20,Oaxaca,136,San Felipe Usila,17.8896907,-96.5223449
+20,Oaxaca,137,San Francisco Cahuacuá,16.8934,-97.3050833
+20,Oaxaca,138,San Francisco Cajonos,17.1722291,-96.250976
+20,Oaxaca,139,San Francisco Chapulapa,17.9410487,-96.7560906
+20,Oaxaca,140,San Francisco Chindúa,17.4292209,-97.3116112
+20,Oaxaca,141,San Francisco del Mar,16.3394296,-94.5160396
+20,Oaxaca,142,San Francisco Huehuetlán,18.1966697,-96.9474456
+20,Oaxaca,143,San Francisco Ixhuatán,16.3489502,-94.4825512
+20,Oaxaca,144,San Francisco Jaltepetongo,17.3868225,-97.2619587
+20,Oaxaca,145,San Francisco Lachigoló,17.0149139,-96.6018063
+20,Oaxaca,146,San Francisco Logueche,16.3537025,-96.3757309
+20,Oaxaca,147,San Francisco Nuxaño,17.3786857,-97.3443566
+20,Oaxaca,148,San Francisco Ozolotepec,16.0992114,-96.2218221
+20,Oaxaca,149,San Francisco Sola,16.5151875,-96.9749525
+20,Oaxaca,150,San Francisco Telixtlahuaca,17.3042505,-96.9128637
+20,Oaxaca,151,San Francisco Teopan,17.8491986,-97.4963003
+20,Oaxaca,152,San Francisco Tlapancingo,17.4841139,-98.268567
+20,Oaxaca,153,San Gabriel Mixtepec,16.0946107,-97.0815626
+20,Oaxaca,154,San Ildefonso Amatlán,16.334628,-96.490774
+20,Oaxaca,155,San Ildefonso Sola,16.5192717,-96.9825782
+20,Oaxaca,156,San Ildefonso Villa Alta,17.3385986,-96.1523763
+20,Oaxaca,157,San Jacinto Amilpas,17.101352,-96.759611
+20,Oaxaca,158,San Jacinto Tlacotepec,16.5176323,-97.3881261
+20,Oaxaca,159,San Jerónimo Coatlán,16.23102,-96.870498
+20,Oaxaca,160,San Jerónimo Silacayoapilla,17.8087562,-97.8426204
+20,Oaxaca,161,San Jerónimo Sosola,17.3654777,-97.0330866
+20,Oaxaca,162,San Jerónimo Taviche,16.717097,-96.5931702
+20,Oaxaca,163,San Jerónimo Tecóatl,18.1653922,-96.9124981
+20,Oaxaca,164,San Jorge Nuchita,17.6565312,-98.1047219
+20,Oaxaca,165,San José Ayuquila,17.9411272,-97.9677571
+20,Oaxaca,166,San José Chiltepec,17.9552317,-96.1561301
+20,Oaxaca,167,San José del Peñasco,16.308152,-96.5063095
+20,Oaxaca,168,San José Estancia Grande,16.3627119,-98.2500125
+20,Oaxaca,169,San José Independencia,18.2397474,-96.646441
+20,Oaxaca,170,San José Lachiguiri,16.3788539,-96.3347315
+20,Oaxaca,171,San José Tenango,18.1516867,-96.7186283
+20,Oaxaca,172,San Juan Achiutla,17.3437945,-97.5080037
+20,Oaxaca,173,San Juan Atepec,17.4265204,-96.5404581
+20,Oaxaca,174,Ánimas Trujano,16.9892472,-96.7132783
+20,Oaxaca,175,San Juan Bautista Atatlahuca,17.5308587,-96.8305364
+20,Oaxaca,176,San Juan Bautista Coixtlahuaca,17.7223892,-97.3214505
+20,Oaxaca,177,San Juan Bautista Cuicatlán,17.8000359,-96.9612869
+20,Oaxaca,178,San Juan Bautista Guelache,17.2272433,-96.7773563
+20,Oaxaca,179,San Juan Bautista Jayacatlán,17.4268629,-96.8198361
+20,Oaxaca,180,San Juan Bautista Lo de Soto,16.5116662,-98.3478624
+20,Oaxaca,181,San Juan Bautista Suchitepec,17.9714438,-97.6609986
+20,Oaxaca,182,San Juan Bautista Tlacoatzintepec,17.8592082,-96.5852964
+20,Oaxaca,183,San Juan Bautista Tlachichilco,17.6229085,-98.3453028
+20,Oaxaca,184,San Juan Bautista Tuxtepec,18.0809028,-96.1420947
+20,Oaxaca,185,San Juan Cacahuatepec,16.6138985,-98.1546188
+20,Oaxaca,186,San Juan Cieneguilla,17.8505512,-98.2807871
+20,Oaxaca,187,San Juan Coatzóspam,18.0485457,-96.7626171
+20,Oaxaca,188,San Juan Colorado,16.459818,-97.9543638
+20,Oaxaca,189,San Juan Comaltepec,17.3364946,-95.9773093
+20,Oaxaca,190,San Juan Cotzocón,17.163192,-95.7787455
+20,Oaxaca,191,San Juan Chicomezúchil,17.2884584,-96.4954819
+20,Oaxaca,192,San Juan Chilateca,16.8297223,-96.6694864
+20,Oaxaca,193,San Juan del Estado,17.2749644,-96.7983339
+20,Oaxaca,194,San Juan del Río,16.8837432,-96.1639199
+20,Oaxaca,195,San Juan Diuxi,17.2838274,-97.3776718
+20,Oaxaca,196,San Juan Evangelista Analco,17.4056369,-96.5380694
+20,Oaxaca,197,San Juan Guelavía,16.9544217,-96.5441635
+20,Oaxaca,198,San Juan Guichicovi,16.9629744,-95.0941536
+20,Oaxaca,199,San Juan Ihualtepec,17.7404437,-98.2899405
+20,Oaxaca,200,San Juan Juquila Mixes,16.9342326,-95.9167284
+20,Oaxaca,201,San Juan Juquila Vijanos,17.3559057,-96.3046652
+20,Oaxaca,202,San Juan Lachao,16.1577714,-97.1244616
+20,Oaxaca,203,San Juan Lachigalla,16.5901297,-96.5486846
+20,Oaxaca,204,San Juan Lajarcia,16.5102861,-95.9260681
+20,Oaxaca,205,San Juan Lalana,17.47005,-95.8783902
+20,Oaxaca,206,San Juan de los Cués,18.0466604,-97.0593894
+20,Oaxaca,207,San Juan Mazatlán,17.0268039,-95.4396084
+20,Oaxaca,208,San Juan Mixtepec,16.2762075,-96.3020174
+20,Oaxaca,209,San Juan Mixtepec,16.2762075,-96.3020174
+20,Oaxaca,210,San Juan Ñumí,17.3977716,-97.7051877
+20,Oaxaca,211,San Juan Ozolotepec,16.1315697,-96.2588514
+20,Oaxaca,212,San Juan Petlapa,17.4683504,-96.0359558
+20,Oaxaca,213,San Juan Quiahije,16.3009879,-97.3187779
+20,Oaxaca,214,San Juan Quiotepec,17.6021084,-96.5876817
+20,Oaxaca,215,San Juan Sayultepec,17.4501094,-97.2853963
+20,Oaxaca,216,San Juan Tabaá,17.3048532,-96.2064711
+20,Oaxaca,217,San Juan Tamazola,17.0917226,-97.1283225
+20,Oaxaca,218,San Juan Teita,17.0969753,-97.4151536
+20,Oaxaca,219,San Juan Teitipac,16.9266413,-96.6061396
+20,Oaxaca,220,San Juan Tepeuxila,17.7222917,-96.8413866
+20,Oaxaca,221,San Juan Teposcolula,17.5504325,-97.4246158
+20,Oaxaca,222,San Juan Yaeé,17.4309154,-96.2827431
+20,Oaxaca,223,San Juan Yatzona,17.4010311,-96.1690478
+20,Oaxaca,224,San Juan Yucuita,17.50941,-97.2677612
+20,Oaxaca,225,San Lorenzo,17.5830555,-95.7772222
+20,Oaxaca,226,San Lorenzo Albarradas,16.9058643,-96.2603236
+20,Oaxaca,227,San Lorenzo Cacaotepec,17.1256968,-96.8056276
+20,Oaxaca,228,San Lorenzo Cuaunecuiltitla,18.2050007,-96.9129974
+20,Oaxaca,229,San Lorenzo Texmelúcan,16.5845936,-97.1989873
+20,Oaxaca,230,San Lorenzo Victoria,17.6679839,-98.1195529
+20,Oaxaca,231,San Lucas Camotlán,16.9419531,-95.7130229
+20,Oaxaca,232,San Lucas Ojitlán,18.0587766,-96.3943013
+20,Oaxaca,233,San Lucas Quiaviní,16.8950917,-96.4686927
+20,Oaxaca,234,San Lucas Zoquiápam,18.1353249,-96.9058429
+20,Oaxaca,235,San Luis Amatlán,16.3877194,-96.4970294
+20,Oaxaca,236,San Marcial Ozolotepec,16.0891347,-96.4056449
+20,Oaxaca,237,San Marcos Arteaga,17.719796,-97.8609832
+20,Oaxaca,238,San Martín de los Cansecos,16.6554294,-96.7287296
+20,Oaxaca,239,San Martín Huamelúlpam,17.3965946,-97.6066574
+20,Oaxaca,240,San Martín Itunyoso,17.228385,-97.881418
+20,Oaxaca,241,San Martín Lachilá,16.6105137,-96.8499895
+20,Oaxaca,242,San Martín Peras,17.3597421,-98.2404397
+20,Oaxaca,243,San Martín Tilcajete,16.8602196,-96.694701
+20,Oaxaca,244,San Martín Toxpalan,18.0994834,-97.0593881
+20,Oaxaca,245,San Martín Zacatepec,17.8090464,-98.0615221
+20,Oaxaca,246,San Mateo Cajonos,17.1598614,-96.2073106
+20,Oaxaca,247,Capulálpam de Méndez,17.3040094,-96.4470119
+20,Oaxaca,248,San Mateo del Mar,16.2097542,-94.9820044
+20,Oaxaca,249,San Mateo Yoloxochitlán,18.1417317,-96.8678534
+20,Oaxaca,250,San Mateo Etlatongo,17.4157302,-97.2725738
+20,Oaxaca,251,San Mateo Nejápam,17.6562746,-98.416101
+20,Oaxaca,252,San Mateo Peñasco,17.1497957,-97.5319149
+20,Oaxaca,253,San Mateo Piñas,15.9993052,-96.3345749
+20,Oaxaca,254,San Mateo Río Hondo,16.1445187,-96.4470974
+20,Oaxaca,255,San Mateo Sindihui,17.0022486,-97.3502014
+20,Oaxaca,256,San Mateo Tlapiltepec,17.8114544,-97.4292322
+20,Oaxaca,257,San Melchor Betaza,17.2514272,-96.1550144
+20,Oaxaca,258,San Miguel Achiutla,17.3063357,-97.4891966
+20,Oaxaca,259,San Miguel Ahuehuetitlán,17.6726443,-98.3206105
+20,Oaxaca,260,San Miguel Aloápam,17.4116234,-96.6924979
+20,Oaxaca,261,San Miguel Amatitlán,17.8913587,-98.0266636
+20,Oaxaca,262,San Miguel Amatlán,17.2726672,-96.4715309
+20,Oaxaca,263,San Miguel Coatlán,16.1954641,-96.6945568
+20,Oaxaca,264,San Miguel Chicahua,17.6376102,-97.1936986
+20,Oaxaca,265,San Miguel Chimalapa,16.7172179,-94.7441221
+20,Oaxaca,266,San Miguel del Puerto,15.9202909,-96.1729261
+20,Oaxaca,267,San Miguel del Río,17.3217039,-96.5684509
+20,Oaxaca,268,San Miguel Ejutla,16.5800314,-96.7378941
+20,Oaxaca,269,San Miguel el Grande,17.0467247,-97.6206991
+20,Oaxaca,270,San Miguel Huautla,17.7396114,-97.1435763
+20,Oaxaca,271,San Miguel Mixtepec,16.7774444,-96.9581151
+20,Oaxaca,272,San Miguel Panixtlahuaca,16.2590813,-97.3786689
+20,Oaxaca,273,San Miguel Peras,16.9381548,-97.0108699
+20,Oaxaca,274,San Miguel Piedras,16.9974043,-97.2335156
+20,Oaxaca,275,San Miguel Quetzaltepec,16.9751485,-95.7632451
+20,Oaxaca,276,San Miguel Santa Flor,17.9181083,-96.797801
+20,Oaxaca,277,Villa Sola de Vega,16.5116214,-96.9794689
+20,Oaxaca,278,San Miguel Soyaltepec,18.2415413,-96.4008604
+20,Oaxaca,279,San Miguel Suchixtepec,16.0937032,-96.4653726
+20,Oaxaca,280,Villa Talea de Castro,17.3628655,-96.2468873
+20,Oaxaca,281,San Miguel Tecomatlán,17.3951192,-97.2670393
+20,Oaxaca,282,San Miguel Tenango,16.2660369,-95.5965461
+20,Oaxaca,283,San Miguel Tequixtepec,17.8007552,-97.3381532
+20,Oaxaca,284,San Miguel Tilquiápam,16.7808817,-96.5811426
+20,Oaxaca,285,San Miguel Tlacamama,16.4148359,-98.0631599
+20,Oaxaca,286,San Miguel Tlacotepec,17.4573471,-98.0056153
+20,Oaxaca,287,San Miguel Tulancingo,17.7495448,-97.4414371
+20,Oaxaca,288,San Miguel Yotao,17.3722639,-96.3339447
+20,Oaxaca,289,San Nicolás,16.4248167,-96.7426179
+20,Oaxaca,290,San Nicolás Hidalgo,17.7823864,-98.1441944
+20,Oaxaca,291,San Pablo Coatlán,16.2231447,-96.7842996
+20,Oaxaca,292,San Pablo Cuatro Venados,16.9826304,-96.8913051
+20,Oaxaca,293,San Pablo Etla,17.150816,-96.7574289
+20,Oaxaca,294,San Pablo Huitzo,17.2761297,-96.8829989
+20,Oaxaca,295,San Pablo Huixtepec,16.8210646,-96.7842015
+20,Oaxaca,296,San Pablo Macuiltianguis,17.5332437,-96.5540349
+20,Oaxaca,297,San Pablo Tijaltepec,17.0188332,-97.4973349
+20,Oaxaca,298,San Pablo Villa de Mitla,16.9213244,-96.3625053
+20,Oaxaca,299,San Pablo Yaganiza,17.1465237,-96.2283247
+20,Oaxaca,300,San Pedro Amuzgos,16.6521899,-98.0903634
+20,Oaxaca,301,San Pedro Apóstol,16.7353447,-96.7256894
+20,Oaxaca,302,San Pedro Atoyac,16.4880172,-97.9871116
+20,Oaxaca,303,San Pedro Cajonos,17.1690504,-96.2616856
+20,Oaxaca,304,San Pedro Coxcaltepec Cántaros,17.4995047,-97.1379244
+20,Oaxaca,305,San Pedro Comitancillo,16.4899209,-95.1548174
+20,Oaxaca,306,San Pedro el Alto,16.0362827,-96.4722989
+20,Oaxaca,307,San Pedro Huamelula,16.0278032,-95.6676046
+20,Oaxaca,308,San Pedro Huilotepec,16.2444054,-95.1512309
+20,Oaxaca,309,San Pedro Ixcatlán,18.1443767,-96.5101716
+20,Oaxaca,310,San Pedro Ixtlahuaca,17.0627408,-96.816005
+20,Oaxaca,311,San Pedro Jaltepetongo,17.6874283,-97.0370742
+20,Oaxaca,312,San Pedro Jicayán,16.4498522,-98.0152446
+20,Oaxaca,313,San Pedro Jocotipac,17.7683446,-97.0784442
+20,Oaxaca,314,San Pedro Juchatengo,16.3442889,-97.0897686
+20,Oaxaca,315,San Pedro Mártir,16.7427935,-96.7106035
+20,Oaxaca,316,San Pedro Mártir Quiechapa,16.413858,-96.2457285
+20,Oaxaca,317,San Pedro Mártir Yucuxaco,17.4323526,-97.6121919
+20,Oaxaca,318,San Pedro Mixtepec,15.9799244,-97.0794263
+20,Oaxaca,319,San Pedro Mixtepec,15.9799244,-97.0794263
+20,Oaxaca,320,San Pedro Molinos,17.1039114,-97.5407097
+20,Oaxaca,321,San Pedro Nopala,17.802599,-97.5401438
+20,Oaxaca,322,San Pedro Ocopetatillo,18.1857877,-96.9115044
+20,Oaxaca,323,San Pedro Ocotepec,16.9549256,-95.8464236
+20,Oaxaca,324,San Pedro Pochutla,15.7489259,-96.4672856
+20,Oaxaca,325,San Pedro Quiatoni,16.7825857,-96.0314225
+20,Oaxaca,326,San Pedro Sochiápam,17.8261637,-96.663786
+20,Oaxaca,327,San Pedro Tapanatepec,16.3693859,-94.1944784
+20,Oaxaca,328,San Pedro Taviche,16.6374862,-96.5367781
+20,Oaxaca,329,San Pedro Teozacoalco,17.015771,-97.2877944
+20,Oaxaca,330,San Pedro Teutila,17.9753235,-96.7025796
+20,Oaxaca,331,San Pedro Tidaá,17.3404395,-97.3788486
+20,Oaxaca,332,San Pedro Topiltepec,17.4372868,-97.3449042
+20,Oaxaca,333,San Pedro Totolápam,16.6662475,-96.302011
+20,Oaxaca,334,Villa de Tututepec,16.131181,-97.6087108
+20,Oaxaca,335,San Pedro Yaneri,17.4190568,-96.3551818
+20,Oaxaca,336,San Pedro Yólox,17.5884774,-96.5514604
+20,Oaxaca,337,San Pedro y San Pablo Ayutla,17.0264624,-96.0758366
+20,Oaxaca,338,Villa de Etla,17.2029813,-96.8010573
+20,Oaxaca,339,San Pedro y San Pablo Teposcolula,17.5105133,-97.488446
+20,Oaxaca,340,San Pedro y San Pablo Tequixtepec,18.0588584,-97.7184866
+20,Oaxaca,341,San Pedro Yucunama,17.5603202,-97.4827499
+20,Oaxaca,342,San Raymundo Jalpan,16.9704959,-96.7566911
+20,Oaxaca,343,San Sebastián Abasolo,16.9922835,-96.5878831
+20,Oaxaca,344,San Sebastián Coatlán,16.2010569,-96.8250531
+20,Oaxaca,345,San Sebastián Ixcapa,16.5448204,-98.1461206
+20,Oaxaca,346,San Sebastián Nicananduta,17.5161974,-97.6832886
+20,Oaxaca,347,San Sebastián Río Hondo,16.1822192,-96.4637005
+20,Oaxaca,348,San Sebastián Tecomaxtlahuaca,17.3466572,-98.0320856
+20,Oaxaca,349,San Sebastián Teitipac,16.9512683,-96.6140377
+20,Oaxaca,350,San Sebastián Tutla,17.0572492,-96.6730766
+20,Oaxaca,351,San Simón Almolongas,16.4060049,-96.7182891
+20,Oaxaca,352,San Simón Zahuatlán,17.8499951,-98.0000027
+20,Oaxaca,353,Santa Ana,17.095565,-96.0545646
+20,Oaxaca,354,Santa Ana Ateixtlahuaca,18.2106922,-96.9054855
+20,Oaxaca,355,Santa Ana Cuauhtémoc,17.9847739,-96.7945626
+20,Oaxaca,356,Santa Ana del Valle,16.9930744,-96.4713414
+20,Oaxaca,357,Santa Ana Tavela,16.6543409,-95.9095074
+20,Oaxaca,358,Santa Ana Tlapacoyan,16.7421927,-96.8364709
+20,Oaxaca,359,Santa Ana Yareni,17.3968099,-96.6085921
+20,Oaxaca,360,Santa Ana Zegache,16.8362764,-96.7297251
+20,Oaxaca,361,Santa Catalina Quierí,16.3215704,-96.2642153
+20,Oaxaca,362,Santa Catarina Cuixtla,16.3033307,-96.6459151
+20,Oaxaca,363,Santa Catarina Ixtepeji,17.2653689,-96.5619331
+20,Oaxaca,364,Santa Catarina Juquila,16.2375067,-97.2932803
+20,Oaxaca,365,Santa Catarina Lachatao,17.2674939,-96.4726699
+20,Oaxaca,366,Santa Catarina Loxicha,16.0675202,-96.754737
+20,Oaxaca,367,Santa Catarina Mechoacán,16.3359744,-97.8367959
+20,Oaxaca,368,Santa Catarina Minas,16.7779579,-96.6160334
+20,Oaxaca,369,Santa Catarina Quiané,16.8816656,-96.741207
+20,Oaxaca,370,Santa Catarina Tayata,17.3468586,-97.5584458
+20,Oaxaca,371,Santa Catarina Ticuá,17.0702547,-97.5364141
+20,Oaxaca,372,Santa Catarina Yosonotú,17.0227062,-97.6617361
+20,Oaxaca,373,Santa Catarina Zapoquila,18.0640032,-97.6017984
+20,Oaxaca,374,Santa Cruz Acatepec,18.1621639,-96.8766979
+20,Oaxaca,375,Santa Cruz Amilpas,17.0607931,-96.6811877
+20,Oaxaca,376,Santa Cruz de Bravo,17.5808431,-98.2241715
+20,Oaxaca,377,Santa Cruz Itundujia,16.8747983,-97.6607667
+20,Oaxaca,378,Santa Cruz Mixtepec,16.7911267,-96.8809386
+20,Oaxaca,379,Santa Cruz Nundaco,17.1734465,-97.7240183
+20,Oaxaca,380,Santa Cruz Papalutla,16.9566705,-96.5863469
+20,Oaxaca,381,Santa Cruz Tacache de Mina,17.8332562,-98.1550316
+20,Oaxaca,382,Santa Cruz Tacahua,16.9180195,-97.4919546
+20,Oaxaca,383,Santa Cruz Tayata,17.3575521,-97.5700528
+20,Oaxaca,384,Santa Cruz Xitla,16.3215262,-96.6736876
+20,Oaxaca,385,Santa Cruz Xoxocotlán,17.0193584,-96.7494216
+20,Oaxaca,386,Santa Cruz Zenzontepec,16.5334303,-97.4953304
+20,Oaxaca,387,Santa Gertrudis,16.7850784,-96.7999979
+20,Oaxaca,388,Santa Inés del Monte,16.9285751,-96.8605641
+20,Oaxaca,389,Santa Inés Yatzeche,16.8054905,-96.7568043
+20,Oaxaca,390,Santa Lucía del Camino,17.061863,-96.6971832
+20,Oaxaca,391,Santa Lucía Miahuatlán,16.1853827,-96.6180114
+20,Oaxaca,392,Santa Lucía Monteverde,16.9715454,-97.6648411
+20,Oaxaca,393,Santa Lucía Ocotlán,16.7365454,-96.6795311
+20,Oaxaca,394,Santa María Alotepec,17.083333,-95.85
+20,Oaxaca,395,Santa María Apazco,17.6329936,-97.0983992
+20,Oaxaca,396,Santa María la Asunción,18.1080748,-96.8193986
+20,Oaxaca,397,Heroica Ciudad de Tlaxiaco,17.268751,-97.679629
+20,Oaxaca,398,Ayoquezco de Aldama,16.6842005,-96.8431402
+20,Oaxaca,399,Santa María Atzompa,17.0916983,-96.7681366
+20,Oaxaca,400,Santa María Camotlán,17.8945146,-97.6916726
+20,Oaxaca,401,Santa María Colotepec,15.8969852,-96.9378051
+20,Oaxaca,402,Santa María Cortijo,16.4527185,-98.2873653
+20,Oaxaca,403,Santa María Coyotepec,16.9661846,-96.7056106
+20,Oaxaca,404,Santa María Chachoápam,17.5247891,-97.2829119
+20,Oaxaca,405,Villa de Chilapa de Díaz,17.5870974,-97.6320078
+20,Oaxaca,406,Santa María Chilchotla,18.2332161,-96.829651
+20,Oaxaca,407,Santa María Chimalapa,16.9089318,-94.6838743
+20,Oaxaca,408,Santa María del Rosario,17.3514434,-97.5951588
+20,Oaxaca,409,Santa María del Tule,17.0447413,-96.6330819
+20,Oaxaca,410,Santa María Ecatepec,16.2839371,-95.8815554
+20,Oaxaca,411,Santa María Guelacé,17.0032668,-96.6019866
+20,Oaxaca,412,Santa María Guienagati,16.7368167,-95.3539439
+20,Oaxaca,413,Santa María Huatulco,15.8340071,-96.3199488
+20,Oaxaca,414,Santa María Huazolotitlán,16.3024789,-97.9125774
+20,Oaxaca,415,Santa María Ipalapa,16.6383605,-98.030973
+20,Oaxaca,416,Santa María Ixcatlán,17.8524216,-97.1924342
+20,Oaxaca,417,Santa María Jacatepec,17.8602061,-96.2099035
+20,Oaxaca,418,Santa María Jalapa del Marqués,16.4399924,-95.4449791
+20,Oaxaca,419,Santa María Jaltianguis,17.3611567,-96.5281674
+20,Oaxaca,420,Santa María Lachixío,16.7272144,-97.0192366
+20,Oaxaca,421,Santa María Mixtequilla,16.3744239,-95.2596326
+20,Oaxaca,422,Santa María Nativitas,17.6608096,-97.3353081
+20,Oaxaca,423,Santa María Nduayaco,17.410375,-97.4956237
+20,Oaxaca,424,Santa María Ozolotepec,16.1306567,-96.3696234
+20,Oaxaca,425,Santa María Pápalo,17.7822199,-96.7975266
+20,Oaxaca,426,Santa María Peñoles,17.0788989,-97.0016533
+20,Oaxaca,427,Santa María Petapa,16.8203692,-95.1191574
+20,Oaxaca,428,Santa María Quiegolani,16.2774217,-96.0517486
+20,Oaxaca,429,Santa María Sola,16.5683498,-97.019014
+20,Oaxaca,430,Santa María Tataltepec,17.141041,-97.3926823
+20,Oaxaca,431,Santa María Tecomavaca,17.9555367,-97.0223909
+20,Oaxaca,432,Santa María Temaxcalapa,17.3805611,-96.1618927
+20,Oaxaca,433,Santa María Temaxcaltepec,16.1630702,-97.1956459
+20,Oaxaca,434,Santa María Teopoxco,18.1678382,-96.9543504
+20,Oaxaca,435,Santa María Tepantlali,16.9961339,-96.0091097
+20,Oaxaca,436,Santa María Texcatitlán,17.7126442,-97.0639601
+20,Oaxaca,437,Santa María Tlahuitoltepec,17.0949199,-96.0613009
+20,Oaxaca,438,Santa María Tlalixtac,17.9511074,-96.7384861
+20,Oaxaca,439,Santa María Tonameca,15.7467124,-96.5462836
+20,Oaxaca,440,Santa María Totolapilla,16.6012834,-95.6219021
+20,Oaxaca,441,Santa María Xadani,16.361906,-95.0169458
+20,Oaxaca,442,Santa María Yalina,17.2395017,-96.2634846
+20,Oaxaca,443,Santa María Yavesía,17.2345748,-96.4265208
+20,Oaxaca,444,Santa María Yolotepec,16.8759136,-97.505097
+20,Oaxaca,445,Santa María Yosoyúa,17.1190394,-97.513218
+20,Oaxaca,446,Santa María Yucuhiti,17.0180872,-97.7698547
+20,Oaxaca,447,Santa María Zacatepec,16.7602732,-97.9892605
+20,Oaxaca,448,Santa María Zaniza,16.6553491,-97.3362412
+20,Oaxaca,449,Santa María Zoquitlán,16.5597026,-96.3539893
+20,Oaxaca,450,Santiago Amoltepec,16.6412266,-97.4958754
+20,Oaxaca,451,Santiago Apoala,17.6493826,-97.137413
+20,Oaxaca,452,Santiago Apóstol,16.8017903,-96.7205474
+20,Oaxaca,453,Santiago Astata,15.99045,-95.661987
+20,Oaxaca,454,Santiago Atitlán,17.1034478,-95.9469158
+20,Oaxaca,455,Santiago Ayuquililla,17.9309132,-97.9579242
+20,Oaxaca,456,Santiago Cacaloxtepec,17.7192819,-97.7421343
+20,Oaxaca,457,Santiago Camotlán,17.4449662,-96.1850083
+20,Oaxaca,458,Santiago Comaltepec,17.5652264,-96.5474984
+20,Oaxaca,459,Santiago Chazumba,18.1884814,-97.6788856
+20,Oaxaca,460,Santiago Choápam,17.3591766,-95.9229103
+20,Oaxaca,461,Santiago del Río,17.4537264,-98.0909499
+20,Oaxaca,462,Santiago Huajolotitlán,17.8259806,-97.7339512
+20,Oaxaca,463,Santiago Huauclilla,17.4499434,-97.0714594
+20,Oaxaca,464,Santiago Ihuitlán Plumas,17.8481698,-97.428907
+20,Oaxaca,465,Santiago Ixcuintepec,16.933756,-95.6228904
+20,Oaxaca,466,Santiago Ixtayutla,16.5654842,-97.6520792
+20,Oaxaca,467,Santiago Jamiltepec,16.2816858,-97.8209344
+20,Oaxaca,468,Santiago Jocotepec,17.5355555,-95.9441666
+20,Oaxaca,469,Santiago Juxtlahuaca,17.3354874,-98.0069783
+20,Oaxaca,470,Santiago Lachiguiri,16.6839479,-95.5344116
+20,Oaxaca,471,Santiago Lalopa,17.4179945,-96.2488787
+20,Oaxaca,472,Santiago Laollaga,16.5831759,-95.2091279
+20,Oaxaca,473,Santiago Laxopa,17.2188723,-96.308692
+20,Oaxaca,474,Santiago Llano Grande,16.4891392,-98.2896519
+20,Oaxaca,475,Santiago Matatlán,16.8635641,-96.3827723
+20,Oaxaca,476,Santiago Miltepec,17.9821057,-97.6908225
+20,Oaxaca,477,Santiago Minas,16.4186867,-97.2225246
+20,Oaxaca,478,Santiago Nacaltepec,17.5162999,-96.9121931
+20,Oaxaca,479,Santiago Nejapilla,17.4208257,-97.3716676
+20,Oaxaca,480,Santiago Nundiche,17.3307681,-97.6778725
+20,Oaxaca,481,Santiago Nuyoó,17.0141728,-97.766798
+20,Oaxaca,482,Santiago Pinotepa Nacional,16.3411824,-98.053687
+20,Oaxaca,483,Santiago Suchilquitongo,17.249783,-96.8726295
+20,Oaxaca,484,Santiago Tamazola,17.6691752,-98.2210189
+20,Oaxaca,485,Santiago Tapextla,16.3402002,-98.4465156
+20,Oaxaca,486,Villa Tejúpam de la Unión,17.663338,-97.4690179
+20,Oaxaca,487,Santiago Tenango,17.3259244,-97.0055026
+20,Oaxaca,488,Santiago Tepetlapa,17.7815219,-97.3996115
+20,Oaxaca,489,Santiago Tetepec,16.3215709,-97.7508889
+20,Oaxaca,490,Santiago Texcalcingo,18.2092244,-96.9665476
+20,Oaxaca,491,Santiago Textitlán,16.6930754,-97.2598333
+20,Oaxaca,492,Santiago Tilantongo,17.282364,-97.3394612
+20,Oaxaca,493,Santiago Tillo,17.4606478,-97.3180656
+20,Oaxaca,494,Santiago Tlazoyaltepec,17.0312648,-96.9960905
+20,Oaxaca,495,Santiago Xanica,16.0090229,-96.2251701
+20,Oaxaca,496,Santiago Xiacuí,17.2927079,-96.4348311
+20,Oaxaca,497,Santiago Yaitepec,16.2268859,-97.2708559
+20,Oaxaca,498,Santiago Yaveo,17.3342348,-95.6982657
+20,Oaxaca,499,Santiago Yolomécatl,17.482361,-97.566513
+20,Oaxaca,500,Santiago Yosondúa,16.8721952,-97.5765074
+20,Oaxaca,501,Santiago Yucuyachi,17.6031541,-98.1991539
+20,Oaxaca,502,Santiago Zacatepec,17.1912706,-95.8855382
+20,Oaxaca,503,Santiago Zoochila,17.2219118,-96.2411824
+20,Oaxaca,504,Nuevo Zoquiápam,17.2896542,-96.6207084
+20,Oaxaca,505,Santo Domingo Ingenio,16.5881717,-94.7659139
+20,Oaxaca,506,Santo Domingo Albarradas,17.0669291,-96.2007097
+20,Oaxaca,507,Santo Domingo Armenta,16.3315132,-98.3781386
+20,Oaxaca,508,Santo Domingo Chihuitán,16.5920277,-95.1601266
+20,Oaxaca,509,Santo Domingo de Morelos,15.8327734,-96.6670851
+20,Oaxaca,510,Santo Domingo Ixcatlán,16.9115632,-97.5321706
+20,Oaxaca,511,Santo Domingo Nuxaá,17.2231459,-97.1224184
+20,Oaxaca,512,Santo Domingo Ozolotepec,16.1498142,-96.3112396
+20,Oaxaca,513,Santo Domingo Petapa,16.8185987,-95.1401017
+20,Oaxaca,514,Santo Domingo Roayaga,17.3367572,-96.1147379
+20,Oaxaca,515,Santo Domingo Tehuantepec,16.3204405,-95.2412181
+20,Oaxaca,516,Santo Domingo Teojomulco,16.589217,-97.2262401
+20,Oaxaca,517,Santo Domingo Tepuxtepec,16.9538838,-96.0586538
+20,Oaxaca,518,Santo Domingo Tlatayápam,17.4077456,-97.3443436
+20,Oaxaca,519,Santo Domingo Tomaltepec,17.0597783,-96.6223966
+20,Oaxaca,520,Santo Domingo Tonalá,17.6732539,-97.9650566
+20,Oaxaca,521,Santo Domingo Tonaltepec,17.6110534,-97.3563823
+20,Oaxaca,522,Santo Domingo Xagacía,17.1547903,-96.2685583
+20,Oaxaca,523,Santo Domingo Yanhuitlán,17.5266842,-97.3427575
+20,Oaxaca,524,Santo Domingo Yodohino,17.6161547,-97.6835724
+20,Oaxaca,525,Santo Domingo Zanatepec,16.4794342,-94.3519394
+20,Oaxaca,526,Santos Reyes Nopala,16.1070581,-97.1435642
+20,Oaxaca,527,Santos Reyes Pápalo,17.8017823,-96.8632451
+20,Oaxaca,528,Santos Reyes Tepejillo,17.4377727,-97.9386769
+20,Oaxaca,529,Santos Reyes Yucuná,17.7781514,-98.0017601
+20,Oaxaca,530,Santo Tomás Jalieza,16.8446867,-96.6707185
+20,Oaxaca,531,Santo Tomás Mazaltepec,17.1731499,-96.8704194
+20,Oaxaca,532,Santo Tomás Ocotepec,17.1455862,-97.7620434
+20,Oaxaca,533,Santo Tomás Tamazulapan,16.2705329,-96.5873656
+20,Oaxaca,534,San Vicente Coatlán,16.3883362,-96.8440794
+20,Oaxaca,535,San Vicente Lachixío,16.7042007,-97.0181646
+20,Oaxaca,536,San Vicente Nuñú,17.4571867,-97.4421919
+20,Oaxaca,537,Silacayoápam,17.5047564,-98.1405049
+20,Oaxaca,538,Sitio de Xitlapehua,16.3509247,-96.5327786
+20,Oaxaca,539,Soledad Etla,17.1701587,-96.8184001
+20,Oaxaca,540,Villa de Tamazulápam del Progreso,17.6724247,-97.5720481
+20,Oaxaca,541,Tanetze de Zaragoza,17.3762601,-96.3021048
+20,Oaxaca,542,Taniche,16.5646004,-96.7546251
+20,Oaxaca,543,Tataltepec de Valdés,16.3049154,-97.5466926
+20,Oaxaca,544,Teococuilco de Marcos Pérez,17.3528734,-96.6108399
+20,Oaxaca,545,Teotitlán de Flores Magón,18.1345434,-97.0740468
+20,Oaxaca,546,Teotitlán del Valle,17.0301555,-96.520726
+20,Oaxaca,547,Teotongo,17.7243086,-97.5348899
+20,Oaxaca,548,Tepelmeme Villa de Morelos,17.8737006,-97.3610901
+20,Oaxaca,549,"Heroica Villa Tezoatlán de Segura y Luna, Cuna de la Independencia de Oaxaca",17.6507574,-97.8107559
+20,Oaxaca,550,San Jerónimo Tlacochahuaya,17.0073658,-96.5839558
+20,Oaxaca,551,Tlacolula de Matamoros,16.9543736,-96.4743228
+20,Oaxaca,552,Tlacotepec Plumas,17.8500545,-97.4354313
+20,Oaxaca,553,Tlalixtac de Cabrera,17.0686511,-96.6477752
+20,Oaxaca,554,Totontepec Villa de Morelos,17.2568294,-96.0289507
+20,Oaxaca,555,Trinidad Zaachila,16.9204464,-96.7636566
+20,Oaxaca,556,La Trinidad Vista Hermosa,17.772111,-97.505972
+20,Oaxaca,557,Unión Hidalgo,16.472414,-94.8314257
+20,Oaxaca,558,Valerio Trujano,17.7730028,-96.9790763
+20,Oaxaca,559,San Juan Bautista Valle Nacional,17.7732868,-96.3079874
+20,Oaxaca,560,Villa Díaz Ordaz,16.992883,-96.4346076
+20,Oaxaca,561,Yaxe,16.7255819,-96.4712439
+20,Oaxaca,562,Magdalena Yodocono de Porfirio Díaz,17.3852383,-97.3527386
+20,Oaxaca,563,Yogana,16.4585894,-96.7857356
+20,Oaxaca,564,Yutanduchi de Guerrero,17.0391886,-97.2963142
+20,Oaxaca,565,Villa de Zaachila,16.9512652,-96.7520757
+20,Oaxaca,566,San Mateo Yucutindoo,16.8753982,-97.2372204
+20,Oaxaca,567,Zapotitlán Lagunas,17.7530906,-98.3903431
+20,Oaxaca,568,Zapotitlán Palmas,17.8900682,-97.8188272
+20,Oaxaca,569,Santa Inés de Zaragoza,17.228197,-97.1563943
+20,Oaxaca,570,Zimatlán de Álvarez,16.8680151,-96.7842015
+21,Puebla,001,Acajete,19.105729,-97.9429421
+21,Puebla,002,Acateno,20.1301056,-97.2090295
+21,Puebla,003,Acatlán,18.21328,-98.055351
+21,Puebla,004,Acatzingo,18.9833329,-97.783333
+21,Puebla,005,Acteopan,18.7648967,-98.7147409
+21,Puebla,006,Ahuacatlán,20.0058569,-97.8626371
+21,Puebla,007,Ahuatlán,18.5714139,-98.2554856
+21,Puebla,008,Ahuazotepec,20.044323,-98.1618209
+21,Puebla,009,Ahuehuetitla,18.2108807,-98.2194984
+21,Puebla,010,Ajalpan,18.3781582,-97.2591254
+21,Puebla,011,Albino Zertuche,18.0170466,-98.541033
+21,Puebla,012,Aljojuca,19.0977497,-97.5317631
+21,Puebla,013,Altepexi,18.3678072,-97.3003604
+21,Puebla,014,Amixtlán,20.0483582,-97.7987063
+21,Puebla,015,Amozoc,19.043829,-98.0437894
+21,Puebla,016,Aquixtla,19.7960219,-97.9337844
+21,Puebla,017,Atempan,19.8379586,-97.4564439
+21,Puebla,018,Atexcal,18.3995279,-97.7366826
+21,Puebla,019,Atlixco,18.9131227,-98.4293891
+21,Puebla,020,Atoyatempan,18.8208301,-97.9129873
+21,Puebla,021,Atzala,18.5462597,-98.5528491
+21,Puebla,022,Atzitzihuacán,18.8969729,-97.3240234
+21,Puebla,023,Atzitzintla,18.8969729,-97.3240234
+21,Puebla,024,Axutla,18.1882099,-98.3898306
+21,Puebla,025,Ayotoxco de Guerrero,20.0963729,-97.4103254
+21,Puebla,026,Calpan,19.1059204,-98.4677851
+21,Puebla,027,Caltepec,18.1822552,-97.4793291
+21,Puebla,028,Camocuautla,20.0374877,-97.7566096
+21,Puebla,029,Caxhuacan,20.0633589,-97.6065055
+21,Puebla,030,Coatepec,20.0597332,-97.7315714
+21,Puebla,031,Coatzingo,18.6146567,-98.172921
+21,Puebla,032,Cohetzala,18.1883389,-98.8019181
+21,Puebla,033,Cohuecan,18.7839702,-98.7198249
+21,Puebla,034,Coronango,19.1134176,-98.3033694
+21,Puebla,035,Coxcatlán,18.2673664,-97.1493998
+21,Puebla,036,Coyomeapan,18.2798437,-96.987861
+21,Puebla,037,Coyotepec,18.425171,-97.867653
+21,Puebla,038,Cuapiaxtla de Madero,18.9189112,-97.8259174
+21,Puebla,039,Cuautempan,19.9151212,-97.7949694
+21,Puebla,040,Cuautinchán,18.9542208,-98.0174608
+21,Puebla,041,Cuautlancingo,19.0966286,-98.2724536
+21,Puebla,042,Cuayuca de Andrade,18.4799589,-98.1857681
+21,Puebla,043,Cuetzalan del Progreso,20.0173762,-97.5220881
+21,Puebla,044,Cuyoaco,19.602423,-97.6209108
+21,Puebla,045,Chalchicomula de Sesma,18.9854,-97.44449
+21,Puebla,046,Chapulco,18.6257727,-97.4047722
+21,Puebla,047,Chiautla,18.2996964,-98.6021399
+21,Puebla,048,Chiautzingo,19.205611,-98.4677135
+21,Puebla,049,Chiconcuautla,20.0944682,-97.9389566
+21,Puebla,050,Chichiquila,19.1990849,-97.0675439
+21,Puebla,051,Chietla,18.5191543,-98.5762224
+21,Puebla,052,Chigmecatitlán,18.6454934,-98.0750869
+21,Puebla,053,Chignahuapan,19.8383768,-98.0312084
+21,Puebla,054,Chignautla,19.8131376,-97.3908283
+21,Puebla,055,Chila,17.9675894,-97.8647998
+21,Puebla,056,Chila de la Sal,18.108315,-98.483504
+21,Puebla,057,Honey,20.2382729,-98.2117288
+21,Puebla,058,Chilchotla,19.2531376,-97.1854785
+21,Puebla,059,Chinantla,18.2025702,-98.2634304
+21,Puebla,060,Domingo Arenas,19.1388467,-98.453425
+21,Puebla,061,Eloxochitlán,18.4984254,-96.9546999
+21,Puebla,062,Epatlán,18.644639,-98.369409
+21,Puebla,063,Esperanza,18.8579982,-97.3735416
+21,Puebla,064,Francisco Z. Mena,20.7329044,-97.8500845
+21,Puebla,065,General Felipe Ángeles,18.9938825,-97.7069785
+21,Puebla,066,Guadalupe,18.0888339,-98.1203076
+21,Puebla,067,Guadalupe Victoria,19.287238,-97.3435539
+21,Puebla,068,Hermenegildo Galeana,20.1207505,-97.7436552
+21,Puebla,069,Huaquechula,18.7683399,-98.5417966
+21,Puebla,070,Huatlatlauca,18.6792158,-98.0505276
+21,Puebla,071,Huauchinango,20.1757001,-98.0628862
+21,Puebla,072,Huehuetla,20.1047232,-97.6251774
+21,Puebla,073,Huehuetlán el Chico,18.3734012,-98.6900479
+21,Puebla,074,Huejotzingo,19.1589453,-98.4047163
+21,Puebla,075,Hueyapan,19.8825658,-97.4454858
+21,Puebla,076,Hueytamalco,19.9401027,-97.2895663
+21,Puebla,077,Hueytlalpan,20.0263412,-97.6980289
+21,Puebla,078,Huitzilan de Serdán,19.9705968,-97.6935142
+21,Puebla,079,Huitziltepec,20.0978701,-97.5149241
+21,Puebla,080,Atlequizayan,20.012966,-97.623923
+21,Puebla,081,Ixcamilpa de Guerrero,18.0315893,-98.6961568
+21,Puebla,082,Ixcaquixtla,18.4586846,-97.8313562
+21,Puebla,083,Ixtacamaxtitlán,19.6223314,-97.8149036
+21,Puebla,084,Ixtepec,20.0243642,-97.6455914
+21,Puebla,085,Izúcar de Matamoros,18.5991249,-98.4677851
+21,Puebla,086,Jalpan,20.4774239,-97.9425801
+21,Puebla,087,Jolalpan,18.3259234,-98.8445455
+21,Puebla,088,Jonotla,20.0300512,-97.5750656
+21,Puebla,089,Jopala,20.1628439,-97.6927984
+21,Puebla,090,Juan C. Bonilla,19.1090862,-98.3289824
+21,Puebla,091,Juan Galindo,20.2098691,-98.0004816
+21,Puebla,092,Juan N. Méndez,18.5436828,-97.7727484
+21,Puebla,093,Lafragua,19.2960383,-97.2968823
+21,Puebla,094,Libres,19.4653239,-97.6875016
+21,Puebla,095,La Magdalena Tlatlauquitepec,18.7584519,-98.100684
+21,Puebla,096,Mazapiltepec de Juárez,19.1188237,-97.7012654
+21,Puebla,097,Mixtla,18.9030573,-97.8963681
+21,Puebla,098,Molcaxac,18.7381619,-97.9110424
+21,Puebla,099,Cañada Morelos,18.7363062,-97.4229126
+21,Puebla,100,Naupan,20.2315059,-98.1083093
+21,Puebla,101,Nauzontla,19.960788,-97.6037352
+21,Puebla,102,Nealtican,19.0482747,-98.4269384
+21,Puebla,103,Nicolás Bravo,18.6129007,-97.3057576
+21,Puebla,104,Nopalucan,19.220209,-97.8204791
+21,Puebla,105,Ocotepec,19.5555549,-97.6499548
+21,Puebla,106,Ocoyucan,18.9416539,-98.3197946
+21,Puebla,107,Olintla,20.1011142,-97.6841419
+21,Puebla,108,Oriental,19.3763909,-97.6195551
+21,Puebla,109,Pahuatlán,20.2769343,-98.1501609
+21,Puebla,110,Palmar de Bravo,18.8359203,-97.549097
+21,Puebla,111,Pantepec,20.5200163,-97.9388566
+21,Puebla,112,Petlalcingo,18.0831157,-97.9179256
+21,Puebla,113,Piaxtla,18.1992652,-98.2521029
+21,Puebla,114,Puebla,19.0414398,-98.2062727
+21,Puebla,115,Quecholac,18.9554497,-97.6575237
+21,Puebla,116,Quimixtlán,19.2537792,-97.1369256
+21,Puebla,117,Rafael Lara Grajales,19.2241665,-97.7999999
+21,Puebla,118,Los Reyes de Juárez,18.9452534,-97.8062677
+21,Puebla,119,San Andrés Cholula,19.059957,-98.2949146
+21,Puebla,120,San Antonio Cañada,18.497789,-97.284126
+21,Puebla,121,San Diego la Mesa Tochimiltzingo,18.8103672,-98.3301356
+21,Puebla,122,San Felipe Teotlalcingo,19.2369618,-98.5034561
+21,Puebla,123,San Felipe Tepatlán,20.0908398,-97.7966913
+21,Puebla,124,San Gabriel Chilac,18.3261353,-97.3485729
+21,Puebla,125,San Gregorio Atzompa,19.0216769,-98.3501646
+21,Puebla,126,San Jerónimo Tecuanipan,19.011111,-98.4072221
+21,Puebla,127,San Jerónimo Xayacatlán,18.2227295,-97.9102647
+21,Puebla,128,San José Chiapa,19.2388424,-97.7677154
+21,Puebla,129,San José Miahuatlán,18.2915614,-97.2895663
+21,Puebla,130,San Juan Atenco,19.0857002,-97.5397919
+21,Puebla,131,San Juan Atzompa,18.7457747,-98.0237909
+21,Puebla,132,San Martín Texmelucan,19.3013959,-98.4490275
+21,Puebla,133,San Martín Totoltepec,18.65121,-98.344726
+21,Puebla,134,San Matías Tlalancaleca,19.3230998,-98.4980681
+21,Puebla,135,San Miguel Ixitlán,18.002204,-97.774374
+21,Puebla,136,San Miguel Xoxtla,19.1667664,-98.3094817
+21,Puebla,137,San Nicolás Buenos Aires,19.1634347,-97.5509501
+21,Puebla,138,San Nicolás de los Ranchos,19.0711948,-98.4856185
+21,Puebla,139,San Pablo Anicano,18.1240325,-98.0856588
+21,Puebla,140,San Pedro Cholula,19.0715049,-98.3156742
+21,Puebla,141,San Pedro Yeloixtlahuaca,18.1171339,-98.0771076
+21,Puebla,142,San Salvador el Seco,19.1304258,-97.6385368
+21,Puebla,143,San Salvador el Verde,19.2685444,-98.5165056
+21,Puebla,144,San Salvador Huixcolotla,18.9150659,-97.7769875
+21,Puebla,145,San Sebastián Tlacotepec,18.4041547,-96.8494583
+21,Puebla,146,Santa Catarina Tlaltempan,18.6132077,-98.080116
+21,Puebla,147,Santa Inés Ahuatempan,18.4124909,-98.0169516
+21,Puebla,148,Santa Isabel Cholula,18.9924962,-98.3778746
+21,Puebla,149,Santiago Miahuatlán,18.5480398,-97.4435441
+21,Puebla,150,Huehuetlán el Grande,18.7362471,-98.165576
+21,Puebla,151,Santo Tomás Hueyotlipan,18.8904645,-97.8663935
+21,Puebla,152,Soltepec,19.1241887,-97.7172302
+21,Puebla,153,Tecali de Herrera,18.9022377,-97.9742086
+21,Puebla,154,Tecamachalco,18.8819104,-97.7327256
+21,Puebla,155,Tecomatlán,18.1078872,-98.3131546
+21,Puebla,156,Tehuacán,18.4665063,-97.4003801
+21,Puebla,157,Tehuitzingo,18.3339415,-98.2732659
+21,Puebla,158,Tenampulco,20.1703504,-97.4054731
+21,Puebla,159,Teopantlán,18.7136505,-98.2622766
+21,Puebla,160,Teotlalco,18.4690479,-98.7783551
+21,Puebla,161,Tepanco de López,18.5537917,-97.5605324
+21,Puebla,162,Tepango de Rodríguez,20.0047824,-97.7973739
+21,Puebla,163,Tepatlaxco de Hidalgo,19.0778744,-97.9729094
+21,Puebla,164,Tepeaca,18.9659554,-97.8993756
+21,Puebla,165,Tepemaxalco,18.7368775,-98.6283018
+21,Puebla,166,Tepeojuma,18.7203164,-98.4468881
+21,Puebla,167,Tepetzintla,19.9669377,-97.8415661
+21,Puebla,168,Tepexco,18.6439962,-98.6901608
+21,Puebla,169,Tepexi de Rodríguez,18.5842989,-97.9297331
+21,Puebla,170,Tepeyahualco,19.4901472,-97.4896831
+21,Puebla,171,Tepeyahualco de Cuauhtémoc,18.8142744,-97.8777296
+21,Puebla,172,Tetela de Ocampo,19.8115842,-97.8096037
+21,Puebla,173,Teteles de Avila Castillo,19.8587759,-97.4569804
+21,Puebla,174,Teziutlán,19.8160106,-97.3570576
+21,Puebla,175,Tianguismanalco,18.9827776,-98.4422222
+21,Puebla,176,Tilapa,18.5938147,-98.5539194
+21,Puebla,177,Tlacotepec de Benito Juárez,18.6816256,-97.6483178
+21,Puebla,178,Tlacuilotepec,20.3258174,-98.0685401
+21,Puebla,179,Tlachichuca,19.1128157,-97.4192087
+21,Puebla,180,Tlahuapan,19.336704,-98.5824365
+21,Puebla,181,Tlaltenango,19.1705854,-98.3422856
+21,Puebla,182,Tlanepantla,19.2172221,-97.1330555
+21,Puebla,183,Tlaola,20.1364174,-97.9212959
+21,Puebla,184,Tlapacoya,20.1225034,-97.8513566
+21,Puebla,185,Tlapanalá,18.6957457,-98.5336764
+21,Puebla,186,Tlatlauquitepec,19.8546482,-97.4949471
+21,Puebla,187,Tlaxco,20.423,-98.0274329
+21,Puebla,188,Tochimilco,18.8905552,-98.5725539
+21,Puebla,189,Tochtepec,18.8365331,-97.8204791
+21,Puebla,190,Totoltepec de Guerrero,18.2234824,-97.8554479
+21,Puebla,191,Tulcingo,18.0458332,-98.4225
+21,Puebla,192,Tuzamapan de Galeana,20.0645747,-97.5750899
+21,Puebla,193,Tzicatlacoyan,18.839323,-98.045534
+21,Puebla,194,Venustiano Carranza,20.5077822,-97.6711959
+21,Puebla,195,Vicente Guerrero,18.5421953,-97.1971326
+21,Puebla,196,Xayacatlán de Bravo,18.2389052,-97.9755061
+21,Puebla,197,Xicotepec,20.2786208,-97.964259
+21,Puebla,198,Xicotlán,18.0586304,-98.5255209
+21,Puebla,199,Xiutetelco,19.7929269,-97.3249644
+21,Puebla,200,Xochiapulco,19.820327,-97.6587681
+21,Puebla,201,Xochiltepec,18.6504721,-98.3403313
+21,Puebla,202,Xochitlán de Vicente Suárez,19.9687452,-97.6290453
+21,Puebla,203,Xochitlán Todos Santos,18.7032779,-97.7720504
+21,Puebla,204,Yaonáhuac,19.8695489,-97.4648056
+21,Puebla,205,Yehualtepec,18.795868,-97.6629495
+21,Puebla,206,Zacapala,18.5925316,-98.065042
+21,Puebla,207,Zacapoaxtla,19.8735055,-97.5887976
+21,Puebla,208,Zacatlán,19.9350819,-97.9611534
+21,Puebla,209,Zapotitlán,18.3311,-97.4693829
+21,Puebla,210,Zapotitlán de Méndez,20.0019768,-97.7142086
+21,Puebla,211,Zaragoza,19.7693245,-97.5545143
+21,Puebla,212,Zautla,19.7126435,-97.6717485
+21,Puebla,213,Zihuateutla,20.2531769,-97.8871273
+21,Puebla,214,Zinacatepec,18.3344806,-97.2464071
+21,Puebla,215,Zongozotla,19.9787081,-97.7266878
+21,Puebla,216,Zoquiapan,20.0097414,-97.5958979
+21,Puebla,217,Zoquitlán,18.3363189,-97.0201939
+22,Querétaro,001,Amealco de Bonfil,20.1876421,-100.1467011
+22,Querétaro,002,Pinal de Amoles,21.1351852,-99.6270303
+22,Querétaro,003,Arroyo Seco,21.5484856,-99.6893759
+22,Querétaro,004,Cadereyta de Montes,20.6910105,-99.8203649
+22,Querétaro,005,Colón,20.7813585,-100.0509514
+22,Querétaro,006,Corregidora,20.5334645,-100.4462861
+22,Querétaro,007,Ezequiel Montes,20.6713387,-99.8962279
+22,Querétaro,008,Huimilpan,20.3736714,-100.2746876
+22,Querétaro,009,Jalpan de Serra,21.2190312,-99.4714352
+22,Querétaro,010,Landa de Matamoros,21.1842187,-99.3201359
+22,Querétaro,011,El Marqués,20.6113606,-100.3288581
+22,Querétaro,012,Pedro Escobedo,20.5010443,-100.1395169
+22,Querétaro,013,Peñamiller,21.0529889,-99.8154261
+22,Querétaro,014,Querétaro,20.6213837,-100.4216928
+22,Querétaro,015,San Joaquín,20.916487,-99.5649876
+22,Querétaro,016,San Juan del Río,20.3858385,-99.9973174
+22,Querétaro,017,Tequisquiapan,20.5223762,-99.8883836
+22,Querétaro,018,Tolimán,20.9067463,-99.9283477
+23,Quintana Roo,001,Cozumel,20.5071703,-86.9446237
+23,Quintana Roo,002,Felipe Carrillo Puerto,19.7481931,-88.0118473
+23,Quintana Roo,003,Isla Mujeres,21.4012788,-87.0224442
+23,Quintana Roo,004,Othón P. Blanco,18.607127,-88.0118473
+23,Quintana Roo,005,Benito Juárez,21.1139789,-86.9423801
+23,Quintana Roo,006,José María Morelos,19.6603667,-88.864698
+23,Quintana Roo,007,Lázaro Cárdenas,20.7889196,-87.460397
+23,Quintana Roo,008,Solidaridad,20.5501224,-87.4207518
+23,Quintana Roo,009,Tulum,20.2676597,-87.658113
+23,Quintana Roo,010,Bacalar,18.9927554,-88.633784
+23,Quintana Roo,011,Puerto Morelos,20.8478084,-86.8755342
+24,San Luis Potosí,001,Ahualulco,22.3997407,-101.1665993
+24,San Luis Potosí,002,Alaquines,22.1295281,-99.6012542
+24,San Luis Potosí,003,Aquismón,21.6248972,-99.0197376
+24,San Luis Potosí,004,Armadillo de los Infante,22.2445665,-100.655949
+24,San Luis Potosí,005,Cárdenas,21.9985181,-99.6424872
+24,San Luis Potosí,006,Catorce,23.6905724,-100.8873547
+24,San Luis Potosí,007,Cedral,23.821569,-100.7234996
+24,San Luis Potosí,008,Cerritos,22.4321301,-100.2836708
+24,San Luis Potosí,009,Cerro de San Pedro,22.2159579,-100.7998289
+24,San Luis Potosí,010,Ciudad del Maíz,22.4020541,-99.6035176
+24,San Luis Potosí,011,Ciudad Fernández,21.9368487,-100.0303723
+24,San Luis Potosí,012,Tancanhuitz,21.5973558,-98.9671628
+24,San Luis Potosí,013,Ciudad Valles,22.0025712,-99.0018424
+24,San Luis Potosí,014,Coxcatlán,21.5404887,-98.9057836
+24,San Luis Potosí,015,Charcas,23.1278889,-101.1136153
+24,San Luis Potosí,016,Ebano,22.2165831,-98.3758762
+24,San Luis Potosí,017,Guadalcázar,22.6186136,-100.4003466
+24,San Luis Potosí,018,Huehuetlán,21.5459299,-98.9664741
+24,San Luis Potosí,019,Lagunillas,21.5857343,-99.5667575
+24,San Luis Potosí,020,Matehuala,23.6448029,-100.64279
+24,San Luis Potosí,021,Mexquitic de Carmona,22.2652329,-101.1126544
+24,San Luis Potosí,022,Moctezuma,22.7534301,-101.0782456
+24,San Luis Potosí,023,Rayón,21.8435446,-99.6438793
+24,San Luis Potosí,024,Rioverde,21.9277923,-99.9856344
+24,San Luis Potosí,025,Salinas,22.6259031,-101.7168832
+24,San Luis Potosí,026,San Antonio,21.6196107,-98.9043841
+24,San Luis Potosí,027,San Ciro de Acosta,21.6516855,-99.8208632
+24,San Luis Potosí,028,San Luis Potosí,22.1520892,-100.9733024
+24,San Luis Potosí,029,San Martín Chalchicuautla,21.3695262,-98.6612552
+24,San Luis Potosí,030,San Nicolás Tolentino,22.2482748,-100.5538452
+24,San Luis Potosí,031,Santa Catarina,21.6560493,-99.4963063
+24,San Luis Potosí,032,Santa María del Río,21.8031036,-100.7336555
+24,San Luis Potosí,033,Santo Domingo,22.8649999,-100.2833329
+24,San Luis Potosí,034,San Vicente Tancuayalab,21.7179488,-98.5877493
+24,San Luis Potosí,035,Soledad de Graciano Sánchez,22.1807042,-100.9417767
+24,San Luis Potosí,036,Tamasopo,21.9202101,-99.3917881
+24,San Luis Potosí,037,Tamazunchale,21.2593926,-98.7881496
+24,San Luis Potosí,038,Tampacán,21.4006932,-98.7319014
+24,San Luis Potosí,039,Tampamolón Corona,21.5566599,-98.8206861
+24,San Luis Potosí,040,Tamuín,22.0055517,-98.7839191
+24,San Luis Potosí,041,Tanlajás,21.6649219,-98.8854861
+24,San Luis Potosí,042,Tanquián de Escobedo,21.6039244,-98.6614532
+24,San Luis Potosí,043,Tierra Nueva,21.6684354,-100.5760293
+24,San Luis Potosí,044,Vanegas,23.8836144,-100.9496276
+24,San Luis Potosí,045,Venado,22.9311602,-101.0930134
+24,San Luis Potosí,046,Villa de Arriaga,21.9191799,-101.3764041
+24,San Luis Potosí,047,Villa de Guadalupe,23.3737601,-100.7586851
+24,San Luis Potosí,048,Villa de la Paz,23.6748574,-100.7120926
+24,San Luis Potosí,049,Villa de Ramos,22.8382209,-101.9209981
+24,San Luis Potosí,050,Villa de Reyes,21.8058423,-100.9324541
+24,San Luis Potosí,051,Villa Hidalgo,22.4483798,-100.6791799
+24,San Luis Potosí,052,Villa Juárez,22.3229307,-100.2695332
+24,San Luis Potosí,053,Axtla de Terrazas,21.4393359,-98.8721186
+24,San Luis Potosí,054,Xilitla,21.3841719,-98.9921748
+24,San Luis Potosí,055,Zaragoza,22.0361034,-100.730826
+24,San Luis Potosí,056,Villa de Arista,22.6466309,-100.8479688
+24,San Luis Potosí,057,Matlapa,21.3371579,-98.8276727
+24,San Luis Potosí,058,El Naranjo,22.5219072,-99.325362
+25,Sinaloa,001,Ahome,25.7904061,-108.9917304
+25,Sinaloa,002,Angostura,25.3661316,-108.1606778
+25,Sinaloa,003,Badiraguato,25.3632904,-107.5524759
+25,Sinaloa,004,Concordia,23.2878474,-106.0656084
+25,Sinaloa,005,Cosalá,24.4128539,-106.6861181
+25,Sinaloa,006,Culiacán,24.8090649,-107.3940117
+25,Sinaloa,007,Choix,26.7093439,-108.3256753
+25,Sinaloa,008,Elota,23.9240838,-106.8909217
+25,Sinaloa,009,Escuinapa,22.8337871,-105.7761522
+25,Sinaloa,010,El Fuerte,26.417632,-108.6145938
+25,Sinaloa,011,Guasave,25.5698597,-108.4728349
+25,Sinaloa,012,Mazatlán,23.2266877,-106.4076183
+25,Sinaloa,013,Mocorito,25.4816712,-107.9153044
+25,Sinaloa,014,Rosario,22.9922507,-105.8554774
+25,Sinaloa,015,Salvador Alvarado,25.4606326,-108.0785167
+25,Sinaloa,016,San Ignacio,23.9420772,-106.4254697
+25,Sinaloa,017,Sinaloa,25.8239867,-108.2247961
+25,Sinaloa,018,Navolato,24.7683109,-107.6973041
+26,Sonora,001,Aconchi,29.8233052,-110.2251401
+26,Sonora,002,Agua Prieta,31.3220849,-109.5413163
+26,Sonora,003,Alamos,27.0254869,-108.941309
+26,Sonora,004,Altar,30.714148,-111.8354941
+26,Sonora,005,Arivechi,28.9288602,-109.1870189
+26,Sonora,006,Arizpe,30.3379282,-110.1671262
+26,Sonora,007,Atil,30.8447117,-111.5827386
+26,Sonora,008,Bacadéhuachi,29.8094762,-109.1407084
+26,Sonora,009,Bacanora,28.9814594,-109.4000888
+26,Sonora,010,Bacerac,30.3550527,-108.9311074
+26,Sonora,011,Bacoachi,30.6315554,-109.9683916
+26,Sonora,012,Bácum,27.5504748,-110.0821886
+26,Sonora,013,Banámichi,30.0093697,-110.2133766
+26,Sonora,014,Baviácora,29.7127364,-110.1614936
+26,Sonora,015,Bavispe,30.4800084,-108.9404979
+26,Sonora,016,Benjamín Hill,30.1704706,-111.1101249
+26,Sonora,017,Caborca,30.6954438,-112.1835004
+26,Sonora,018,Cajeme,27.4934041,-109.940064
+26,Sonora,019,Cananea,30.9897648,-110.289179
+26,Sonora,020,Carbó,29.6836999,-110.957509
+26,Sonora,021,La Colorada,28.8039989,-110.580187
+26,Sonora,022,Cucurpe,30.3311239,-110.7058814
+26,Sonora,023,Cumpas,29.9947542,-109.7803104
+26,Sonora,024,Divisaderos,29.6143127,-109.4706369
+26,Sonora,025,Empalme,27.9640181,-110.8087055
+26,Sonora,026,Etchojoa,26.9111024,-109.6266144
+26,Sonora,027,Fronteras,30.8965322,-109.5611056
+26,Sonora,028,Granados,29.8611742,-109.3114905
+26,Sonora,029,Guaymas,27.9178651,-110.9089378
+26,Sonora,030,Hermosillo,29.0729673,-110.9559192
+26,Sonora,031,Huachinera,30.2082838,-108.9606414
+26,Sonora,032,Huásabas,29.9071857,-109.2999051
+26,Sonora,033,Huatabampo,26.8271492,-109.6418609
+26,Sonora,034,Huépac,29.9108684,-110.2134544
+26,Sonora,035,Imuris,30.7894634,-110.844861
+26,Sonora,036,Magdalena,30.6248514,-110.9714055
+26,Sonora,037,Mazatán,29.0055567,-110.1371821
+26,Sonora,038,Moctezuma,29.8034924,-109.6803106
+26,Sonora,039,Naco,31.3260273,-109.9470019
+26,Sonora,040,Nácori Chico,29.6876999,-108.9807481
+26,Sonora,041,Nacozari de García,30.3753424,-109.6875376
+26,Sonora,042,Navojoa,27.0727573,-109.4437493
+26,Sonora,043,Nogales,31.309879,-110.9324638
+26,Sonora,044,Onavas,28.460643,-109.528757
+26,Sonora,045,Opodepe,29.9261794,-110.6268711
+26,Sonora,046,Oquitoa,30.7431637,-111.7351509
+26,Sonora,047,Pitiquito,30.6780922,-112.0548641
+26,Sonora,048,Puerto Peñasco,31.3268218,-113.5311843
+26,Sonora,049,Quiriego,27.5214527,-109.2546385
+26,Sonora,050,Rayón,29.7131024,-110.5695006
+26,Sonora,051,Rosario,31.3194694,-110.9452211
+26,Sonora,052,Sahuaripa,29.0544254,-109.2333146
+26,Sonora,053,San Felipe de Jesús,29.8587009,-110.2400339
+26,Sonora,054,San Javier,28.5953222,-109.7396733
+26,Sonora,055,San Luis Río Colorado,32.4518877,-114.771711
+26,Sonora,056,San Miguel de Horcasitas,29.4898769,-110.7218061
+26,Sonora,057,San Pedro de la Cueva,29.2870623,-109.7362603
+26,Sonora,058,Santa Ana,30.5398333,-111.1196215
+26,Sonora,059,Santa Cruz,31.2327396,-110.5966985
+26,Sonora,060,Sáric,31.1039842,-111.3788499
+26,Sonora,061,Soyopa,28.7630272,-109.6346496
+26,Sonora,062,Suaqui Grande,28.3953541,-109.8890135
+26,Sonora,063,Tepache,29.5319627,-109.5319284
+26,Sonora,064,Trincheras,30.3968172,-111.5279219
+26,Sonora,065,Tubutama,30.8840282,-111.4626041
+26,Sonora,066,Ures,29.4260093,-110.3859913
+26,Sonora,067,Villa Hidalgo,30.1604829,-109.3205626
+26,Sonora,068,Villa Pesqueira,29.1175799,-109.9664991
+26,Sonora,069,Yécora,28.3715757,-108.9268986
+26,Sonora,070,General Plutarco Elías Calles,31.8630857,-112.8487425
+26,Sonora,071,Benito Juárez,27.1293271,-109.8373798
+26,Sonora,072,San Ignacio Río Muerto,27.4122503,-110.2445002
+27,Tabasco,001,Balancán,17.8081844,-91.5356849
+27,Tabasco,002,Cárdenas,18.0021644,-93.3720566
+27,Tabasco,003,Centla,18.533717,-92.6460407
+27,Tabasco,004,Centro,17.9915076,-92.9344412
+27,Tabasco,005,Comalcalco,18.2611461,-93.2217242
+27,Tabasco,006,Cunduacán,18.0721174,-93.1712534
+27,Tabasco,007,Emiliano Zapata,17.7423257,-91.7637881
+27,Tabasco,008,Huimanguillo,17.8307439,-93.3897441
+27,Tabasco,009,Jalapa,17.7223127,-92.8120625
+27,Tabasco,010,Jalpa de Méndez,18.1760279,-93.0623866
+27,Tabasco,011,Jonuta,18.0878003,-92.1368233
+27,Tabasco,012,Macuspana,17.7606745,-92.5935736
+27,Tabasco,013,Nacajuca,18.1678434,-93.0178221
+27,Tabasco,014,Paraíso,18.4017069,-93.2123127
+27,Tabasco,015,Tacotalpa,17.5919887,-92.8264201
+27,Tabasco,016,Teapa,17.5609321,-92.9519802
+27,Tabasco,017,Tenosique,17.472643,-91.4250264
+28,Tamaulipas,001,Abasolo,24.0593289,-98.3771633
+28,Tamaulipas,002,Aldama,22.923663,-98.0765288
+28,Tamaulipas,003,Altamira,22.4077462,-97.9211555
+28,Tamaulipas,004,Antiguo Morelos,22.5510699,-99.0845186
+28,Tamaulipas,005,Burgos,24.9470967,-98.8004227
+28,Tamaulipas,006,Bustamante,23.4349346,-99.7553221
+28,Tamaulipas,007,Camargo,24.26694,-98.8362755
+28,Tamaulipas,008,Casas,23.7266129,-98.7370292
+28,Tamaulipas,009,Ciudad Madero,22.2768755,-97.8331049
+28,Tamaulipas,010,Cruillas,24.7557555,-98.5369333
+28,Tamaulipas,011,Gómez Farías,23.0303212,-99.1479371
+28,Tamaulipas,012,González,22.8338999,-98.4238131
+28,Tamaulipas,013,Güémez,23.9187134,-99.0055801
+28,Tamaulipas,014,Guerrero,26.5651421,-99.2251794
+28,Tamaulipas,015,Gustavo Díaz Ordaz,26.2238448,-98.5968293
+28,Tamaulipas,016,Hidalgo,26.0509115,-98.2015642
+28,Tamaulipas,017,Jaumave,23.4114324,-99.3793581
+28,Tamaulipas,018,Jiménez,24.219062,-98.4869905
+28,Tamaulipas,019,Llera,23.3167464,-99.025326
+28,Tamaulipas,020,Mainero,24.5595408,-99.6165307
+28,Tamaulipas,021,El Mante,22.522283,-98.791351
+28,Tamaulipas,022,Matamoros,25.8690294,-97.5027376
+28,Tamaulipas,023,Méndez,25.1848602,-98.4403573
+28,Tamaulipas,024,Mier,26.4265448,-99.1511502
+28,Tamaulipas,025,Miguel Alemán,26.1808832,-99.0571089
+28,Tamaulipas,026,Miquihuana,23.5734571,-99.7539955
+28,Tamaulipas,027,Nuevo Laredo,27.4779362,-99.549573
+28,Tamaulipas,028,Nuevo Morelos,22.5357557,-99.2192319
+28,Tamaulipas,029,Ocampo,22.8441008,-99.3362888
+28,Tamaulipas,030,Padilla,24.0472406,-98.9018426
+28,Tamaulipas,031,Palmillas,23.301916,-99.5478784
+28,Tamaulipas,032,Reynosa,26.0508406,-98.2978951
+28,Tamaulipas,033,Río Bravo,25.9860315,-98.0956328
+28,Tamaulipas,034,San Carlos,24.26694,-98.8362755
+28,Tamaulipas,035,San Fernando,24.8419162,-98.1502433
+28,Tamaulipas,036,San Nicolás,24.6926254,-98.8291124
+28,Tamaulipas,037,Soto la Marina,23.7680193,-98.2076282
+28,Tamaulipas,038,Tampico,22.2331041,-97.861099
+28,Tamaulipas,039,Tula,22.9906564,-99.7204805
+28,Tamaulipas,040,Valle Hermoso,25.6683739,-97.8159111
+28,Tamaulipas,041,Victoria,23.7170972,-99.1115331
+28,Tamaulipas,042,Villagrán,24.4703741,-99.490724
+28,Tamaulipas,043,Xicoténcatl,22.9952475,-98.9438542
+29,Tlaxcala,001,Amaxac de Guerrero,19.3527871,-98.1639023
+29,Tlaxcala,002,Apetatitlán de Antonio Carvajal,19.3320799,-98.1964605
+29,Tlaxcala,003,Atlangatepec,19.5319254,-98.209249
+29,Tlaxcala,004,Atltzayanca,19.4286324,-97.7959841
+29,Tlaxcala,005,Apizaco,19.415881,-98.1393179
+29,Tlaxcala,006,Calpulalpan,19.5850377,-98.5666077
+29,Tlaxcala,007,El Carmen Tequexquitla,19.3251486,-97.6526182
+29,Tlaxcala,008,Cuapiaxtla,19.299075,-97.7715529
+29,Tlaxcala,009,Cuaxomulco,19.3557151,-98.0983624
+29,Tlaxcala,010,Chiautempan,19.3125811,-98.191238
+29,Tlaxcala,011,Muñoz de Domingo Arenas,19.4792166,-98.2076689
+29,Tlaxcala,012,Españita,19.4616607,-98.4239434
+29,Tlaxcala,013,Huamantla,19.3184941,-97.9233826
+29,Tlaxcala,014,Hueyotlipan,19.4671573,-98.3459981
+29,Tlaxcala,015,Ixtacuixtla de Mariano Matamoros,19.3278754,-98.3764217
+29,Tlaxcala,016,Ixtenco,19.2523696,-97.8966536
+29,Tlaxcala,017,Mazatecochco de José María Morelos,19.1768317,-98.1882939
+29,Tlaxcala,018,Contla de Juan Cuamatzi,19.3322481,-98.1611703
+29,Tlaxcala,019,Tepetitla de Lardizábal,19.2654499,-98.3788284
+29,Tlaxcala,020,Sanctórum de Lázaro Cárdenas,19.4924332,-98.4690887
+29,Tlaxcala,021,Nanacamilpa de Mariano Arista,19.4949991,-98.5363982
+29,Tlaxcala,022,Acuamanala de Miguel Hidalgo,19.2258298,-98.1980609
+29,Tlaxcala,023,Natívitas,19.2332482,-98.3159589
+29,Tlaxcala,024,Panotla,19.3124375,-98.2732659
+29,Tlaxcala,025,San Pablo del Monte,19.1315845,-98.1611703
+29,Tlaxcala,026,Santa Cruz Tlaxcala,19.3539314,-98.1514914
+29,Tlaxcala,027,Tenancingo,19.1445101,-98.202161
+29,Tlaxcala,028,Teolocholco,19.239659,-98.185762
+29,Tlaxcala,029,Tepeyanco,19.2448882,-98.2336028
+29,Tlaxcala,030,Terrenate,19.4736457,-97.9246809
+29,Tlaxcala,031,Tetla de la Solidaridad,19.441455,-98.0956328
+29,Tlaxcala,032,Tetlatlahuca,19.2333174,-98.2937897
+29,Tlaxcala,033,Tlaxcala,19.3170282,-98.2391276
+29,Tlaxcala,034,Tlaxco,19.61766,-98.1174721
+29,Tlaxcala,035,Tocatlán,19.388624,-98.0219738
+29,Tlaxcala,036,Totolac,19.3256653,-98.2568412
+29,Tlaxcala,037,Ziltlaltépec de Trinidad Sánchez Santos,19.2038774,-97.9082569
+29,Tlaxcala,038,Tzompantepec,19.3736709,-98.0929034
+29,Tlaxcala,039,Xaloztoc,19.4079657,-98.051974
+29,Tlaxcala,040,Xaltocan,19.4256555,-98.2171967
+29,Tlaxcala,041,Papalotla de Xicohténcatl,19.1650977,-98.2141154
+29,Tlaxcala,042,Xicohtzinco,19.1753697,-98.2377049
+29,Tlaxcala,043,Yauhquemehcan,19.4139157,-98.1830291
+29,Tlaxcala,044,Zacatelco,19.1984792,-98.2486449
+29,Tlaxcala,045,Benito Juárez,19.5849129,-98.4282811
+29,Tlaxcala,046,Emiliano Zapata,19.5575919,-97.9164166
+29,Tlaxcala,047,Lázaro Cárdenas,19.5385014,-97.9841676
+29,Tlaxcala,048,La Magdalena Tlaltelulco,19.2771521,-98.1952357
+29,Tlaxcala,049,San Damián Texóloc,19.2765324,-98.2842112
+29,Tlaxcala,050,San Francisco Tetlanohcan,19.2609269,-98.1720989
+29,Tlaxcala,051,San Jerónimo Zacualpan,19.2421134,-98.2616131
+29,Tlaxcala,052,San José Teacalco,19.3367829,-98.0631716
+29,Tlaxcala,053,San Juan Huactzinco,19.2367106,-98.2513802
+29,Tlaxcala,054,San Lorenzo Axocomanitla,19.2243413,-98.2490377
+29,Tlaxcala,055,San Lucas Tecopilco,19.4864148,-98.2563877
+29,Tlaxcala,056,Santa Ana Nopalucan,19.2978928,-98.3334851
+29,Tlaxcala,057,Santa Apolonia Teacalco,19.2442482,-98.3129504
+29,Tlaxcala,058,Santa Catarina Ayometla,19.1968806,-98.2185637
+29,Tlaxcala,059,Santa Cruz Quilehtla,19.2143378,-98.2240321
+29,Tlaxcala,060,Santa Isabel Xiloxoxtla,19.2622855,-98.2076282
+30,Veracruz de Ignacio de la Llave,001,Acajete,19.5865279,-97.0101981
+30,Veracruz de Ignacio de la Llave,002,Acatlán,19.6963767,-96.8417564
+30,Veracruz de Ignacio de la Llave,003,Acayucan,17.949192,-94.9145974
+30,Veracruz de Ignacio de la Llave,004,Actopan,19.5044716,-96.6157097
+30,Veracruz de Ignacio de la Llave,005,Acula,18.5068542,-95.7739396
+30,Veracruz de Ignacio de la Llave,006,Acultzingo,18.7157218,-97.3057581
+30,Veracruz de Ignacio de la Llave,007,Camarón de Tejeda,19.0211427,-96.6151736
+30,Veracruz de Ignacio de la Llave,008,Alpatláhuac,19.1190496,-97.0922044
+30,Veracruz de Ignacio de la Llave,009,Alto Lucero de Gutiérrez Barrios,19.6242712,-96.7343456
+30,Veracruz de Ignacio de la Llave,010,Altotonga,19.7661213,-97.2455952
+30,Veracruz de Ignacio de la Llave,011,Alvarado,18.7696195,-95.758949
+30,Veracruz de Ignacio de la Llave,012,Amatitlán,18.4300719,-95.7315634
+30,Veracruz de Ignacio de la Llave,013,Naranjos Amatlán,21.3574805,-97.6858197
+30,Veracruz de Ignacio de la Llave,014,Amatlán de los Reyes,18.8426748,-96.9182301
+30,Veracruz de Ignacio de la Llave,015,Angel R. Cabada,18.5955565,-95.4437122
+30,Veracruz de Ignacio de la Llave,016,La Antigua,19.371051,-96.3764955
+30,Veracruz de Ignacio de la Llave,017,Apazapan,19.3183012,-96.7173844
+30,Veracruz de Ignacio de la Llave,018,Aquila,18.796185,-97.3067767
+30,Veracruz de Ignacio de la Llave,019,Astacinga,18.5656934,-97.1009034
+30,Veracruz de Ignacio de la Llave,020,Atlahuilco,18.6971919,-97.0906754
+30,Veracruz de Ignacio de la Llave,021,Atoyac,18.9128113,-96.7788461
+30,Veracruz de Ignacio de la Llave,022,Atzacan,18.9073166,-97.0848063
+30,Veracruz de Ignacio de la Llave,023,Atzalan,19.7869499,-97.2428194
+30,Veracruz de Ignacio de la Llave,024,Tlaltetela,19.3131607,-96.9057619
+30,Veracruz de Ignacio de la Llave,025,Ayahualulco,19.3512381,-97.1484386
+30,Veracruz de Ignacio de la Llave,026,Banderilla,19.5904482,-96.9442657
+30,Veracruz de Ignacio de la Llave,027,Benito Juárez,18.7077839,-96.0260085
+30,Veracruz de Ignacio de la Llave,028,Boca del Río,19.1034577,-96.1037076
+30,Veracruz de Ignacio de la Llave,029,Calcahualco,19.1211157,-97.0844854
+30,Veracruz de Ignacio de la Llave,030,Camerino Z. Mendoza,18.8042861,-97.1846289
+30,Veracruz de Ignacio de la Llave,031,Carrillo Puerto,18.7995885,-96.5706958
+30,Veracruz de Ignacio de la Llave,032,Catemaco,18.4212281,-95.112832
+30,Veracruz de Ignacio de la Llave,033,Cazones de Herrera,20.7232299,-97.3135301
+30,Veracruz de Ignacio de la Llave,034,Cerro Azul,21.1843885,-97.7471025
+30,Veracruz de Ignacio de la Llave,035,Citlaltépetl,21.3302146,-97.8783614
+30,Veracruz de Ignacio de la Llave,036,Coacoatzintla,19.6535514,-96.9464976
+30,Veracruz de Ignacio de la Llave,037,Coahuitlán,20.2613516,-97.7297559
+30,Veracruz de Ignacio de la Llave,038,Coatepec,19.451938,-96.9594511
+30,Veracruz de Ignacio de la Llave,039,Coatzacoalcos,18.1344779,-94.4589858
+30,Veracruz de Ignacio de la Llave,040,Coatzintla,20.4832022,-97.4662104
+30,Veracruz de Ignacio de la Llave,041,Coetzala,18.7838029,-96.9183419
+30,Veracruz de Ignacio de la Llave,042,Colipa,19.9236688,-96.7279479
+30,Veracruz de Ignacio de la Llave,043,Comapa,19.1667473,-96.8856442
+30,Veracruz de Ignacio de la Llave,044,Córdoba,18.8838909,-96.9237751
+30,Veracruz de Ignacio de la Llave,045,Cosamaloapan de Carpio,18.3663192,-95.7958363
+30,Veracruz de Ignacio de la Llave,046,Cosautlán de Carvajal,19.3317339,-96.9908156
+30,Veracruz de Ignacio de la Llave,047,Coscomatepec,19.0683148,-97.0471556
+30,Veracruz de Ignacio de la Llave,048,Cosoleacaque,17.9956998,-94.6372866
+30,Veracruz de Ignacio de la Llave,049,Cotaxtla,18.8354263,-96.396423
+30,Veracruz de Ignacio de la Llave,050,Coxquihui,20.1836474,-97.5851864
+30,Veracruz de Ignacio de la Llave,051,Coyutla,20.266336,-97.644332
+30,Veracruz de Ignacio de la Llave,052,Cuichapa,18.7727424,-96.8685897
+30,Veracruz de Ignacio de la Llave,053,Cuitláhuac,18.8142666,-96.7253164
+30,Veracruz de Ignacio de la Llave,054,Chacaltianguis,18.3057392,-95.8411321
+30,Veracruz de Ignacio de la Llave,055,Chalma,21.2090244,-98.3962382
+30,Veracruz de Ignacio de la Llave,056,Chiconamel,21.2306934,-98.4618829
+30,Veracruz de Ignacio de la Llave,057,Chiconquiaco,19.7433384,-96.8181529
+30,Veracruz de Ignacio de la Llave,058,Chicontepec,20.9710009,-98.1730481
+30,Veracruz de Ignacio de la Llave,059,Chinameca,18.0183579,-94.678624
+30,Veracruz de Ignacio de la Llave,060,Chinampa de Gorostiza,21.3589322,-97.7347309
+30,Veracruz de Ignacio de la Llave,061,Las Choapas,17.9156728,-94.0930369
+30,Veracruz de Ignacio de la Llave,062,Chocamán,19.0111884,-97.0304426
+30,Veracruz de Ignacio de la Llave,063,Chontla,21.2940777,-97.9227016
+30,Veracruz de Ignacio de la Llave,064,Chumatlán,20.2082739,-97.5941269
+30,Veracruz de Ignacio de la Llave,065,Emiliano Zapata,18.7048541,-96.0221906
+30,Veracruz de Ignacio de la Llave,066,Espinal,20.2588917,-97.4011206
+30,Veracruz de Ignacio de la Llave,067,Filomeno Mata,20.199145,-97.7050134
+30,Veracruz de Ignacio de la Llave,068,Fortín,18.9055288,-97.0007976
+30,Veracruz de Ignacio de la Llave,069,Gutiérrez Zamora,20.4516232,-97.0901867
+30,Veracruz de Ignacio de la Llave,070,Hidalgotitlán,17.7696749,-94.6463236
+30,Veracruz de Ignacio de la Llave,071,Huatusco,19.1482351,-96.9665476
+30,Veracruz de Ignacio de la Llave,072,Huayacocotla,20.5374482,-98.4760154
+30,Veracruz de Ignacio de la Llave,073,Hueyapan de Ocampo,18.1490044,-95.1434096
+30,Veracruz de Ignacio de la Llave,074,Huiloapan de Cuauhtémoc,18.8175606,-97.153439
+30,Veracruz de Ignacio de la Llave,075,Ignacio de la Llave,18.7253172,-95.9864296
+30,Veracruz de Ignacio de la Llave,076,Ilamatlán,20.7806817,-98.4437853
+30,Veracruz de Ignacio de la Llave,077,Isla,18.028804,-95.528063
+30,Veracruz de Ignacio de la Llave,078,Ixcatepec,21.2414647,-98.0116809
+30,Veracruz de Ignacio de la Llave,079,Ixhuacán de los Reyes,19.3563687,-97.1175647
+30,Veracruz de Ignacio de la Llave,080,Ixhuatlán del Café,19.0509357,-96.9841735
+30,Veracruz de Ignacio de la Llave,081,Ixhuatlancillo,18.8958232,-97.1490999
+30,Veracruz de Ignacio de la Llave,082,Ixhuatlán del Sureste,18.0234486,-94.392561
+30,Veracruz de Ignacio de la Llave,083,Ixhuatlán de Madero,20.6852535,-98.0124308
+30,Veracruz de Ignacio de la Llave,084,Ixmatlahuacan,18.4481547,-95.8296236
+30,Veracruz de Ignacio de la Llave,085,Ixtaczoquitlán,18.8608694,-97.063289
+30,Veracruz de Ignacio de la Llave,086,Jalacingo,19.8063909,-97.3030592
+30,Veracruz de Ignacio de la Llave,087,Xalapa,19.5437751,-96.9101806
+30,Veracruz de Ignacio de la Llave,088,Jalcomulco,19.3332023,-96.7620557
+30,Veracruz de Ignacio de la Llave,089,Jáltipan,17.9613879,-94.7122337
+30,Veracruz de Ignacio de la Llave,090,Jamapa,19.0413259,-96.2412317
+30,Veracruz de Ignacio de la Llave,091,Jesús Carranza,17.4373732,-95.031787
+30,Veracruz de Ignacio de la Llave,092,Xico,19.4247826,-97.0041525
+30,Veracruz de Ignacio de la Llave,093,Jilotepec,19.6110902,-96.9512634
+30,Veracruz de Ignacio de la Llave,094,Juan Rodríguez Clara,17.9936978,-95.4018087
+30,Veracruz de Ignacio de la Llave,095,Juchique de Ferrer,19.8390439,-96.6941954
+30,Veracruz de Ignacio de la Llave,096,Landero y Coss,19.7344694,-96.8500779
+30,Veracruz de Ignacio de la Llave,097,Lerdo de Tejada,18.6295662,-95.5205013
+30,Veracruz de Ignacio de la Llave,098,Magdalena,18.7579049,-97.0477301
+30,Veracruz de Ignacio de la Llave,099,Maltrata,18.8145077,-97.2706807
+30,Veracruz de Ignacio de la Llave,100,Manlio Fabio Altamirano,19.0940512,-96.3325791
+30,Veracruz de Ignacio de la Llave,101,Mariano Escobedo,18.9125659,-97.1307689
+30,Veracruz de Ignacio de la Llave,102,Martínez de la Torre,20.0615132,-97.0545256
+30,Veracruz de Ignacio de la Llave,103,Mecatlán,20.2103896,-97.6812498
+30,Veracruz de Ignacio de la Llave,104,Mecayapan,18.2210334,-94.8382679
+30,Veracruz de Ignacio de la Llave,105,Medellín de Bravo,19.0598584,-96.158891
+30,Veracruz de Ignacio de la Llave,106,Miahuatlán,19.7080994,-96.8699481
+30,Veracruz de Ignacio de la Llave,107,Las Minas,19.6906698,-97.146034
+30,Veracruz de Ignacio de la Llave,108,Minatitlán,17.995593,-94.5489117
+30,Veracruz de Ignacio de la Llave,109,Misantla,19.933042,-96.8513362
+30,Veracruz de Ignacio de la Llave,110,Mixtla de Altamirano,18.5955238,-96.9927344
+30,Veracruz de Ignacio de la Llave,111,Moloacán,17.9868662,-94.346517
+30,Veracruz de Ignacio de la Llave,112,Naolinco,19.6548167,-96.8699481
+30,Veracruz de Ignacio de la Llave,113,Naranjal,18.8120237,-96.9636654
+30,Veracruz de Ignacio de la Llave,114,Nautla,20.2066604,-96.7729224
+30,Veracruz de Ignacio de la Llave,115,Nogales,18.8210855,-97.1649146
+30,Veracruz de Ignacio de la Llave,116,Oluta,17.9302621,-94.8961574
+30,Veracruz de Ignacio de la Llave,117,Omealca,18.7456104,-96.7855404
+30,Veracruz de Ignacio de la Llave,118,Orizaba,18.8504744,-97.1036396
+30,Veracruz de Ignacio de la Llave,119,Otatitlán,18.1810699,-96.034393
+30,Veracruz de Ignacio de la Llave,120,Oteapan,17.9978524,-94.6708709
+30,Veracruz de Ignacio de la Llave,121,Ozuluama de Mascareñas,21.659121,-97.851196
+30,Veracruz de Ignacio de la Llave,122,Pajapan,18.2623721,-94.6921311
+30,Veracruz de Ignacio de la Llave,123,Pánuco,22.0535642,-98.1820596
+30,Veracruz de Ignacio de la Llave,124,Papantla,20.4566709,-97.3156131
+30,Veracruz de Ignacio de la Llave,125,Paso del Macho,18.9713399,-96.7229403
+30,Veracruz de Ignacio de la Llave,126,Paso de Ovejas,19.2858985,-96.4370254
+30,Veracruz de Ignacio de la Llave,127,La Perla,18.9282985,-97.1333457
+30,Veracruz de Ignacio de la Llave,128,Perote,19.5572354,-97.2464071
+30,Veracruz de Ignacio de la Llave,129,Platón Sánchez,21.2755871,-98.3773116
+30,Veracruz de Ignacio de la Llave,130,Playa Vicente,17.8304345,-95.8131635
+30,Veracruz de Ignacio de la Llave,131,Poza Rica de Hidalgo,20.5270592,-97.4629119
+30,Veracruz de Ignacio de la Llave,132,Las Vigas de Ramírez,19.639723,-97.1063305
+30,Veracruz de Ignacio de la Llave,133,Pueblo Viejo,22.1812399,-97.8348921
+30,Veracruz de Ignacio de la Llave,134,Puente Nacional,19.3297104,-96.4825459
+30,Veracruz de Ignacio de la Llave,135,Rafael Delgado,18.8103505,-97.0721131
+30,Veracruz de Ignacio de la Llave,136,Rafael Lucio,19.5925137,-96.9893766
+30,Veracruz de Ignacio de la Llave,137,Los Reyes,18.6730869,-97.0457357
+30,Veracruz de Ignacio de la Llave,138,Río Blanco,18.838201,-97.139753
+30,Veracruz de Ignacio de la Llave,139,Saltabarranca,18.5915271,-95.5315457
+30,Veracruz de Ignacio de la Llave,140,San Andrés Tenejapan,18.7882037,-97.0930049
+30,Veracruz de Ignacio de la Llave,141,San Andrés Tuxtla,18.4441222,-95.2130284
+30,Veracruz de Ignacio de la Llave,142,San Juan Evangelista,17.8872074,-95.1386742
+30,Veracruz de Ignacio de la Llave,143,Santiago Tuxtla,18.4634757,-95.3024094
+30,Veracruz de Ignacio de la Llave,144,Sayula de Alemán,17.8814242,-94.9584672
+30,Veracruz de Ignacio de la Llave,145,Soconusco,17.9629899,-94.8807526
+30,Veracruz de Ignacio de la Llave,146,Sochiapa,19.1920119,-96.9377269
+30,Veracruz de Ignacio de la Llave,147,Soledad Atzompa,18.7546712,-97.1514866
+30,Veracruz de Ignacio de la Llave,148,Soledad de Doblado,19.0502406,-96.4247279
+30,Veracruz de Ignacio de la Llave,149,Soteapan,18.2296099,-94.8718929
+30,Veracruz de Ignacio de la Llave,150,Tamalín,21.3393085,-97.8123291
+30,Veracruz de Ignacio de la Llave,151,Tamiahua,21.2786097,-97.4469247
+30,Veracruz de Ignacio de la Llave,152,Tampico Alto,22.1114627,-97.8011454
+30,Veracruz de Ignacio de la Llave,153,Tancoco,21.2861824,-97.7904194
+30,Veracruz de Ignacio de la Llave,154,Tantima,21.3353717,-97.8329071
+30,Veracruz de Ignacio de la Llave,155,Tantoyuca,21.3510619,-98.2267665
+30,Veracruz de Ignacio de la Llave,156,Tatatila,19.6935276,-97.1117759
+30,Veracruz de Ignacio de la Llave,157,Castillo de Teayo,20.7493289,-97.6311614
+30,Veracruz de Ignacio de la Llave,158,Tecolutla,20.4795519,-97.0101271
+30,Veracruz de Ignacio de la Llave,159,Tehuipango,18.5179939,-97.0543746
+30,Veracruz de Ignacio de la Llave,160,Álamo Temapache,20.9064323,-97.6738023
+30,Veracruz de Ignacio de la Llave,161,Tempoal,21.5234878,-98.3882723
+30,Veracruz de Ignacio de la Llave,162,Tenampa,19.2484041,-96.8842546
+30,Veracruz de Ignacio de la Llave,163,Tenochtitlán,19.810158,-96.9157928
+30,Veracruz de Ignacio de la Llave,164,Teocelo,19.3846086,-96.9719184
+30,Veracruz de Ignacio de la Llave,165,Tepatlaxco,19.0681049,-96.8447351
+30,Veracruz de Ignacio de la Llave,166,Tepetlán,19.6734024,-96.7974339
+30,Veracruz de Ignacio de la Llave,167,Tepetzintla,21.1634645,-97.8525305
+30,Veracruz de Ignacio de la Llave,168,Tequila,18.7295682,-97.0711071
+30,Veracruz de Ignacio de la Llave,169,José Azueta,18.6711343,-95.9896086
+30,Veracruz de Ignacio de la Llave,170,Texcatepec,20.5850081,-98.3642979
+30,Veracruz de Ignacio de la Llave,171,Texhuacán,18.6192382,-97.0383056
+30,Veracruz de Ignacio de la Llave,172,Texistepec,17.8948949,-94.817019
+30,Veracruz de Ignacio de la Llave,173,Tezonapa,18.6062587,-96.6844362
+30,Veracruz de Ignacio de la Llave,174,Tierra Blanca,18.4458276,-96.3598367
+30,Veracruz de Ignacio de la Llave,175,Tihuatlán,20.7218454,-97.5395019
+30,Veracruz de Ignacio de la Llave,176,Tlacojalpan,18.2289654,-95.9420091
+30,Veracruz de Ignacio de la Llave,177,Tlacolulan,19.6656362,-97.0029169
+30,Veracruz de Ignacio de la Llave,178,Tlacotalpan,18.61092,-95.655968
+30,Veracruz de Ignacio de la Llave,179,Tlacotepec de Mejía,19.1883809,-96.8369969
+30,Veracruz de Ignacio de la Llave,180,Tlachichilco,20.6201983,-98.2007943
+30,Veracruz de Ignacio de la Llave,181,Tlalixcoyan,18.8029737,-96.0613009
+30,Veracruz de Ignacio de la Llave,182,Tlalnelhuayocan,19.564197,-96.9739106
+30,Veracruz de Ignacio de la Llave,183,Tlapacoyan,19.9609426,-97.2140557
+30,Veracruz de Ignacio de la Llave,184,Tlaquilpa,18.6096147,-97.1181071
+30,Veracruz de Ignacio de la Llave,185,Tlilapan,18.8053094,-97.0978119
+30,Veracruz de Ignacio de la Llave,186,Tomatlán,19.0293354,-97.0094971
+30,Veracruz de Ignacio de la Llave,187,Tonayán,19.6837183,-96.9209352
+30,Veracruz de Ignacio de la Llave,188,Totutla,19.2108072,-96.9617379
+30,Veracruz de Ignacio de la Llave,189,Tuxpan,20.9561149,-97.4063351
+30,Veracruz de Ignacio de la Llave,190,Tuxtilla,18.2390024,-95.8938701
+30,Veracruz de Ignacio de la Llave,191,Ursulo Galván,19.4054894,-96.3611668
+30,Veracruz de Ignacio de la Llave,192,Vega de Alatorre,20.0303447,-96.6504493
+30,Veracruz de Ignacio de la Llave,193,Veracruz,19.173773,-96.1342241
+30,Veracruz de Ignacio de la Llave,194,Villa Aldama,19.6505784,-97.2208931
+30,Veracruz de Ignacio de la Llave,195,Xoxocotla,18.6474989,-97.1525334
+30,Veracruz de Ignacio de la Llave,196,Yanga,18.8292825,-96.8002704
+30,Veracruz de Ignacio de la Llave,197,Yecuatla,19.8644702,-96.7753986
+30,Veracruz de Ignacio de la Llave,198,Zacualpan,20.43292,-98.3458087
+30,Veracruz de Ignacio de la Llave,199,Zaragoza,18.7250023,-95.9878201
+30,Veracruz de Ignacio de la Llave,200,Zentla,19.1156426,-96.8595888
+30,Veracruz de Ignacio de la Llave,201,Zongolica,18.6668459,-97.0001223
+30,Veracruz de Ignacio de la Llave,202,Zontecomatlán de López y Fuentes,20.7616342,-98.3438245
+30,Veracruz de Ignacio de la Llave,203,Zozocolco de Hidalgo,20.1400074,-97.5750164
+30,Veracruz de Ignacio de la Llave,204,Agua Dulce,18.1426611,-94.1435302
+30,Veracruz de Ignacio de la Llave,205,El Higo,21.7745042,-98.45407
+30,Veracruz de Ignacio de la Llave,206,Nanchital de Lázaro Cárdenas del Río,18.0714601,-94.4082953
+30,Veracruz de Ignacio de la Llave,207,Tres Valles,18.2376942,-96.1368511
+30,Veracruz de Ignacio de la Llave,208,Carlos A. Carrillo,18.3733464,-95.758949
+30,Veracruz de Ignacio de la Llave,209,Tatahuicapan de Juárez,18.2454426,-94.7610077
+30,Veracruz de Ignacio de la Llave,210,Uxpanapa,17.2097197,-94.201305
+30,Veracruz de Ignacio de la Llave,211,San Rafael,20.1878547,-96.8699481
+30,Veracruz de Ignacio de la Llave,212,Santiago Sochiapan,17.6640992,-95.7348775
+31,Yucatán,001,Abalá,20.6473039,-89.6814245
+31,Yucatán,002,Acanceh,20.8126938,-89.4505802
+31,Yucatán,003,Akil,20.2634184,-89.3475299
+31,Yucatán,004,Baca,21.1085657,-89.3990791
+31,Yucatán,005,Bokobá,21.007078,-89.1794421
+31,Yucatán,006,Buctzotz,21.202193,-88.7941819
+31,Yucatán,007,Cacalchén,20.9816979,-89.225325
+31,Yucatán,008,Calotmul,21.0220349,-88.1787626
+31,Yucatán,009,Cansahcab,21.157133,-89.1023564
+31,Yucatán,010,Cantamayec,20.4704659,-89.0814304
+31,Yucatán,011,Celestún,20.8593042,-90.3972052
+31,Yucatán,012,Cenotillo,20.9666602,-88.6046369
+31,Yucatán,013,Conkal,21.0749983,-89.5195181
+31,Yucatán,014,Cuncunul,20.6412,-88.2962944
+31,Yucatán,015,Cuzamá,20.7419734,-89.3163227
+31,Yucatán,016,Chacsinkín,20.1714254,-89.0178394
+31,Yucatán,017,Chankom,20.5678427,-88.5126554
+31,Yucatán,018,Chapab,20.4582672,-89.4569361
+31,Yucatán,019,Chemax,20.6564494,-87.9360261
+31,Yucatán,020,Chicxulub Pueblo,21.1357932,-89.5166673
+31,Yucatán,021,Chichimilá,20.631865,-88.2167125
+31,Yucatán,022,Chikindzonot,20.3346868,-88.4873574
+31,Yucatán,023,Chocholá,20.7503659,-89.8298102
+31,Yucatán,024,Chumayel,20.4326324,-89.3015554
+31,Yucatán,025,Dzán,20.3883694,-89.4690926
+31,Yucatán,026,Dzemul,21.2095236,-89.3094816
+31,Yucatán,027,Dzidzantún,21.2482049,-89.0421957
+31,Yucatán,028,Dzilam de Bravo,21.3930391,-88.8916342
+31,Yucatán,029,Dzilam González,21.2801771,-88.9288457
+31,Yucatán,030,Dzitás,20.8389129,-88.5284246
+31,Yucatán,031,Dzoncauich,21.1273294,-88.891163
+31,Yucatán,032,Espita,21.0088579,-88.3060611
+31,Yucatán,033,Halachó,20.4798167,-90.0793488
+31,Yucatán,034,Hocabá,20.8140314,-89.2469459
+31,Yucatán,035,Hoctún,20.8683414,-89.2015405
+31,Yucatán,036,Homún,20.7386777,-89.2847787
+31,Yucatán,037,Huhí,20.7248247,-89.1621701
+31,Yucatán,038,Hunucmá,21.016318,-89.8772303
+31,Yucatán,039,Ixil,21.1523747,-89.4818193
+31,Yucatán,040,Izamal,20.9299997,-89.0227126
+31,Yucatán,041,Kanasín,20.9441486,-89.5639119
+31,Yucatán,042,Kantunil,20.7958702,-89.0358869
+31,Yucatán,043,Kaua,20.6224302,-88.4145749
+31,Yucatán,044,Kinchil,20.9169529,-89.9476806
+31,Yucatán,045,Kopomá,20.6475774,-89.9001694
+31,Yucatán,046,Mama,20.4774753,-89.3646331
+31,Yucatán,047,Maní,20.3930712,-89.3917555
+31,Yucatán,048,Maxcanú,20.5870954,-90.004663
+31,Yucatán,049,Mayapán,20.4680356,-89.2134279
+31,Yucatán,050,Mérida,20.9673702,-89.5925857
+31,Yucatán,051,Mocochá,21.1059268,-89.4521864
+31,Yucatán,052,Motul,21.098173,-89.2799763
+31,Yucatán,053,Muna,20.4849154,-89.7130643
+31,Yucatán,054,Muxupip,21.0440536,-89.3286315
+31,Yucatán,055,Opichén,20.5500929,-89.8573759
+31,Yucatán,056,Oxkutzcab,20.3010922,-89.4186014
+31,Yucatán,057,Panabá,21.297074,-88.2701214
+31,Yucatán,058,Peto,20.1262672,-88.9228321
+31,Yucatán,059,Progreso,21.2811908,-89.6651628
+31,Yucatán,060,Quintana Roo,20.8697122,-88.6312283
+31,Yucatán,061,Río Lagartos,21.5964824,-88.1578978
+31,Yucatán,062,Sacalum,20.4960042,-89.5901964
+31,Yucatán,063,Samahil,20.8831508,-89.8890512
+31,Yucatán,064,Sanahcat,20.7692358,-89.2113876
+31,Yucatán,065,San Felipe,21.5664747,-88.2332792
+31,Yucatán,066,Santa Elena,20.3275384,-89.6436316
+31,Yucatán,067,Seyé,20.8362766,-89.3748459
+31,Yucatán,068,Sinanché,21.2254538,-89.1851141
+31,Yucatán,069,Sotuta,20.5971484,-89.0081646
+31,Yucatán,070,Sucilá,21.1566315,-88.3146885
+31,Yucatán,071,Sudzal,20.8705937,-88.9889259
+31,Yucatán,072,Suma,21.0864998,-89.1473008
+31,Yucatán,073,Tahdziú,20.2011288,-88.9425836
+31,Yucatán,074,Tahmek,20.8748222,-89.2558994
+31,Yucatán,075,Teabo,20.4031442,-89.2842216
+31,Yucatán,076,Tecoh,20.7442201,-89.4718546
+31,Yucatán,077,Tekal de Venegas,21.0134607,-88.9470839
+31,Yucatán,078,Tekantó,21.0117689,-89.1068378
+31,Yucatán,079,Tekax,20.2119444,-89.2763888
+31,Yucatán,080,Tekit,20.5351737,-89.3345537
+31,Yucatán,081,Tekom,20.6027671,-88.2642307
+31,Yucatán,082,Telchac Pueblo,21.2036748,-89.2725174
+31,Yucatán,083,Telchac Puerto,21.3419002,-89.2636045
+31,Yucatán,084,Temax,21.1518254,-88.9391713
+31,Yucatán,085,Temozón,20.8011973,-88.1998512
+31,Yucatán,086,Tepakán,21.0483137,-89.0392181
+31,Yucatán,087,Tetiz,20.9626882,-89.9345214
+31,Yucatán,088,Teya,21.0508574,-89.0738791
+31,Yucatán,089,Ticul,20.3977696,-89.5366458
+31,Yucatán,090,Timucuy,20.8112512,-89.5102056
+31,Yucatán,091,Tinum,20.7664782,-88.3920119
+31,Yucatán,092,Tixcacalcupul,20.5366574,-88.2699836
+31,Yucatán,093,Tixkokob,21.0032395,-89.393793
+31,Yucatán,094,Tixmehuac,20.2360837,-89.1085529
+31,Yucatán,095,Tixpéhual,20.9773657,-89.4403034
+31,Yucatán,096,Tizimín,21.1454686,-88.1496087
+31,Yucatán,097,Tunkás,20.9009914,-88.7513026
+31,Yucatán,098,Tzucacab,20.0715949,-89.0495866
+31,Yucatán,099,Uayma,20.7167384,-88.3166691
+31,Yucatán,100,Ucú,21.0311039,-89.7441766
+31,Yucatán,101,Umán,20.8878393,-89.7480635
+31,Yucatán,102,Valladolid,20.6895025,-88.2011159
+31,Yucatán,103,Xocchel,20.8337189,-89.1829511
+31,Yucatán,104,Yaxcabá,20.5478862,-88.8276919
+31,Yucatán,105,Yaxkukul,21.0624114,-89.4192499
+31,Yucatán,106,Yobaín,21.2335619,-89.1166404
+32,Zacatecas,001,Apozol,21.4664496,-103.0910527
+32,Zacatecas,002,Apulco,21.3878012,-102.6815996
+32,Zacatecas,003,Atolinga,21.8072296,-103.4654111
+32,Zacatecas,004,Benito Juárez,21.5030937,-103.5545942
+32,Zacatecas,005,Calera,22.945942,-102.6997514
+32,Zacatecas,006,Cañitas de Felipe Pescador,23.6046801,-102.72704
+32,Zacatecas,007,Concepción del Oro,24.6145142,-101.4190314
+32,Zacatecas,008,Cuauhtémoc,22.4480318,-102.3485812
+32,Zacatecas,009,Chalchihuites,23.4758302,-103.8809881
+32,Zacatecas,010,Fresnillo,23.1777586,-102.8687414
+32,Zacatecas,011,Trinidad García de la Cadena,21.20833,-103.4656279
+32,Zacatecas,012,Genaro Codina,22.4861621,-102.4589813
+32,Zacatecas,013,General Enrique Estrada,22.9971224,-102.7415466
+32,Zacatecas,014,General Francisco R. Murguía,23.9956171,-103.0179141
+32,Zacatecas,015,El Plateado de Joaquín Amaro,21.9346765,-103.0940375
+32,Zacatecas,016,General Pánfilo Natera,22.6629943,-102.1109018
+32,Zacatecas,017,Guadalupe,22.7541699,-102.5137437
+32,Zacatecas,018,Huanusco,21.7737943,-102.975219
+32,Zacatecas,019,Jalpa,21.637432,-102.9778617
+32,Zacatecas,020,Jerez,22.6468852,-102.9875145
+32,Zacatecas,021,Jiménez del Teul,23.2555197,-103.7960454
+32,Zacatecas,022,Juan Aldama,24.2881746,-103.3991666
+32,Zacatecas,023,Juchipila,21.4121021,-103.1175436
+32,Zacatecas,024,Loreto,22.2715352,-101.9890236
+32,Zacatecas,025,Luis Moya,22.4339108,-102.2462087
+32,Zacatecas,026,Mazapil,24.6378747,-101.5532019
+32,Zacatecas,027,Melchor Ocampo,24.8302442,-101.6416029
+32,Zacatecas,028,Mezquital del Oro,21.2151204,-103.3630608
+32,Zacatecas,029,Miguel Auza,24.2840385,-103.4453969
+32,Zacatecas,030,Momax,21.9233778,-103.3139733
+32,Zacatecas,031,Monte Escobedo,22.3019884,-103.5627736
+32,Zacatecas,032,Morelos,22.8621267,-102.61301
+32,Zacatecas,033,Moyahua de Estrada,21.2647837,-103.1659219
+32,Zacatecas,034,Nochistlán de Mejía,21.3634678,-102.8436668
+32,Zacatecas,035,Noria de Ángeles,22.4420772,-101.9078211
+32,Zacatecas,036,Ojocaliente,22.5706028,-102.2546666
+32,Zacatecas,037,Pánuco,22.877448,-102.5409255
+32,Zacatecas,038,Pinos,22.2963053,-101.5768203
+32,Zacatecas,039,Río Grande,23.8272471,-103.0328135
+32,Zacatecas,040,Sain Alto,23.5818229,-103.2521209
+32,Zacatecas,041,El Salvador,24.5201999,-100.8671019
+32,Zacatecas,042,Sombrerete,23.6342457,-103.6391657
+32,Zacatecas,043,Susticacán,22.6073962,-103.0953471
+32,Zacatecas,044,Tabasco,21.8652626,-102.9130568
+32,Zacatecas,045,Tepechitlán,21.6675468,-103.3257174
+32,Zacatecas,046,Tepetongo,22.4573606,-103.1506355
+32,Zacatecas,047,Teúl de González Ortega,21.4658511,-103.4598473
+32,Zacatecas,048,Tlaltenango de Sánchez Román,21.777077,-103.2980962
+32,Zacatecas,049,Valparaíso,22.7716029,-103.5706316
+32,Zacatecas,050,Vetagrande,22.8340177,-102.5558806
+32,Zacatecas,051,Villa de Cos,23.2943621,-102.3499958
+32,Zacatecas,052,Villa García,22.162602,-101.9547783
+32,Zacatecas,053,Villa González Ortega,22.5117433,-101.9148393
+32,Zacatecas,054,Villa Hidalgo,22.3527207,-101.7146632
+32,Zacatecas,055,Villanueva,22.3538955,-102.8840827
+32,Zacatecas,056,Zacatecas,22.7727913,-102.5765714
+32,Zacatecas,057,Trancoso,22.7383753,-102.3635701
+32,Zacatecas,058,Santa María de la Paz,21.5134024,-103.4082243
