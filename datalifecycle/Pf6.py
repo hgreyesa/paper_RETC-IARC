@@ -30,21 +30,17 @@ for index, row in facilities_data.iterrows():
             facilities_data.at[index,"inmexico"] = True
             print(msj)
 
-            facilities_data.at[index,"cve_ent_coor"] = row2.CVE_ENT
+            facilities_data.at[index,"cve_ent_cc"] = str(row2.CVE_ENT).zfill(2)
             if row2.CVE_ENT == row["cve_ent"]:
-                # print(f"\t\tOK_ENT {index} {row["nombre"]} {row["estado"]}")
                 facilities_data.at[index,"instate"] = True
                 count_instate += 1
                 break
             else:
-                #print(f"\t\tNO_ENT {index} {row["nombre"]} {row["estado"]}")
                 count_outstate += 1
                 break
     if facilities_data.at[index,"inmexico"] == 0:
         count_outmexico += 1
-        #print(f"\tNO_MEX {index} {row["nombre"]} {row["estado"]}")
 
-    #pass
     
 print("RESUMEN:")
 print("\tFacilities records in the RETC:" + str(facilities_records))
