@@ -18,6 +18,8 @@ We include the first two stages for the proposed methodology. The remaining stag
     pip install pandas
     pip install numpy
     pip install pandas[excel]
+    pip install openpyxl
+    pip install unidecode
     python3 p001_transform_to_csv.py
     python3 p002_prepare_columns.py
     ```
@@ -31,10 +33,34 @@ Facilities data life cycle
 1. Acces to the datalifecycle folder
 2. Execute Facilities scripts
 
-    ```
+    ```sh
+    #Rename and order the columns for the 19 csv files
     python3 Pf1.py
+    #Create an unique dataset with the 19 csv files
     python3 Pf2.py
+    #Homogenize the sectors name
+    python3 Pf3.py
+    #Incorporate cve_ent and homogenize states\' names
+    python3 Pf3y4_states.py
+    #Incorporate cve_mun and homogenize municipalities\' names
+    python3 Pf3y4_municipalities.py
+    #Compute DMS to DD format transformation and assign categorical values for metadata
+    python3 Pf5.py
+    #Detect the facilities that its location are in mexico including the cve_ent code
+    python4 Pf6.py
+    #Detect the facilities with location in their municipality name
+    python4 Pf6_mun.py
+    #Replace the latitude and longitude values for the facilities outside mexico for the dafault values asigned by the research team
+    python4 Pf6_maincc_municipality.py
     ```
+
+#### Facilities location previous the Geolocation reasigment
+![Facilities location previous the Geolocation reasigment](./figures/map_beforePf6.png)
+
+
+#### Facilities location after the Geolocation reasigment
+![Facilities location after the Geolocation reasigment](./figures/map_afterPf6.png)
+
 
 ### Pollutant Releases and Transfer Dataset
 
